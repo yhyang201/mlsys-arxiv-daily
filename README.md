@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.15
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2057,7 +2057,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2325,7 +2325,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2607,7 +2607,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## NeRF
 
@@ -4016,12 +4016,18 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## MLSys
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341](http://arxiv.org/abs/2412.10341)|null|
+|**2024-12-13**|**Controlling dynamical systems into unseen target states using machine learning**|Daniel Köglmayr et.al.|[2412.10251](http://arxiv.org/abs/2412.10251)|null|
+|**2024-12-13**|**One Filter to Deploy Them All: Robust Safety for Quadrupedal Navigation in Unknown Environments**|Albert Lin et.al.|[2412.09989](http://arxiv.org/abs/2412.09989)|null|
+|**2024-12-13**|**Analyzing Fairness of Computer Vision and Natural Language Processing Models**|Ahmed Rashed et.al.|[2412.09900](http://arxiv.org/abs/2412.09900)|null|
+|**2024-12-13**|**Analyzing Fairness of Classification Machine Learning Model with Structured Dataset**|Ahmed Rashed et.al.|[2412.09896](http://arxiv.org/abs/2412.09896)|null|
+|**2024-12-13**|**FDM-Bench: A Comprehensive Benchmark for Evaluating Large Language Models in Additive Manufacturing Tasks**|Ahmadreza Eslaminia et.al.|[2412.09819](http://arxiv.org/abs/2412.09819)|**[link](https://github.com/ahmadrezania/fdm-bench)**|
 |**2024-12-12**|**Enhancing Convergence of Decentralized Gradient Tracking under the KL Property**|Xiaokai Chen et.al.|[2412.09556](http://arxiv.org/abs/2412.09556)|null|
 |**2024-12-12**|**A novel ML-fuzzy control system for optimizing PHEV fuel efficiency and extending electric range under diverse driving conditions**|Mehrdad Raeesi et.al.|[2412.09499](http://arxiv.org/abs/2412.09499)|null|
 |**2024-12-12**|**The Parameters of Educability**|Leslie G. Valiant et.al.|[2412.09480](http://arxiv.org/abs/2412.09480)|null|
@@ -4033,7 +4039,7 @@
 |**2024-12-09**|**Tracking control of latent dynamic systems with application to spacecraft attitude control**|Congxi Zhang et.al.|[2412.06342](http://arxiv.org/abs/2412.06342)|null|
 |**2024-12-09**|**Bounded Exploration with World Model Uncertainty in Soft Actor-Critic Reinforcement Learning Algorithm**|Ting Qiao et.al.|[2412.06139](http://arxiv.org/abs/2412.06139)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
