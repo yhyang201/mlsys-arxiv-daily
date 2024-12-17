@@ -4001,6 +4001,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**A Digital twin for Diesel Engines: Operator-infused PINNs with Transfer Learning for Engine Health Monitoring**|Kamaljyoti Nath et.al.|[2412.11967](http://arxiv.org/abs/2412.11967)|null|
+|**2024-12-16**|**Asynchronous Distributed Gaussian Process Regression for Online Learning and Dynamical Systems: Complementary Document**|Zewen Yang et.al.|[2412.11950](http://arxiv.org/abs/2412.11950)|null|
+|**2024-12-16**|**Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization**|Luis Romero-Ben et.al.|[2412.11687](http://arxiv.org/abs/2412.11687)|**[link](https://github.com/luisromeroben/d-ukf-aw-gsi)**|
+|**2024-12-16**|**Capacity of Hierarchical Secure Coded Gradient Aggregation with Straggling Communication Links**|Qinyi Lu et.al.|[2412.11496](http://arxiv.org/abs/2412.11496)|null|
+|**2024-12-16**|**Mining In-distribution Attributes in Outliers for Out-of-distribution Detection**|Yutian Lei et.al.|[2412.11466](http://arxiv.org/abs/2412.11466)|null|
+|**2024-12-14**|**Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks**|Zhiying Wang et.al.|[2412.10700](http://arxiv.org/abs/2412.10700)|null|
+|**2024-12-10**|**Personalized and Sequential Text-to-Image Generation**|Ofir Nabati et.al.|[2412.10419](http://arxiv.org/abs/2412.10419)|null|
 |**2024-12-13**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341](http://arxiv.org/abs/2412.10341)|null|
 |**2024-12-13**|**Controlling dynamical systems into unseen target states using machine learning**|Daniel Köglmayr et.al.|[2412.10251](http://arxiv.org/abs/2412.10251)|null|
 |**2024-12-13**|**One Filter to Deploy Them All: Robust Safety for Quadrupedal Navigation in Unknown Environments**|Albert Lin et.al.|[2412.09989](http://arxiv.org/abs/2412.09989)|null|
@@ -4017,6 +4024,33 @@ layout: default
 |**2024-12-11**|**Quantum-Cognitive Neural Networks: Assessing Confidence and Uncertainty with Human Decision-Making Simulations**|Milan Maksimovic et.al.|[2412.08010](http://arxiv.org/abs/2412.08010)|null|
 |**2024-12-09**|**Tracking control of latent dynamic systems with application to spacecraft attitude control**|Congxi Zhang et.al.|[2412.06342](http://arxiv.org/abs/2412.06342)|null|
 |**2024-12-09**|**Bounded Exploration with World Model Uncertainty in Soft Actor-Critic Reinforcement Learning Algorithm**|Ting Qiao et.al.|[2412.06139](http://arxiv.org/abs/2412.06139)|null|
+|**2024-12-09**|**PowerMamba: A Deep State Space Model and Comprehensive Benchmark for Time Series Prediction in Electric Power Systems**|Ali Menati et.al.|[2412.06112](http://arxiv.org/abs/2412.06112)|**[link](https://github.com/alimenati/PowerMamba)**|
+|**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|
+|**2024-12-06**|**Automated, Unsupervised, and Auto-parameterized Inference of Data Patterns and Anomaly Detection**|Qiaolin Qin et.al.|[2412.05240](http://arxiv.org/abs/2412.05240)|**[link](https://github.com/mooselab/discover-data-quality-with-riolu)**|
+|**2024-12-03**|**Multi-Bin Batching for Increasing LLM Inference Throughput**|Ozgur Guldogan et.al.|[2412.04504](http://arxiv.org/abs/2412.04504)|null|
+|**2024-12-02**|**Physics-informed Gaussian Processes as Linear Model Predictive Controller**|Jörn Tebbe et.al.|[2412.04502](http://arxiv.org/abs/2412.04502)|null|
+|**2024-12-05**|**Non-Asymptotic Bounds for Closed-Loop Identification of Unstable Nonlinear Stochastic Systems**|Seth Siriya et.al.|[2412.04157](http://arxiv.org/abs/2412.04157)|null|
+|**2024-12-05**|**Traffic Co-Simulation Framework Empowered by Infrastructure Camera Sensing and Reinforcement Learning**|Talha Azfar et.al.|[2412.03925](http://arxiv.org/abs/2412.03925)|null|
+|**2024-12-06**|**CIKAN: Constraint Informed Kolmogorov-Arnold Networks for Autonomous Spacecraft Rendezvous using Time Shift Governor**|Taehyeun Kim et.al.|[2412.03710](http://arxiv.org/abs/2412.03710)|null|
+|**2024-12-04**|**Fairness without Demographics through Learning Graph of Gradients**|Yingtao Luo et.al.|[2412.03706](http://arxiv.org/abs/2412.03706)|**[link](https://github.com/yingtaoluo/graph-of-gradient)**|
+|**2024-12-07**|**Asymptotics of Linear Regression with Linearly Dependent Data**|Behrad Moniri et.al.|[2412.03702](http://arxiv.org/abs/2412.03702)|null|
+|**2024-12-04**|**Good practices for evaluation of machine learning systems**|Luciana Ferrer et.al.|[2412.03700](http://arxiv.org/abs/2412.03700)|null|
+|**2024-12-04**|**Data Acquisition for Improving Model Fairness using Reinforcement Learning**|Jahid Hasan et.al.|[2412.03009](http://arxiv.org/abs/2412.03009)|null|
+|**2024-12-03**|**Learning Koopman-based Stability Certificates for Unknown Nonlinear Systems**|Ruikun Zhou et.al.|[2412.02807](http://arxiv.org/abs/2412.02807)|**[link](https://github.com/RuikunZhou/Unknown_Zubov_Koopman)**|
+|**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682](http://arxiv.org/abs/2412.02682)|null|
+|**2024-12-03**|**Cooperative Cruising: Reinforcement Learning based Time-Headway Control for Increased Traffic Efficiency**|Yaron Veksler et.al.|[2412.02520](http://arxiv.org/abs/2412.02520)|null|
+|**2024-12-03**|**Time-Series-Informed Closed-loop Learning for Sequential Decision Making and Control**|Sebastian Hirt et.al.|[2412.02423](http://arxiv.org/abs/2412.02423)|null|
+|**2024-12-03**|**An Adaptive Grasping Force Tracking Strategy for Nonlinear and Time-Varying Object Behaviors**|Ziyang Cheng et.al.|[2412.02335](http://arxiv.org/abs/2412.02335)|null|
+|**2024-12-03**|**Technical Report on Reinforcement Learning Control on the Lucas-Nülle Inverted Pendulum**|Maximilian Schenke et.al.|[2412.02264](http://arxiv.org/abs/2412.02264)|null|
+|**2024-12-02**|**On the Theoretical Foundations of Data Exchange Economies**|Hannaneh Akrami et.al.|[2412.01968](http://arxiv.org/abs/2412.01968)|null|
+|**2024-12-02**|**Transfer Learning for Control Systems via Neural Simulation Relations**|Alireza Nadali et.al.|[2412.01783](http://arxiv.org/abs/2412.01783)|null|
+|**2024-12-02**|**Lookahead Counterfactual Fairness**|Zhiqun Zuo et.al.|[2412.01065](http://arxiv.org/abs/2412.01065)|**[link](https://github.com/osu-srml/LCF)**|
+|**2024-12-02**|**Embedded Machine Learning for Solar PV Power Regulation in a Remote Microgrid**|Yongli Zhu et.al.|[2412.01054](http://arxiv.org/abs/2412.01054)|null|
+|**2024-12-02**|**Adaptive Traffic Element-Based Streetlight Control Using Neighbor Discovery Algorithm Based on IoT Events**|Yupeng Tan et.al.|[2412.01035](http://arxiv.org/abs/2412.01035)|null|
+|**2024-11-30**|**Prognostic Framework for Robotic Manipulators Operating Under Dynamic Task Severities**|Ayush Mohanty et.al.|[2412.00538](http://arxiv.org/abs/2412.00538)|null|
+|**2024-11-29**|**Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning**|Dragos-Alexandru Boldisor et.al.|[2412.00175](http://arxiv.org/abs/2412.00175)|null|
+|**2024-11-29**|**Dynamic High-Order Control Barrier Functions with Diffuser for Safety-Critical Trajectory Planning at Signal-Free Intersections**|Di Chen et.al.|[2412.00162](http://arxiv.org/abs/2412.00162)|null|
+|**2024-11-28**|**Global Tensor Motion Planning**|An T. Le et.al.|[2411.19393](http://arxiv.org/abs/2411.19393)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
