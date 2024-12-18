@@ -4024,11 +4024,11 @@
 |---|---|---|---|---|
 |**2024-12-17**|**TIMESAFE: Timing Interruption Monitoring and Security Assessment for Fronthaul Environments**|Joshua Groen et.al.|[2412.13049](http://arxiv.org/abs/2412.13049)|null|
 |**2024-12-17**|**Neighbor-Aware Reinforcement Learning for Mixed Traffic Optimization in Large-scale Networks**|Iftekharul Islam et.al.|[2412.12622](http://arxiv.org/abs/2412.12622)|null|
-|**2024-12-17**|**Optimal Control Operator Perspective and a Neural Adaptive Spectral Method**|Mingquan Feng et.al.|[2412.12469](http://arxiv.org/abs/2412.12469)|null|
+|**2024-12-17**|**Optimal Control Operator Perspective and a Neural Adaptive Spectral Method**|Mingquan Feng et.al.|[2412.12469](http://arxiv.org/abs/2412.12469)|**[link](https://github.com/FengMingquan-sjtu/NASM)**|
 |**2024-12-16**|**Development of an End-to-end Machine Learning System with Application to In-app Purchases**|Dionysios Varelas et.al.|[2412.12390](http://arxiv.org/abs/2412.12390)|null|
 |**2024-12-16**|**The impact of AI on engineering design procedures for dynamical systems**|Kristin M. de Payrebrune et.al.|[2412.12230](http://arxiv.org/abs/2412.12230)|null|
 |**2024-12-11**|**Multimodal Approaches to Fair Image Classification: An Ethical Perspective**|Javon Hickmon et.al.|[2412.12165](http://arxiv.org/abs/2412.12165)|null|
-|**2024-12-10**|**Generative Modeling and Data Augmentation for Power System Production Simulation**|Linna Xu et.al.|[2412.12146](http://arxiv.org/abs/2412.12146)|null|
+|**2024-12-10**|**Generative Modeling and Data Augmentation for Power System Production Simulation**|Linna Xu et.al.|[2412.12146](http://arxiv.org/abs/2412.12146)|**[link](https://github.com/Becklishious/NeurIPS2024)**|
 |**2024-12-16**|**A Digital twin for Diesel Engines: Operator-infused PINNs with Transfer Learning for Engine Health Monitoring**|Kamaljyoti Nath et.al.|[2412.11967](http://arxiv.org/abs/2412.11967)|null|
 |**2024-12-16**|**Asynchronous Distributed Gaussian Process Regression for Online Learning and Dynamical Systems: Complementary Document**|Zewen Yang et.al.|[2412.11950](http://arxiv.org/abs/2412.11950)|null|
 |**2024-12-16**|**Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization**|Luis Romero-Ben et.al.|[2412.11687](http://arxiv.org/abs/2412.11687)|**[link](https://github.com/luisromeroben/d-ukf-aw-gsi)**|
