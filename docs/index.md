@@ -4001,6 +4001,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Gauss-Newton Dynamics for Neural Networks: A Riemannian Optimization Perspective**|Semih Cayci et.al.|[2412.14031](http://arxiv.org/abs/2412.14031)|null|
+|**2024-12-18**|**Harvesting energy from turbulent winds with Reinforcement Learning**|Lorenzo Basile et.al.|[2412.13961](http://arxiv.org/abs/2412.13961)|null|
+|**2024-12-18**|**From Expectation to Habit: Why Do Software Practitioners Adopt Fairness Toolkits?**|Gianmario Voria et.al.|[2412.13846](http://arxiv.org/abs/2412.13846)|null|
 |**2024-12-17**|**TIMESAFE: Timing Interruption Monitoring and Security Assessment for Fronthaul Environments**|Joshua Groen et.al.|[2412.13049](http://arxiv.org/abs/2412.13049)|null|
 |**2024-12-17**|**Neighbor-Aware Reinforcement Learning for Mixed Traffic Optimization in Large-scale Networks**|Iftekharul Islam et.al.|[2412.12622](http://arxiv.org/abs/2412.12622)|null|
 |**2024-12-17**|**Optimal Control Operator Perspective and a Neural Adaptive Spectral Method**|Mingquan Feng et.al.|[2412.12469](http://arxiv.org/abs/2412.12469)|**[link](https://github.com/FengMingquan-sjtu/NASM)**|
