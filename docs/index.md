@@ -4001,6 +4001,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723](http://arxiv.org/abs/2412.17723)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
+|**2024-12-22**|**A Backdoor Attack Scheme with Invisible Triggers Based on Model Architecture Modification**|Yuan Ma et.al.|[2412.16905](http://arxiv.org/abs/2412.16905)|null|
+|**2024-12-21**|**A Systems Thinking Approach to Algorithmic Fairness**|Chris Lam et.al.|[2412.16641](http://arxiv.org/abs/2412.16641)|null|
+|**2024-12-20**|**SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum**|JunEn Low et.al.|[2412.16346](http://arxiv.org/abs/2412.16346)|null|
+|**2024-12-17**|**CLIP-RLDrive: Human-Aligned Autonomous Driving via CLIP-Based Reward Shaping in Reinforcement Learning**|Erfan Doroudian et.al.|[2412.16201](http://arxiv.org/abs/2412.16201)|null|
+|**2024-12-08**|**Mean--Variance Portfolio Selection by Continuous-Time Reinforcement Learning: Algorithms, Regret Analysis, and Empirical Study**|Yilie Huang et.al.|[2412.16175](http://arxiv.org/abs/2412.16175)|null|
 |**2024-12-20**|**Data Preparation for Fairness-Performance Trade-Offs: A Practitioner-Friendly Alternative?**|Gianmario Voria et.al.|[2412.15920](http://arxiv.org/abs/2412.15920)|null|
 |**2024-12-20**|**Probabilistic Latent Variable Modeling for Dynamic Friction Identification and Estimation**|Victor Vantilborgh et.al.|[2412.15756](http://arxiv.org/abs/2412.15756)|null|
 |**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182](http://arxiv.org/abs/2412.15182)|null|
