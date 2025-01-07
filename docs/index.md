@@ -4001,6 +4001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Key-value memory in the brain**|Samuel J. Gershman et.al.|[2501.02950](http://arxiv.org/abs/2501.02950)|**[link](https://github.com/kazuki-irie/kv-memory-brain)**|
+|**2025-01-04**|**SMDP-Based Dynamic Batching for Improving Responsiveness and Energy Efficiency of Batch Services**|Yaodan Xu et.al.|[2501.02181](http://arxiv.org/abs/2501.02181)|null|
 |**2025-01-02**|**Change Detection-Based Procedures for Piecewise Stationary MABs: A Modular Approach**|Yu-Han Huang et.al.|[2501.01291](http://arxiv.org/abs/2501.01291)|null|
 |**2025-01-02**|**HPC Application Parameter Autotuning on Edge Devices: A Bandit Learning Approach**|Abrar Hossain et.al.|[2501.01057](http://arxiv.org/abs/2501.01057)|null|
 |**2025-01-01**|**Diffusion Policies for Generative Modeling of Spacecraft Trajectories**|Julia Briden et.al.|[2501.00915](http://arxiv.org/abs/2501.00915)|null|
@@ -4011,7 +4013,7 @@ layout: default
 |**2024-12-24**|**Navigating Data Corruption in Machine Learning: Balancing Quality, Quantity, and Imputation Strategies**|Qi Liu et.al.|[2412.18296](http://arxiv.org/abs/2412.18296)|null|
 |**2024-12-09**|**RUL forecasting for wind turbine predictive maintenance based on deep learning**|Syed Shazaib Shah et.al.|[2412.17823](http://arxiv.org/abs/2412.17823)|null|
 |**2024-12-23**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723](http://arxiv.org/abs/2412.17723)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
-|**2024-12-22**|**A Backdoor Attack Scheme with Invisible Triggers Based on Model Architecture Modification**|Yuan Ma et.al.|[2412.16905](http://arxiv.org/abs/2412.16905)|null|
+|**2025-01-06**|**A Backdoor Attack Scheme with Invisible Triggers Based on Model Architecture Modification**|Yuan Ma et.al.|[2412.16905](http://arxiv.org/abs/2412.16905)|null|
 |**2024-12-25**|**A Systems Thinking Approach to Algorithmic Fairness**|Chris Lam et.al.|[2412.16641](http://arxiv.org/abs/2412.16641)|null|
 |**2024-12-20**|**SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum**|JunEn Low et.al.|[2412.16346](http://arxiv.org/abs/2412.16346)|null|
 |**2024-12-17**|**CLIP-RLDrive: Human-Aligned Autonomous Driving via CLIP-Based Reward Shaping in Reinforcement Learning**|Erfan Doroudian et.al.|[2412.16201](http://arxiv.org/abs/2412.16201)|null|
