@@ -4001,6 +4001,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**A Multimodal Lightweight Approach to Fault Diagnosis of Induction Motors in High-Dimensional Dataset**|Usman Ali et.al.|[2501.03746](http://arxiv.org/abs/2501.03746)|null|
+|**2025-01-07**|**Imitation Learning of MPC with Neural Networks: Error Guarantees and Sparsification**|Hendrik Alsmeier et.al.|[2501.03671](http://arxiv.org/abs/2501.03671)|null|
+|**2025-01-07**|**A study on performance limitations in Federated Learning**|Karthik Mohan et.al.|[2501.03477](http://arxiv.org/abs/2501.03477)|null|
 |**2025-01-06**|**Key-value memory in the brain**|Samuel J. Gershman et.al.|[2501.02950](http://arxiv.org/abs/2501.02950)|**[link](https://github.com/kazuki-irie/kv-memory-brain)**|
 |**2025-01-04**|**SMDP-Based Dynamic Batching for Improving Responsiveness and Energy Efficiency of Batch Services**|Yaodan Xu et.al.|[2501.02181](http://arxiv.org/abs/2501.02181)|null|
 |**2025-01-02**|**Change Detection-Based Procedures for Piecewise Stationary MABs: A Modular Approach**|Yu-Han Huang et.al.|[2501.01291](http://arxiv.org/abs/2501.01291)|null|
