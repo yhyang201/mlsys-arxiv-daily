@@ -4028,7 +4028,7 @@
 |**2025-01-13**|**Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing**|Laifa Tao et.al.|[2501.07191](http://arxiv.org/abs/2501.07191)|null|
 |**2025-01-13**|**Erasing Noise in Signal Detection with Diffusion Model: From Theory to Application**|Xiucheng Wang et.al.|[2501.07030](http://arxiv.org/abs/2501.07030)|null|
 |**2025-01-13**|**Global Search for Optimal Low Thrust Spacecraft Trajectories using Diffusion Models and the Indirect Method**|Jannik Graebner et.al.|[2501.07005](http://arxiv.org/abs/2501.07005)|null|
-|**2025-01-08**|**Scalable Cosmic AI Inference using Cloud Serverless Computing with FMI**|Mills Staylor et.al.|[2501.06249](http://arxiv.org/abs/2501.06249)|null|
+|**2025-01-08**|**Scalable Cosmic AI Inference using Cloud Serverless Computing with FMI**|Mills Staylor et.al.|[2501.06249](http://arxiv.org/abs/2501.06249)|**[link](https://github.com/UVA-MLSys/AI-for-Astronomy)**|
 |**2025-01-10**|**Meta-Learning for Physically-Constrained Neural System Identification**|Ankush Chakrabarty et.al.|[2501.06167](http://arxiv.org/abs/2501.06167)|null|
 |**2025-01-10**|**Investigating the Impact of Observation Space Design Choices On Training Reinforcement Learning Solutions for Spacecraft Problems**|Nathaniel Hamilton et.al.|[2501.06016](http://arxiv.org/abs/2501.06016)|null|
 |**2025-01-10**|**Orthogonal projection-based regularization for efficient model augmentation**|Bendegúz M. Györök et.al.|[2501.05842](http://arxiv.org/abs/2501.05842)|**[link](https://github.com/aimotionlab-sztaki/orthogonal-augmentation)**|
