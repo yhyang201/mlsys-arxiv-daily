@@ -4073,7 +4073,7 @@
 |**2024-12-16**|**Asynchronous Distributed Gaussian Process Regression for Online Learning and Dynamical Systems: Complementary Document**|Zewen Yang et.al.|[2412.11950](http://arxiv.org/abs/2412.11950)|null|
 |**2024-12-16**|**Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization**|Luis Romero-Ben et.al.|[2412.11687](http://arxiv.org/abs/2412.11687)|**[link](https://github.com/luisromeroben/d-ukf-aw-gsi)**|
 |**2024-12-16**|**Capacity of Hierarchical Secure Coded Gradient Aggregation with Straggling Communication Links**|Qinyi Lu et.al.|[2412.11496](http://arxiv.org/abs/2412.11496)|null|
-|**2024-12-16**|**Mining In-distribution Attributes in Outliers for Out-of-distribution Detection**|Yutian Lei et.al.|[2412.11466](http://arxiv.org/abs/2412.11466)|null|
+|**2024-12-16**|**Mining In-distribution Attributes in Outliers for Out-of-distribution Detection**|Yutian Lei et.al.|[2412.11466](http://arxiv.org/abs/2412.11466)|**[link](https://github.com/uestc-nnlab/mvol)**|
 |**2024-12-14**|**Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks**|Zhiying Wang et.al.|[2412.10700](http://arxiv.org/abs/2412.10700)|null|
 |**2024-12-10**|**Personalized and Sequential Text-to-Image Generation**|Ofir Nabati et.al.|[2412.10419](http://arxiv.org/abs/2412.10419)|null|
 |**2024-12-19**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341](http://arxiv.org/abs/2412.10341)|null|
