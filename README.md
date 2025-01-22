@@ -4022,9 +4022,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Fast sparse optimization via adaptive shrinkage**|Vito Cerone et.al.|[2501.12236](http://arxiv.org/abs/2501.12236)|null|
+|**2025-01-21**|**Dual NUP Representations and Min-Maximization in Factor Graphs**|Yun-Peng Li et.al.|[2501.12113](http://arxiv.org/abs/2501.12113)|null|
+|**2025-01-21**|**Goal-oriented Transmission Scheduling: Structure-guided DRL with a Unified Dual On-policy and Off-policy Approach**|Jiazheng Chen et.al.|[2501.11921](http://arxiv.org/abs/2501.11921)|null|
+|**2025-01-20**|**KKL Observer Synthesis for Nonlinear Systems via Physics-Informed Learning**|M. Umar B. Niazi et.al.|[2501.11655](http://arxiv.org/abs/2501.11655)|null|
+|**2025-01-20**|**A quantitative framework for evaluating architectural patterns in ML systems**|Simeon Emanuilov et.al.|[2501.11543](http://arxiv.org/abs/2501.11543)|null|
+|**2025-01-20**|**DLinear-based Prediction of Remaining Useful Life of Lithium-Ion Batteries: Feature Engineering through Explainable Artificial Intelligence**|Minsu Kim et.al.|[2501.11542](http://arxiv.org/abs/2501.11542)|null|
+|**2025-01-19**|**A Novel Switch-Type Policy Network for Resource Allocation Problems: Technical Report**|Jerrod Wigmore et.al.|[2501.11136](http://arxiv.org/abs/2501.11136)|null|
+|**2025-01-19**|**Data Enrichment Opportunities for Distribution Grid Cable Networks using Variational Autoencoders**|Konrad Sundsgaard et.al.|[2501.10920](http://arxiv.org/abs/2501.10920)|null|
+|**2025-01-18**|**Which price to pay? Auto-tuning building MPC controller for optimal economic cost**|Jiarui Yu et.al.|[2501.10859](http://arxiv.org/abs/2501.10859)|null|
+|**2025-01-18**|**Fake Advertisements Detection Using Automated Multimodal Learning: A Case Study for Vietnamese Real Estate Data**|Duy Nguyen et.al.|[2501.10848](http://arxiv.org/abs/2501.10848)|null|
+|**2025-01-18**|**Non-Expansive Mappings in Two-Time-Scale Stochastic Approximation: Finite-Time Analysis**|Siddharth Chandak et.al.|[2501.10806](http://arxiv.org/abs/2501.10806)|null|
+|**2025-01-18**|**HOPS: High-order Polynomials with Self-supervised Dimension Reduction for Load Forecasting**|Pengyang Song et.al.|[2501.10637](http://arxiv.org/abs/2501.10637)|null|
+|**2025-01-18**|**Assessing Markov Property in Driving Behaviors: Insights from Statistical Tests**|Zheng Li et.al.|[2501.10625](http://arxiv.org/abs/2501.10625)|null|
+|**2025-01-17**|**Wasserstein Adaptive Value Estimation for Actor-Critic Reinforcement Learning**|Ali Baheri et.al.|[2501.10605](http://arxiv.org/abs/2501.10605)|null|
+|**2025-01-17**|**ACCEPT: Diagnostic Forecasting of Battery Degradation Through Contrastive Learning**|James Sadler et.al.|[2501.10492](http://arxiv.org/abs/2501.10492)|null|
 |**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[2501.09967](http://arxiv.org/abs/2501.09967)|null|
 |**2025-01-16**|**Weight for Robustness: A Comprehensive Approach towards Optimal Fault-Tolerant Asynchronous ML**|Tehila Dahan et.al.|[2501.09621](http://arxiv.org/abs/2501.09621)|**[link](https://github.com/dahan198/asynchronous-fault-tolerant-ml)**|
-|**2025-01-16**|**Intra-day Solar and Power Forecast for Optimization of Intraday Market Participation**|Nelson Salazar-Peña et.al.|[2501.09551](http://arxiv.org/abs/2501.09551)|null|
+|**2025-01-21**|**Intra-day Solar and Power Forecast for Optimization of Intraday Market Participation**|Nelson Salazar-Pena et.al.|[2501.09551](http://arxiv.org/abs/2501.09551)|null|
 |**2025-01-16**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic Advancements**|Sahil Tomar et.al.|[2501.09528](http://arxiv.org/abs/2501.09528)|null|
 |**2025-01-14**|**Prediction Interval Construction Method for Electricity Prices**|Xin Lu et.al.|[2501.07827](http://arxiv.org/abs/2501.07827)|null|
 |**2025-01-13**|**Finite Sample Identification of Partially Observed Bilinear Dynamical Systems**|Yahya Sattar et.al.|[2501.07652](http://arxiv.org/abs/2501.07652)|null|
@@ -4054,7 +4069,7 @@
 |**2024-12-09**|**RUL forecasting for wind turbine predictive maintenance based on deep learning**|Syed Shazaib Shah et.al.|[2412.17823](http://arxiv.org/abs/2412.17823)|null|
 |**2025-01-11**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723](http://arxiv.org/abs/2412.17723)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
 |**2025-01-06**|**A Backdoor Attack Scheme with Invisible Triggers Based on Model Architecture Modification**|Yuan Ma et.al.|[2412.16905](http://arxiv.org/abs/2412.16905)|null|
-|**2025-01-16**|**A Systems Thinking Approach to Algorithmic Fairness**|Chris Lam et.al.|[2412.16641](http://arxiv.org/abs/2412.16641)|null|
+|**2025-01-20**|**A Systems Thinking Approach to Algorithmic Fairness**|Chris Lam et.al.|[2412.16641](http://arxiv.org/abs/2412.16641)|null|
 |**2024-12-20**|**SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum**|JunEn Low et.al.|[2412.16346](http://arxiv.org/abs/2412.16346)|null|
 |**2024-12-17**|**CLIP-RLDrive: Human-Aligned Autonomous Driving via CLIP-Based Reward Shaping in Reinforcement Learning**|Erfan Doroudian et.al.|[2412.16201](http://arxiv.org/abs/2412.16201)|null|
 |**2024-12-08**|**Mean--Variance Portfolio Selection by Continuous-Time Reinforcement Learning: Algorithms, Regret Analysis, and Empirical Study**|Yilie Huang et.al.|[2412.16175](http://arxiv.org/abs/2412.16175)|null|
