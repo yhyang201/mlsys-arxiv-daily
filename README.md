@@ -4022,6 +4022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Practical quantum federated learning and its experimental demonstration**|Zhi-Ping Liu et.al.|[2501.12709](http://arxiv.org/abs/2501.12709)|null|
 |**2025-01-21**|**Fast sparse optimization via adaptive shrinkage**|Vito Cerone et.al.|[2501.12236](http://arxiv.org/abs/2501.12236)|null|
 |**2025-01-21**|**Dual NUP Representations and Min-Maximization in Factor Graphs**|Yun-Peng Li et.al.|[2501.12113](http://arxiv.org/abs/2501.12113)|null|
 |**2025-01-21**|**Goal-oriented Transmission Scheduling: Structure-guided DRL with a Unified Dual On-policy and Off-policy Approach**|Jiazheng Chen et.al.|[2501.11921](http://arxiv.org/abs/2501.11921)|null|
