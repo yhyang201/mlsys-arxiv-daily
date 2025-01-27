@@ -4001,6 +4001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Decision-Focused Learning for Complex System Identification: HVAC Management System Application**|Pietro Favaro et.al.|[2501.14708](http://arxiv.org/abs/2501.14708)|null|
+|**2025-01-21**|**Adaptive Cyber-Attack Detection in IIoT Using Attention-Based LSTM-CNN Models**|Afrah Gueriani et.al.|[2501.13962](http://arxiv.org/abs/2501.13962)|null|
 |**2025-01-23**|**The machine learning platform for developers of large systems**|Alexey Naikov et.al.|[2501.13881](http://arxiv.org/abs/2501.13881)|null|
 |**2025-01-23**|**GenTL: A General Transfer Learning Model for Building Thermal Dynamics**|Fabian Raisch et.al.|[2501.13703](http://arxiv.org/abs/2501.13703)|null|
 |**2025-01-23**|**Communication-Efficient Stochastic Distributed Learning**|Xiaoxing Ren et.al.|[2501.13516](http://arxiv.org/abs/2501.13516)|null|
