@@ -4022,6 +4022,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications**|Chandrasekar Sridhar et.al.|[2501.17028](http://arxiv.org/abs/2501.17028)|null|
+|**2025-01-28**|**Late Breaking Results: Energy-Efficient Printed Machine Learning Classifiers with Sequential SVMs**|Spyridon Besias et.al.|[2501.16828](http://arxiv.org/abs/2501.16828)|null|
+|**2025-01-28**|**Enhancing Non-Intrusive Load Monitoring with Features Extracted by Independent Component Analysis**|Sahar Moghimian Hoosh et.al.|[2501.16817](http://arxiv.org/abs/2501.16817)|null|
+|**2025-01-28**|**Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection**|Hengzhuang Li et.al.|[2501.16718](http://arxiv.org/abs/2501.16718)|**[link](https://github.com/fir-lat/hamos_ood)**|
+|**2025-01-28**|**A General Bayesian Framework for Informative Input Design in System Identification**|Alexandros E. Tzikas et.al.|[2501.16625](http://arxiv.org/abs/2501.16625)|**[link](https://github.com/alextzik/informative_input_design)**|
+|**2025-01-28**|**Fine-Tuned Language Models as Space Systems Controllers**|Enrico M. Zucchelli et.al.|[2501.16588](http://arxiv.org/abs/2501.16588)|null|
+|**2025-01-27**|**Safe Gradient Flow for Bilevel Optimization**|Sina Sharifi et.al.|[2501.16520](http://arxiv.org/abs/2501.16520)|**[link](https://github.com/o4lc/sgf-blo)**|
+|**2025-01-27**|**Nonparametric Sparse Online Learning of the Koopman Operator**|Boya Hou et.al.|[2501.16489](http://arxiv.org/abs/2501.16489)|null|
+|**2025-01-20**|**How Strategic Agents Respond: Comparing Analytical Models with LLM-Generated Responses in Strategic Classification**|Tian Xie et.al.|[2501.16355](http://arxiv.org/abs/2501.16355)|null|
 |**2025-01-27**|**The Sample Complexity of Online Reinforcement Learning: A Multi-model Perspective**|Michael Muehlebach et.al.|[2501.15910](http://arxiv.org/abs/2501.15910)|null|
 |**2025-01-27**|**Gaussian Process-Based Prediction and Control of Hammerstein-Wiener Systems**|Mingzhou Yin et.al.|[2501.15849](http://arxiv.org/abs/2501.15849)|null|
 |**2025-01-27**|**Integrating Personalized Federated Learning with Control Systems for Enhanced Performance**|Alice Smith et.al.|[2501.15728](http://arxiv.org/abs/2501.15728)|null|
