@@ -4001,6 +4001,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Disentangling Safe and Unsafe Corruptions via Anisotropy and Locality**|Ramchandran Muthukumar et.al.|[2501.18098](http://arxiv.org/abs/2501.18098)|null|
+|**2025-01-29**|**Digital Twin-Enabled Real-Time Control in Robotic Additive Manufacturing via Soft Actor-Critic Reinforcement Learning**|Matsive Ali et.al.|[2501.18016](http://arxiv.org/abs/2501.18016)|null|
+|**2025-01-29**|**Topological Signatures of Adversaries in Multimodal Alignments**|Minh Vu et.al.|[2501.18006](http://arxiv.org/abs/2501.18006)|null|
 |**2025-01-28**|**Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications**|Chandrasekar Sridhar et.al.|[2501.17028](http://arxiv.org/abs/2501.17028)|null|
 |**2025-01-28**|**Late Breaking Results: Energy-Efficient Printed Machine Learning Classifiers with Sequential SVMs**|Spyridon Besias et.al.|[2501.16828](http://arxiv.org/abs/2501.16828)|null|
 |**2025-01-28**|**Enhancing Non-Intrusive Load Monitoring with Features Extracted by Independent Component Analysis**|Sahar Moghimian Hoosh et.al.|[2501.16817](http://arxiv.org/abs/2501.16817)|null|
