@@ -4001,6 +4001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
+|**2025-01-30**|**STaleX: A Spatiotemporal-Aware Adaptive Auto-scaling Framework for Microservices**|Majid Dashtbani et.al.|[2501.18734](http://arxiv.org/abs/2501.18734)|null|
 |**2025-01-30**|**Disentangling Safe and Unsafe Corruptions via Anisotropy and Locality**|Ramchandran Muthukumar et.al.|[2501.18098](http://arxiv.org/abs/2501.18098)|null|
 |**2025-01-29**|**Digital Twin-Enabled Real-Time Control in Robotic Additive Manufacturing via Soft Actor-Critic Reinforcement Learning**|Matsive Ali et.al.|[2501.18016](http://arxiv.org/abs/2501.18016)|null|
 |**2025-01-29**|**Topological Signatures of Adversaries in Multimodal Alignments**|Minh Vu et.al.|[2501.18006](http://arxiv.org/abs/2501.18006)|null|
