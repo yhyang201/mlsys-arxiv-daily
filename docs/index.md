@@ -4001,6 +4001,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Deep Reinforcement Learning-Based Optimization of Second-Life Battery Utilization in Electric Vehicles Charging Stations**|Rouzbeh Haghighi et.al.|[2502.03412](http://arxiv.org/abs/2502.03412)|null|
+|**2025-02-05**|**Calibrated Unsupervised Anomaly Detection in Multivariate Time-series using Reinforcement Learning**|Saba Sanami et.al.|[2502.03245](http://arxiv.org/abs/2502.03245)|null|
+|**2025-02-05**|**Optimizing Electric Vehicles Charging using Large Language Models and Graph Neural Networks**|Stavros Orfanoudakis et.al.|[2502.03067](http://arxiv.org/abs/2502.03067)|null|
+|**2025-02-05**|**Learning Efficient Flocking Control based on Gibbs Random Fields**|Dengyu Zhang et.al.|[2502.02984](http://arxiv.org/abs/2502.02984)|null|
 |**2025-02-04**|**Adaptive Self-improvement LLM Agentic System for ML Library Development**|Genghan Zhang et.al.|[2502.02534](http://arxiv.org/abs/2502.02534)|null|
 |**2025-02-04**|**Achieving Hiding and Smart Anti-Jamming Communication: A Parallel DRL Approach against Moving Reactive Jammer**|Yangyang Li et.al.|[2502.02385](http://arxiv.org/abs/2502.02385)|null|
 |**2025-02-04**|**Identifying Large-Scale Linear Parameter Varying Systems with Dynamic Mode Decomposition Methods**|Jean Panaioti Jordanou et.al.|[2502.02336](http://arxiv.org/abs/2502.02336)|null|
@@ -4026,11 +4030,11 @@ layout: default
 |**2025-01-28**|**Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications**|Chandrasekar Sridhar et.al.|[2501.17028](http://arxiv.org/abs/2501.17028)|null|
 |**2025-01-28**|**Late Breaking Results: Energy-Efficient Printed Machine Learning Classifiers with Sequential SVMs**|Spyridon Besias et.al.|[2501.16828](http://arxiv.org/abs/2501.16828)|null|
 |**2025-01-28**|**Enhancing Non-Intrusive Load Monitoring with Features Extracted by Independent Component Analysis**|Sahar Moghimian Hoosh et.al.|[2501.16817](http://arxiv.org/abs/2501.16817)|null|
-|**2025-01-28**|**Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection**|Hengzhuang Li et.al.|[2501.16718](http://arxiv.org/abs/2501.16718)|**[link](https://github.com/fir-lat/hamos_ood)**|
+|**2025-02-05**|**Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection**|Hengzhuang Li et.al.|[2501.16718](http://arxiv.org/abs/2501.16718)|**[link](https://github.com/fir-lat/hamos_ood)**|
 |**2025-01-28**|**A General Bayesian Framework for Informative Input Design in System Identification**|Alexandros E. Tzikas et.al.|[2501.16625](http://arxiv.org/abs/2501.16625)|**[link](https://github.com/alextzik/informative_input_design)**|
 |**2025-01-28**|**Fine-Tuned Language Models as Space Systems Controllers**|Enrico M. Zucchelli et.al.|[2501.16588](http://arxiv.org/abs/2501.16588)|null|
 |**2025-01-27**|**Safe Gradient Flow for Bilevel Optimization**|Sina Sharifi et.al.|[2501.16520](http://arxiv.org/abs/2501.16520)|**[link](https://github.com/o4lc/sgf-blo)**|
-|**2025-01-27**|**Nonparametric Sparse Online Learning of the Koopman Operator**|Boya Hou et.al.|[2501.16489](http://arxiv.org/abs/2501.16489)|null|
+|**2025-02-04**|**Nonparametric Sparse Online Learning of the Koopman Operator**|Boya Hou et.al.|[2501.16489](http://arxiv.org/abs/2501.16489)|null|
 |**2025-01-20**|**How Strategic Agents Respond: Comparing Analytical Models with LLM-Generated Responses in Strategic Classification**|Tian Xie et.al.|[2501.16355](http://arxiv.org/abs/2501.16355)|null|
 |**2025-01-27**|**The Sample Complexity of Online Reinforcement Learning: A Multi-model Perspective**|Michael Muehlebach et.al.|[2501.15910](http://arxiv.org/abs/2501.15910)|null|
 |**2025-01-27**|**Gaussian Process-Based Prediction and Control of Hammerstein-Wiener Systems**|Mingzhou Yin et.al.|[2501.15849](http://arxiv.org/abs/2501.15849)|null|
@@ -4042,7 +4046,7 @@ layout: default
 |**2025-01-25**|**Data Center Cooling System Optimization Using Offline Reinforcement Learning**|Xianyuan Zhan et.al.|[2501.15085](http://arxiv.org/abs/2501.15085)|null|
 |**2025-01-24**|**Decision-Focused Learning for Complex System Identification: HVAC Management System Application**|Pietro Favaro et.al.|[2501.14708](http://arxiv.org/abs/2501.14708)|null|
 |**2025-01-21**|**Adaptive Cyber-Attack Detection in IIoT Using Attention-Based LSTM-CNN Models**|Afrah Gueriani et.al.|[2501.13962](http://arxiv.org/abs/2501.13962)|null|
-|**2025-01-23**|**The machine learning platform for developers of large systems**|Alexey Naikov et.al.|[2501.13881](http://arxiv.org/abs/2501.13881)|null|
+|**2025-01-28**|**The machine learning platform for developers of large systems**|Alexey Naikov et.al.|[2501.13881](http://arxiv.org/abs/2501.13881)|null|
 |**2025-01-23**|**GenTL: A General Transfer Learning Model for Building Thermal Dynamics**|Fabian Raisch et.al.|[2501.13703](http://arxiv.org/abs/2501.13703)|**[link](https://github.com/fabianraisch/GenTL)**|
 |**2025-01-23**|**Communication-Efficient Stochastic Distributed Learning**|Xiaoxing Ren et.al.|[2501.13516](http://arxiv.org/abs/2501.13516)|null|
 |**2025-01-23**|**Zero-Shot Trajectory Planning for Signal Temporal Logic Tasks**|Ruijia Liu et.al.|[2501.13457](http://arxiv.org/abs/2501.13457)|null|
