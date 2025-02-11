@@ -4022,12 +4022,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Koopman-Equivariant Gaussian Processes**|Petar Bevanda et.al.|[2502.06645](http://arxiv.org/abs/2502.06645)|null|
+|**2025-02-10**|**Predictive Red Teaming: Breaking Policies Without Breaking Robots**|Anirudha Majumdar et.al.|[2502.06575](http://arxiv.org/abs/2502.06575)|null|
+|**2025-02-09**|**Towards Autonomous Experimentation: Bayesian Optimization over Problem Formulation Space for Accelerated Alloy Development**|Danial Khatamsaz et.al.|[2502.05735](http://arxiv.org/abs/2502.05735)|null|
+|**2025-02-08**|**Probabilistic Foundations for Metacognition via Hybrid-AI**|Paulo Shakarian et.al.|[2502.05398](http://arxiv.org/abs/2502.05398)|null|
 |**2025-02-07**|**Optimizing Wireless Resource Management and Synchronization in Digital Twin Networks**|Hanzhi Yu et.al.|[2502.05116](http://arxiv.org/abs/2502.05116)|null|
 |**2025-02-07**|**Adversarially-Robust TD Learning with Markovian Data: Finite-Time Rates and Fundamental Limits**|Sreejeet Maity et.al.|[2502.04662](http://arxiv.org/abs/2502.04662)|null|
 |**2025-02-05**|**Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications**|Bo Wen et.al.|[2502.04384](http://arxiv.org/abs/2502.04384)|null|
 |**2025-02-06**|**DexterityGen: Foundation Controller for Unprecedented Dexterity**|Zhao-Heng Yin et.al.|[2502.04307](http://arxiv.org/abs/2502.04307)|null|
 |**2025-02-05**|**Deep Reinforcement Learning-Based Optimization of Second-Life Battery Utilization in Electric Vehicles Charging Stations**|Rouzbeh Haghighi et.al.|[2502.03412](http://arxiv.org/abs/2502.03412)|null|
-|**2025-02-05**|**Calibrated Unsupervised Anomaly Detection in Multivariate Time-series using Reinforcement Learning**|Saba Sanami et.al.|[2502.03245](http://arxiv.org/abs/2502.03245)|null|
+|**2025-02-10**|**Calibrated Unsupervised Anomaly Detection in Multivariate Time-series using Reinforcement Learning**|Saba Sanami et.al.|[2502.03245](http://arxiv.org/abs/2502.03245)|null|
 |**2025-02-05**|**Optimizing Electric Vehicles Charging using Large Language Models and Graph Neural Networks**|Stavros Orfanoudakis et.al.|[2502.03067](http://arxiv.org/abs/2502.03067)|null|
 |**2025-02-05**|**Learning Efficient Flocking Control based on Gibbs Random Fields**|Dengyu Zhang et.al.|[2502.02984](http://arxiv.org/abs/2502.02984)|null|
 |**2025-02-04**|**Adaptive Self-improvement LLM Agentic System for ML Library Development**|Genghan Zhang et.al.|[2502.02534](http://arxiv.org/abs/2502.02534)|**[link](https://github.com/zhang677/pcl-lite)**|
@@ -4039,7 +4043,7 @@
 |**2025-02-03**|**GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments**|Stavros Orfanoudakis et.al.|[2502.01778](http://arxiv.org/abs/2502.01778)|null|
 |**2025-02-03**|**Aspects of Artificial Intelligence: Transforming Machine Learning Systems Naturally**|Xiuzhan Guo et.al.|[2502.01708](http://arxiv.org/abs/2502.01708)|null|
 |**2025-02-03**|**Dynamic object goal pushing with mobile manipulators through model-free constrained reinforcement learning**|Ioannis Dadiotis et.al.|[2502.01546](http://arxiv.org/abs/2502.01546)|null|
-|**2025-02-03**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|**[link](https://github.com/lecar-lab/asap)**|
+|**2025-02-08**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|**[link](https://github.com/lecar-lab/asap)**|
 |**2025-02-02**|**Privacy Preserving Properties of Vision Classifiers**|Pirzada Suhail et.al.|[2502.00760](http://arxiv.org/abs/2502.00760)|null|
 |**2025-02-01**|**Optimal Sensor Placement in Power Transformers Using Physics-Informed Neural Networks**|Sirui Li et.al.|[2502.00552](http://arxiv.org/abs/2502.00552)|null|
 |**2025-02-01**|**Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers**|Martin Joel Mouk Elele et.al.|[2502.00532](http://arxiv.org/abs/2502.00532)|null|
