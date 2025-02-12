@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4019,15 +4019,15 @@ layout: default
 |**2025-02-04**|**Adaptive Resource Allocation Optimization Using Large Language Models in Dynamic Wireless Environments**|Hyeonho Noh et.al.|[2502.02287](http://arxiv.org/abs/2502.02287)|null|
 |**2025-02-04**|**Synthesis of Model Predictive Control and Reinforcement Learning: Survey and Classification**|Rudolf Reiter et.al.|[2502.02133](http://arxiv.org/abs/2502.02133)|null|
 |**2025-02-03**|**Policy Design for Two-sided Platforms with Participation Dynamics**|Haruka Kiyohara et.al.|[2502.01792](http://arxiv.org/abs/2502.01792)|null|
-|**2025-02-03**|**GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments**|Stavros Orfanoudakis et.al.|[2502.01778](http://arxiv.org/abs/2502.01778)|null|
+|**2025-02-03**|**GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments**|Stavros Orfanoudakis et.al.|[2502.01778](http://arxiv.org/abs/2502.01778)|**[link](https://github.com/stavrosorf/dt4evs)**|
 |**2025-02-03**|**Aspects of Artificial Intelligence: Transforming Machine Learning Systems Naturally**|Xiuzhan Guo et.al.|[2502.01708](http://arxiv.org/abs/2502.01708)|null|
 |**2025-02-03**|**Dynamic object goal pushing with mobile manipulators through model-free constrained reinforcement learning**|Ioannis Dadiotis et.al.|[2502.01546](http://arxiv.org/abs/2502.01546)|null|
 |**2025-02-08**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|**[link](https://github.com/lecar-lab/asap)**|
 |**2025-02-02**|**Privacy Preserving Properties of Vision Classifiers**|Pirzada Suhail et.al.|[2502.00760](http://arxiv.org/abs/2502.00760)|null|
 |**2025-02-01**|**Optimal Sensor Placement in Power Transformers Using Physics-Informed Neural Networks**|Sirui Li et.al.|[2502.00552](http://arxiv.org/abs/2502.00552)|null|
 |**2025-02-01**|**Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers**|Martin Joel Mouk Elele et.al.|[2502.00532](http://arxiv.org/abs/2502.00532)|null|
-|**2025-02-01**|**SocratiQ: A Generative AI-Powered Learning Companion for Personalized Education and Broader Accessibility**|Jason Jabbour et.al.|[2502.00341](http://arxiv.org/abs/2502.00341)|null|
-|**2025-02-01**|**Provably-Stable Neural Network-Based Control of Nonlinear Systems**|Anran Li et.al.|[2502.00248](http://arxiv.org/abs/2502.00248)|null|
+|**2025-02-01**|**SocratiQ: A Generative AI-Powered Learning Companion for Personalized Education and Broader Accessibility**|Jason Jabbour et.al.|[2502.00341](http://arxiv.org/abs/2502.00341)|**[link](https://github.com/harvard-edge/cs249r_book)**|
+|**2025-02-01**|**Provably-Stable Neural Network-Based Control of Nonlinear Systems**|Anran Li et.al.|[2502.00248](http://arxiv.org/abs/2502.00248)|**[link](https://github.com/anran-github/provably-stable-neural-network-based-control-of-nonlinear-systems)**|
 |**2025-01-29**|**Differentiable Projection-based Learn to Optimize in Wireless Network-Part I: Convex Constrained (Non-)Convex Programming**|Xiucheng Wang et.al.|[2502.00053](http://arxiv.org/abs/2502.00053)|null|
 |**2025-01-24**|**Towards Efficient Multi-Objective Optimisation for Real-World Power Grid Topology Control**|Yassine El Manyari et.al.|[2502.00034](http://arxiv.org/abs/2502.00034)|null|
 |**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|

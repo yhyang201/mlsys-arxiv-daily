@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -754,7 +754,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## SFM
 
@@ -1065,7 +1065,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2057,7 +2057,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2325,7 +2325,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2607,7 +2607,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## NeRF
 
@@ -4016,7 +4016,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 ## MLSys
 
@@ -4040,15 +4040,15 @@
 |**2025-02-04**|**Adaptive Resource Allocation Optimization Using Large Language Models in Dynamic Wireless Environments**|Hyeonho Noh et.al.|[2502.02287](http://arxiv.org/abs/2502.02287)|null|
 |**2025-02-04**|**Synthesis of Model Predictive Control and Reinforcement Learning: Survey and Classification**|Rudolf Reiter et.al.|[2502.02133](http://arxiv.org/abs/2502.02133)|null|
 |**2025-02-03**|**Policy Design for Two-sided Platforms with Participation Dynamics**|Haruka Kiyohara et.al.|[2502.01792](http://arxiv.org/abs/2502.01792)|null|
-|**2025-02-03**|**GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments**|Stavros Orfanoudakis et.al.|[2502.01778](http://arxiv.org/abs/2502.01778)|null|
+|**2025-02-03**|**GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments**|Stavros Orfanoudakis et.al.|[2502.01778](http://arxiv.org/abs/2502.01778)|**[link](https://github.com/stavrosorf/dt4evs)**|
 |**2025-02-03**|**Aspects of Artificial Intelligence: Transforming Machine Learning Systems Naturally**|Xiuzhan Guo et.al.|[2502.01708](http://arxiv.org/abs/2502.01708)|null|
 |**2025-02-03**|**Dynamic object goal pushing with mobile manipulators through model-free constrained reinforcement learning**|Ioannis Dadiotis et.al.|[2502.01546](http://arxiv.org/abs/2502.01546)|null|
 |**2025-02-08**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|**[link](https://github.com/lecar-lab/asap)**|
 |**2025-02-02**|**Privacy Preserving Properties of Vision Classifiers**|Pirzada Suhail et.al.|[2502.00760](http://arxiv.org/abs/2502.00760)|null|
 |**2025-02-01**|**Optimal Sensor Placement in Power Transformers Using Physics-Informed Neural Networks**|Sirui Li et.al.|[2502.00552](http://arxiv.org/abs/2502.00552)|null|
 |**2025-02-01**|**Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers**|Martin Joel Mouk Elele et.al.|[2502.00532](http://arxiv.org/abs/2502.00532)|null|
-|**2025-02-01**|**SocratiQ: A Generative AI-Powered Learning Companion for Personalized Education and Broader Accessibility**|Jason Jabbour et.al.|[2502.00341](http://arxiv.org/abs/2502.00341)|null|
-|**2025-02-01**|**Provably-Stable Neural Network-Based Control of Nonlinear Systems**|Anran Li et.al.|[2502.00248](http://arxiv.org/abs/2502.00248)|null|
+|**2025-02-01**|**SocratiQ: A Generative AI-Powered Learning Companion for Personalized Education and Broader Accessibility**|Jason Jabbour et.al.|[2502.00341](http://arxiv.org/abs/2502.00341)|**[link](https://github.com/harvard-edge/cs249r_book)**|
+|**2025-02-01**|**Provably-Stable Neural Network-Based Control of Nonlinear Systems**|Anran Li et.al.|[2502.00248](http://arxiv.org/abs/2502.00248)|**[link](https://github.com/anran-github/provably-stable-neural-network-based-control-of-nonlinear-systems)**|
 |**2025-01-29**|**Differentiable Projection-based Learn to Optimize in Wireless Network-Part I: Convex Constrained (Non-)Convex Programming**|Xiucheng Wang et.al.|[2502.00053](http://arxiv.org/abs/2502.00053)|null|
 |**2025-01-24**|**Towards Efficient Multi-Objective Optimisation for Real-World Power Grid Topology Control**|Yassine El Manyari et.al.|[2502.00034](http://arxiv.org/abs/2502.00034)|null|
 |**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
@@ -4198,7 +4198,7 @@
 |**2024-11-29**|**Dynamic High-Order Control Barrier Functions with Diffuser for Safety-Critical Trajectory Planning at Signal-Free Intersections**|Di Chen et.al.|[2412.00162](http://arxiv.org/abs/2412.00162)|null|
 |**2024-11-28**|**Global Tensor Motion Planning**|An T. Le et.al.|[2411.19393](http://arxiv.org/abs/2411.19393)|null|
 
-<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
