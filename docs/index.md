@@ -4001,6 +4001,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**DNNs May Determine Major Properties of Their Outputs Early, with Timing Possibly Driven by Bias**|Song Park et.al.|[2502.08167](http://arxiv.org/abs/2502.08167)|null|
 |**2025-02-10**|**Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput**|Arissa Wongpanich et.al.|[2502.06982](http://arxiv.org/abs/2502.06982)|null|
 |**2025-02-03**|**Efficient Diffusion Models: A Survey**|Hui Shen et.al.|[2502.06805](http://arxiv.org/abs/2502.06805)|null|
 |**2025-02-10**|**Koopman-Equivariant Gaussian Processes**|Petar Bevanda et.al.|[2502.06645](http://arxiv.org/abs/2502.06645)|null|
