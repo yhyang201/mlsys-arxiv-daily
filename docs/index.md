@@ -4009,7 +4009,7 @@ layout: default
 |**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
 |**2025-02-13**|**On the Promise for Assurance of Differentiable Neurosymbolic Reasoning Paradigms**|Luke E. Richards et.al.|[2502.08932](http://arxiv.org/abs/2502.08932)|null|
 |**2025-02-12**|**Demand Response Optimization MILP Framework for Microgrids with DERs**|K. Victor Sam Moses Babu et.al.|[2502.08764](http://arxiv.org/abs/2502.08764)|null|
-|**2025-02-12**|**Contextual bandits with entropy-based human feedback**|Raihan Seraj et.al.|[2502.08759](http://arxiv.org/abs/2502.08759)|null|
+|**2025-02-12**|**Contextual bandits with entropy-based human feedback**|Raihan Seraj et.al.|[2502.08759](http://arxiv.org/abs/2502.08759)|**[link](https://github.com/borealisai/cbhf)**|
 |**2025-02-12**|**DNNs May Determine Major Properties of Their Outputs Early, with Timing Possibly Driven by Bias**|Song Park et.al.|[2502.08167](http://arxiv.org/abs/2502.08167)|null|
 |**2025-02-10**|**Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput**|Arissa Wongpanich et.al.|[2502.06982](http://arxiv.org/abs/2502.06982)|null|
 |**2025-02-03**|**Efficient Diffusion Models: A Survey**|Hui Shen et.al.|[2502.06805](http://arxiv.org/abs/2502.06805)|**[link](https://github.com/aiot-mlsys-lab/efficient-diffusion-model-survey)**|
