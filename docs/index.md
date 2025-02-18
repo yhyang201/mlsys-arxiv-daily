@@ -4001,6 +4001,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Dictionary-Learning-Based Data Pruning for System Identification**|Tingna Wang et.al.|[2502.11484](http://arxiv.org/abs/2502.11484)|null|
+|**2025-02-14**|**Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace**|Di Li et.al.|[2502.10514](http://arxiv.org/abs/2502.10514)|null|
+|**2025-02-11**|**Analysis of Overparameterization in Continual Learning under a Linear Model**|Daniel Goldfarb et.al.|[2502.10442](http://arxiv.org/abs/2502.10442)|null|
+|**2025-02-09**|**Crypto Miner Attack: GPU Remote Code Execution Attacks**|Ariel Szabo et.al.|[2502.10439](http://arxiv.org/abs/2502.10439)|null|
 |**2025-02-13**|**Inverse Design with Dynamic Mode Decomposition**|Yunpeng Zhu et.al.|[2502.09490](http://arxiv.org/abs/2502.09490)|null|
 |**2025-02-13**|**ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments**|Youhe Jiang et.al.|[2502.09334](http://arxiv.org/abs/2502.09334)|null|
 |**2025-02-13**|**Bayesian Optimization for Simultaneous Selection of Machine Learning Algorithms and Hyperparameters on Shared Latent Space**|Kazuki Ishikawa et.al.|[2502.09329](http://arxiv.org/abs/2502.09329)|null|
