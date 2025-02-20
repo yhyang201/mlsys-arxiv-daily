@@ -4001,6 +4001,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Highly Dynamic and Flexible Spatio-Temporal Spectrum Management with AI-Driven O-RAN: A Multi-Granularity Marketplace Framework**|Mehdi Rasti et.al.|[2502.13891](http://arxiv.org/abs/2502.13891)|null|
+|**2025-02-19**|**Learning to explore when mistakes are not allowed**|Charly Pecqueux-Guézénec et.al.|[2502.13801](http://arxiv.org/abs/2502.13801)|null|
+|**2025-02-19**|**Multi-Target Radar Search and Track Using Sequence-Capable Deep Reinforcement Learning**|Jan-Hendrik Ewers et.al.|[2502.13584](http://arxiv.org/abs/2502.13584)|null|
+|**2025-02-19**|**Kernel Mean Embedding Topology: Weak and Strong Forms for Stochastic Kernels and Implications for Model Learning**|Naci Saldi et.al.|[2502.13486](http://arxiv.org/abs/2502.13486)|null|
+|**2025-02-18**|**Talking About the Assumption in the Room**|Ramaravind Kommiya Mothilal et.al.|[2502.13268](http://arxiv.org/abs/2502.13268)|null|
+|**2025-02-18**|**Enhancing Machine Learning Performance through Intelligent Data Quality Assessment: An Unsupervised Data-centric Framework**|Manal Rahal et.al.|[2502.13198](http://arxiv.org/abs/2502.13198)|null|
 |**2025-02-18**|**Investigating Issues that Lead to Code Technical Debt in Machine Learning Systems**|Rodrigo Ximenes et.al.|[2502.13011](http://arxiv.org/abs/2502.13011)|null|
 |**2025-02-18**|**Reinforcement Learning for Dynamic Resource Allocation in Optical Networks: Hype or Hope?**|Michael Doherty et.al.|[2502.12804](http://arxiv.org/abs/2502.12804)|null|
 |**2025-02-18**|**Design and Implementation of a Dual Uncrewed Surface Vessel Platform for Bathymetry Research under High-flow Conditions**|Dinesh Kumar et.al.|[2502.12539](http://arxiv.org/abs/2502.12539)|null|
