@@ -4022,6 +4022,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|null|
+|**2025-02-20**|**Reinforcement Learning with Graph Attention for Routing and Wavelength Assignment with Lightpath Reuse**|Michael Doherty et.al.|[2502.14741](http://arxiv.org/abs/2502.14741)|null|
+|**2025-02-20**|**Robust Information Selection for Hypothesis Testing with Misclassification Penalties**|Jayanth Bhargav et.al.|[2502.14738](http://arxiv.org/abs/2502.14738)|null|
+|**2025-02-20**|**Real-Time Sampling-based Online Planning for Drone Interception**|Gilhyun Ryou et.al.|[2502.14231](http://arxiv.org/abs/2502.14231)|null|
+|**2025-02-20**|**Sample Complexity of Linear Quadratic Regulator Without Initial Stability**|Amirreza Neshaei Moghaddam et.al.|[2502.14210](http://arxiv.org/abs/2502.14210)|null|
+|**2025-02-19**|**A Supervised Machine-Learning Approach For Turboshaft Engine Dynamic Modeling Under Real Flight Conditions**|Damiano Paniccia et.al.|[2502.14120](http://arxiv.org/abs/2502.14120)|null|
 |**2025-02-19**|**Highly Dynamic and Flexible Spatio-Temporal Spectrum Management with AI-Driven O-RAN: A Multi-Granularity Marketplace Framework**|Mehdi Rasti et.al.|[2502.13891](http://arxiv.org/abs/2502.13891)|null|
 |**2025-02-19**|**Learning to explore when mistakes are not allowed**|Charly Pecqueux-Guézénec et.al.|[2502.13801](http://arxiv.org/abs/2502.13801)|null|
 |**2025-02-19**|**Multi-Target Radar Search and Track Using Sequence-Capable Deep Reinforcement Learning**|Jan-Hendrik Ewers et.al.|[2502.13584](http://arxiv.org/abs/2502.13584)|null|
@@ -4040,7 +4046,7 @@
 |**2025-02-14**|**Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace**|Di Li et.al.|[2502.10514](http://arxiv.org/abs/2502.10514)|null|
 |**2025-02-11**|**Analysis of Overparameterization in Continual Learning under a Linear Model**|Daniel Goldfarb et.al.|[2502.10442](http://arxiv.org/abs/2502.10442)|null|
 |**2025-02-09**|**Crypto Miner Attack: GPU Remote Code Execution Attacks**|Ariel Szabo et.al.|[2502.10439](http://arxiv.org/abs/2502.10439)|null|
-|**2025-02-13**|**Inverse Design with Dynamic Mode Decomposition**|Yunpeng Zhu et.al.|[2502.09490](http://arxiv.org/abs/2502.09490)|null|
+|**2025-02-13**|**Inverse Design with Dynamic Mode Decomposition**|Yunpeng Zhu et.al.|[2502.09490](http://arxiv.org/abs/2502.09490)|**[link](https://github.com/YZ-Vista/Data-driven-dynamics_ID-DMD)**|
 |**2025-02-13**|**ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments**|Youhe Jiang et.al.|[2502.09334](http://arxiv.org/abs/2502.09334)|null|
 |**2025-02-13**|**Bayesian Optimization for Simultaneous Selection of Machine Learning Algorithms and Hyperparameters on Shared Latent Space**|Kazuki Ishikawa et.al.|[2502.09329](http://arxiv.org/abs/2502.09329)|null|
 |**2025-02-13**|**Dynamic Rolling Horizon Optimization for Network-Constrained V2X Value Stacking of Electric Vehicles Under Uncertainties**|Canchen Jiang et.al.|[2502.09290](http://arxiv.org/abs/2502.09290)|null|
