@@ -4001,14 +4001,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-21**|**TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning**|Giuseppe Paolo et.al.|[2502.15425](http://arxiv.org/abs/2502.15425)|null|
+|**2025-02-24**|**Continuous Integration Practices in Machine Learning Projects: The Practitioners` Perspective**|João Helis Bernardo et.al.|[2502.17378](http://arxiv.org/abs/2502.17378)|null|
+|**2025-02-24**|**A Concise Lyapunov Analysis of Nesterov's Accelerated Gradient Method**|Jun Liu et.al.|[2502.17373](http://arxiv.org/abs/2502.17373)|null|
+|**2025-02-22**|**A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments**|Kaixiang Zhao et.al.|[2502.16065](http://arxiv.org/abs/2502.16065)|null|
+|**2025-02-20**|**From Target Tracking to Targeting Track -- Part I: A Metric for Spatio-Temporal Trajectory Evaluation**|Tiancheng Li et.al.|[2502.15842](http://arxiv.org/abs/2502.15842)|null|
+|**2025-02-20**|**Advancing Out-of-Distribution Detection via Local Neuroplasticity**|Alessandro Canevaro et.al.|[2502.15833](http://arxiv.org/abs/2502.15833)|null|
+|**2025-02-18**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al.|[2502.15793](http://arxiv.org/abs/2502.15793)|null|
+|**2025-02-17**|**Model-free system identification of surface ships in waves via Hankel dynamic mode decomposition with control**|Giorgio Palma et.al.|[2502.15782](http://arxiv.org/abs/2502.15782)|null|
+|**2025-02-17**|**Feature Engineering Approach to Building Load Prediction: A Case Study for Commercial Building Chiller Plant Optimization in Tropical Weather**|Zhan Wang et.al.|[2502.15780](http://arxiv.org/abs/2502.15780)|null|
+|**2025-02-16**|**Deep Reinforcement Learning-Based Bidding Strategies for Prosumers Trading in Double Auction-Based Transactive Energy Market**|Jun Jiang et.al.|[2502.15774](http://arxiv.org/abs/2502.15774)|null|
+|**2025-02-12**|**Maturity Framework for Enhancing Machine Learning Quality**|Angelantonio Castelli et.al.|[2502.15758](http://arxiv.org/abs/2502.15758)|null|
+|**2025-02-24**|**TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning**|Giuseppe Paolo et.al.|[2502.15425](http://arxiv.org/abs/2502.15425)|null|
 |**2025-02-21**|**Multi-agent Multi-armed Bandits with Minimum Reward Guarantee Fairness**|Piyushi Manupriya et.al.|[2502.15240](http://arxiv.org/abs/2502.15240)|null|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|
 |**2025-02-20**|**Reinforcement Learning with Graph Attention for Routing and Wavelength Assignment with Lightpath Reuse**|Michael Doherty et.al.|[2502.14741](http://arxiv.org/abs/2502.14741)|null|
 |**2025-02-21**|**Robust Information Selection for Hypothesis Testing with Misclassification Penalties**|Jayanth Bhargav et.al.|[2502.14738](http://arxiv.org/abs/2502.14738)|null|
 |**2025-02-20**|**Real-Time Sampling-based Online Planning for Drone Interception**|Gilhyun Ryou et.al.|[2502.14231](http://arxiv.org/abs/2502.14231)|null|
 |**2025-02-20**|**Sample Complexity of Linear Quadratic Regulator Without Initial Stability**|Amirreza Neshaei Moghaddam et.al.|[2502.14210](http://arxiv.org/abs/2502.14210)|null|
-|**2025-02-19**|**A Supervised Machine-Learning Approach For Turboshaft Engine Dynamic Modeling Under Real Flight Conditions**|Damiano Paniccia et.al.|[2502.14120](http://arxiv.org/abs/2502.14120)|null|
+|**2025-02-23**|**A Supervised Machine-Learning Approach For Turboshaft Engine Dynamic Modeling Under Real Flight Conditions**|Damiano Paniccia et.al.|[2502.14120](http://arxiv.org/abs/2502.14120)|null|
 |**2025-02-19**|**Highly Dynamic and Flexible Spatio-Temporal Spectrum Management with AI-Driven O-RAN: A Multi-Granularity Marketplace Framework**|Mehdi Rasti et.al.|[2502.13891](http://arxiv.org/abs/2502.13891)|null|
 |**2025-02-19**|**Learning to explore when mistakes are not allowed**|Charly Pecqueux-Guézénec et.al.|[2502.13801](http://arxiv.org/abs/2502.13801)|null|
 |**2025-02-19**|**Multi-Target Radar Search and Track Using Sequence-Capable Deep Reinforcement Learning**|Jan-Hendrik Ewers et.al.|[2502.13584](http://arxiv.org/abs/2502.13584)|null|
@@ -4030,7 +4040,7 @@ layout: default
 |**2025-02-13**|**Inverse Design with Dynamic Mode Decomposition**|Yunpeng Zhu et.al.|[2502.09490](http://arxiv.org/abs/2502.09490)|**[link](https://github.com/YZ-Vista/Data-driven-dynamics_ID-DMD)**|
 |**2025-02-13**|**ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments**|Youhe Jiang et.al.|[2502.09334](http://arxiv.org/abs/2502.09334)|null|
 |**2025-02-13**|**Bayesian Optimization for Simultaneous Selection of Machine Learning Algorithms and Hyperparameters on Shared Latent Space**|Kazuki Ishikawa et.al.|[2502.09329](http://arxiv.org/abs/2502.09329)|null|
-|**2025-02-13**|**Dynamic Rolling Horizon Optimization for Network-Constrained V2X Value Stacking of Electric Vehicles Under Uncertainties**|Canchen Jiang et.al.|[2502.09290](http://arxiv.org/abs/2502.09290)|null|
+|**2025-02-22**|**Dynamic Rolling Horizon Optimization for Network-Constrained V2X Value Stacking of Electric Vehicles Under Uncertainties**|Canchen Jiang et.al.|[2502.09290](http://arxiv.org/abs/2502.09290)|null|
 |**2025-02-13**|**Quantifying Cryptocurrency Unpredictability: A Comprehensive Study of Complexity and Forecasting**|Francesco Puoti et.al.|[2502.09079](http://arxiv.org/abs/2502.09079)|null|
 |**2025-02-13**|**Integrated Optimization and Game Theory Framework for Fair Cost Allocation in Community Microgrids**|K. Victor Sam Moses Babu et.al.|[2502.08953](http://arxiv.org/abs/2502.08953)|null|
 |**2025-02-13**|**On the Promise for Assurance of Differentiable Neurosymbolic Reasoning Paradigms**|Luke E. Richards et.al.|[2502.08932](http://arxiv.org/abs/2502.08932)|null|
