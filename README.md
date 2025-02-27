@@ -4022,11 +4022,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Recurrent Auto-Encoders for Enhanced Deep Reinforcement Learning in Wilderness Search and Rescue Planning**|Jan-Hendrik Ewers et.al.|[2502.19356](http://arxiv.org/abs/2502.19356)|null|
 |**2025-02-25**|**Sample-efficient diffusion-based control of complex nonlinear systems**|Hongyi Chen et.al.|[2502.17893](http://arxiv.org/abs/2502.17893)|null|
 |**2025-02-25**|**Toward 6-DOF Autonomous Underwater Vehicle Energy-Aware Position Control based on Deep Reinforcement Learning: Preliminary Results**|Gustavo Boré et.al.|[2502.17742](http://arxiv.org/abs/2502.17742)|null|
 |**2025-02-24**|**MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference**|Zhongwei Wan et.al.|[2502.17599](http://arxiv.org/abs/2502.17599)|null|
 |**2025-02-24**|**Continuous Integration Practices in Machine Learning Projects: The Practitioners` Perspective**|João Helis Bernardo et.al.|[2502.17378](http://arxiv.org/abs/2502.17378)|null|
 |**2025-02-25**|**A Concise Lyapunov Analysis of Nesterov's Accelerated Gradient Method**|Jun Liu et.al.|[2502.17373](http://arxiv.org/abs/2502.17373)|null|
+|**2025-02-26**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949](http://arxiv.org/abs/2502.16949)|null|
 |**2025-02-22**|**A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments**|Kaixiang Zhao et.al.|[2502.16065](http://arxiv.org/abs/2502.16065)|null|
 |**2025-02-20**|**From Target Tracking to Targeting Track -- Part I: A Metric for Spatio-Temporal Trajectory Evaluation**|Tiancheng Li et.al.|[2502.15842](http://arxiv.org/abs/2502.15842)|null|
 |**2025-02-20**|**Advancing Out-of-Distribution Detection via Local Neuroplasticity**|Alessandro Canevaro et.al.|[2502.15833](http://arxiv.org/abs/2502.15833)|null|
