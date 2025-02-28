@@ -4022,6 +4022,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
+|**2025-02-27**|**Offline Reinforcement Learning via Inverse Optimization**|Ioannis Dimanidis et.al.|[2502.20030](http://arxiv.org/abs/2502.20030)|null|
+|**2025-02-26**|**Treatment Non-Adherence Bias in Clinical Machine Learning: A Real-World Study on Hypertension Medication**|Zhongyuan Liang et.al.|[2502.19625](http://arxiv.org/abs/2502.19625)|null|
 |**2025-02-26**|**Recurrent Auto-Encoders for Enhanced Deep Reinforcement Learning in Wilderness Search and Rescue Planning**|Jan-Hendrik Ewers et.al.|[2502.19356](http://arxiv.org/abs/2502.19356)|null|
 |**2025-02-25**|**Sample-efficient diffusion-based control of complex nonlinear systems**|Hongyi Chen et.al.|[2502.17893](http://arxiv.org/abs/2502.17893)|null|
 |**2025-02-25**|**Toward 6-DOF Autonomous Underwater Vehicle Energy-Aware Position Control based on Deep Reinforcement Learning: Preliminary Results**|Gustavo Boré et.al.|[2502.17742](http://arxiv.org/abs/2502.17742)|null|
@@ -4060,7 +4064,7 @@
 |**2025-02-17**|**Learning Plasma Dynamics and Robust Rampdown Trajectories with Predict-First Experiments at TCV**|Allen M. Wang et.al.|[2502.12327](http://arxiv.org/abs/2502.12327)|null|
 |**2025-02-11**|**Scalable and Robust Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2502.12164](http://arxiv.org/abs/2502.12164)|**[link](https://github.com/HammerLabML/SPIGNNs_for_WDSs)**|
 |**2025-02-17**|**Dictionary-Learning-Based Data Pruning for System Identification**|Tingna Wang et.al.|[2502.11484](http://arxiv.org/abs/2502.11484)|null|
-|**2025-02-14**|**Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace**|Di Li et.al.|[2502.10514](http://arxiv.org/abs/2502.10514)|null|
+|**2025-02-27**|**Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace**|Di Li et.al.|[2502.10514](http://arxiv.org/abs/2502.10514)|null|
 |**2025-02-11**|**Analysis of Overparameterization in Continual Learning under a Linear Model**|Daniel Goldfarb et.al.|[2502.10442](http://arxiv.org/abs/2502.10442)|null|
 |**2025-02-09**|**Crypto Miner Attack: GPU Remote Code Execution Attacks**|Ariel Szabo et.al.|[2502.10439](http://arxiv.org/abs/2502.10439)|null|
 |**2025-02-13**|**Inverse Design with Dynamic Mode Decomposition**|Yunpeng Zhu et.al.|[2502.09490](http://arxiv.org/abs/2502.09490)|**[link](https://github.com/YZ-Vista/Data-driven-dynamics_ID-DMD)**|
