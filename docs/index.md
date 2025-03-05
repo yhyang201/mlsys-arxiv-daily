@@ -4001,6 +4001,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**A Systematic Literature Review on Safety of the Intended Functionality for Automated Driving Systems**|Milin Patel et.al.|[2503.02498](http://arxiv.org/abs/2503.02498)|null|
+|**2025-03-03**|**Uncertainty Representation in a SOTIF-Related Use Case with Dempster-Shafer Theory for LiDAR Sensor-Based Object Detection**|Milin Patel et.al.|[2503.02087](http://arxiv.org/abs/2503.02087)|null|
+|**2025-03-03**|**Active Alignments of Lens Systems with Reinforcement Learning**|Matthias Burkhardt et.al.|[2503.02075](http://arxiv.org/abs/2503.02075)|null|
+|**2025-03-03**|**Accelerating Multi-Task Temporal Difference Learning under Low-Rank Representation**|Yitao Bai et.al.|[2503.02030](http://arxiv.org/abs/2503.02030)|null|
+|**2025-03-03**|**Stone Soup Multi-Target Tracking Feature Extraction For Autonomous Search And Track In Deep Reinforcement Learning Environment**|Jan-Hendrik Ewers et.al.|[2503.01293](http://arxiv.org/abs/2503.01293)|null|
+|**2025-03-01**|**Learning Automata of PLCs in Production Lines Using LSTM**|Iyas AlTalafha et.al.|[2503.00631](http://arxiv.org/abs/2503.00631)|null|
+|**2025-03-01**|**BodyGen: Advancing Towards Efficient Embodiment Co-Design**|Haofei Lu et.al.|[2503.00533](http://arxiv.org/abs/2503.00533)|null|
+|**2025-03-01**|**A physics-informed Bayesian optimization method for rapid development of electrical machines**|Pedram Asef et.al.|[2503.00420](http://arxiv.org/abs/2503.00420)|null|
+|**2025-03-01**|**FLStore: Efficient Federated Learning Storage for non-training workloads**|Ahmad Faraz Khan et.al.|[2503.00323](http://arxiv.org/abs/2503.00323)|null|
+|**2025-02-28**|**Towards Fairness for the Right Reasons: Using Saliency Maps to Evaluate Bias Removal in Neural Networks**|Lukasz Sztukiewicz et.al.|[2503.00234](http://arxiv.org/abs/2503.00234)|null|
+|**2025-02-28**|**SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models**|Jiawei Zhang et.al.|[2503.00211](http://arxiv.org/abs/2503.00211)|null|
+|**2025-02-28**|**ProDapt: Proprioceptive Adaptation using Long-term Memory Diffusion**|Federico Pizarro Bejarano et.al.|[2503.00193](http://arxiv.org/abs/2503.00193)|**[link](https://github.com/federico-pizarrobejarano/prodapt)**|
 |**2025-03-03**|**Causality Is Key to Understand and Balance Multiple Goals in Trustworthy ML and Foundation Models**|Ruta Binkyte et.al.|[2502.21123](http://arxiv.org/abs/2502.21123)|null|
 |**2025-02-28**|**Can LLM Assist in the Evaluation of the Quality of Machine Learning Explanations?**|Bo Wang et.al.|[2502.20635](http://arxiv.org/abs/2502.20635)|null|
 |**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
