@@ -4022,6 +4022,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Domain Consistent Industrial Decarbonisation of Global Coal Power Plants**|Waqar Muhammad Ashraf et.al.|[2503.03571](http://arxiv.org/abs/2503.03571)|null|
+|**2025-03-05**|**Transformer-Based Power Optimization for Max-Min Fairness in Cell-Free Massive MIMO**|Irched Chafaa et.al.|[2503.03561](http://arxiv.org/abs/2503.03561)|null|
+|**2025-03-05**|**Simulation-Based Performance Evaluation of 3D Object Detection Methods with Deep Learning for a LiDAR Point Cloud Dataset in a SOTIF-related Use Case**|Milin Patel et.al.|[2503.03548](http://arxiv.org/abs/2503.03548)|null|
+|**2025-03-05**|**Towards Continuous Experiment-driven MLOps**|Keerthiga Rajenthiram et.al.|[2503.03455](http://arxiv.org/abs/2503.03455)|null|
+|**2025-03-05**|**A Novel Multi-Criteria Local Latin Hypercube Refinement System for Commutation Angle Improvement in IPMSMs**|Pedram Asef et.al.|[2503.03372](http://arxiv.org/abs/2503.03372)|null|
+|**2025-03-05**|**A Systematic Survey on Debugging Techniques for Machine Learning Systems**|Thanh-Dat Nguyen et.al.|[2503.03158](http://arxiv.org/abs/2503.03158)|null|
+|**2025-03-04**|**Robust time series generation via Schrödinger Bridge: a comprehensive evaluation**|Alexandre Alouadi et.al.|[2503.02943](http://arxiv.org/abs/2503.02943)|null|
 |**2025-03-04**|**A Systematic Literature Review on Safety of the Intended Functionality for Automated Driving Systems**|Milin Patel et.al.|[2503.02498](http://arxiv.org/abs/2503.02498)|null|
 |**2025-03-03**|**Uncertainty Representation in a SOTIF-Related Use Case with Dempster-Shafer Theory for LiDAR Sensor-Based Object Detection**|Milin Patel et.al.|[2503.02087](http://arxiv.org/abs/2503.02087)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
 |**2025-03-03**|**Active Alignments of Lens Systems with Reinforcement Learning**|Matthias Burkhardt et.al.|[2503.02075](http://arxiv.org/abs/2503.02075)|null|
@@ -4055,7 +4062,7 @@
 |**2025-02-17**|**Feature Engineering Approach to Building Load Prediction: A Case Study for Commercial Building Chiller Plant Optimization in Tropical Weather**|Zhan Wang et.al.|[2502.15780](http://arxiv.org/abs/2502.15780)|null|
 |**2025-02-16**|**Deep Reinforcement Learning-Based Bidding Strategies for Prosumers Trading in Double Auction-Based Transactive Energy Market**|Jun Jiang et.al.|[2502.15774](http://arxiv.org/abs/2502.15774)|null|
 |**2025-02-12**|**Maturity Framework for Enhancing Machine Learning Quality**|Angelantonio Castelli et.al.|[2502.15758](http://arxiv.org/abs/2502.15758)|null|
-|**2025-03-03**|**TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning**|Giuseppe Paolo et.al.|[2502.15425](http://arxiv.org/abs/2502.15425)|null|
+|**2025-03-05**|**TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning**|Giuseppe Paolo et.al.|[2502.15425](http://arxiv.org/abs/2502.15425)|null|
 |**2025-02-21**|**Multi-agent Multi-armed Bandits with Minimum Reward Guarantee Fairness**|Piyushi Manupriya et.al.|[2502.15240](http://arxiv.org/abs/2502.15240)|**[link](https://github.com/Piyushi-0/Fair-MAMAB)**|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|
 |**2025-02-20**|**Reinforcement Learning with Graph Attention for Routing and Wavelength Assignment with Lightpath Reuse**|Michael Doherty et.al.|[2502.14741](http://arxiv.org/abs/2502.14741)|null|
