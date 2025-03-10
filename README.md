@@ -4022,6 +4022,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Neuromorphic Quantum Neural Networks with Tunnel-Diode Activation Functions**|Jake McNaughton et.al.|[2503.04978](http://arxiv.org/abs/2503.04978)|null|
+|**2025-03-06**|**Neural Configuration-Space Barriers for Manipulation Planning and Control**|Kehan Long et.al.|[2503.04929](http://arxiv.org/abs/2503.04929)|null|
+|**2025-03-03**|**What do Large Language Models Say About Animals? Investigating Risks of Animal Harm in Generated Text**|Arturs Kanepajs et.al.|[2503.04804](http://arxiv.org/abs/2503.04804)|null|
 |**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
 |**2025-03-06**|**AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services**|Xiaoqi Wang et.al.|[2503.04418](http://arxiv.org/abs/2503.04418)|null|
 |**2025-03-06**|**EDCA -- An Evolutionary Data-Centric AutoML Framework for Efficient Pipelines**|Joana Simões et.al.|[2503.04350](http://arxiv.org/abs/2503.04350)|null|
