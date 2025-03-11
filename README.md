@@ -4022,9 +4022,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Diagnostic-free onboard battery health assessment**|Yunhong Che et.al.|[2503.07383](http://arxiv.org/abs/2503.07383)|null|
+|**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|null|
+|**2025-03-10**|**Hierarchical Neuro-Symbolic Decision Transformer**|Ali Baheri et.al.|[2503.07148](http://arxiv.org/abs/2503.07148)|null|
+|**2025-03-09**|**Agile Climate-Sensor Design and Calibration Algorithms Using Machine Learning: Experiments From Cape Point**|Travis Barrett et.al.|[2503.06777](http://arxiv.org/abs/2503.06777)|null|
+|**2025-03-09**|**Precise Insulin Delivery for Artificial Pancreas: A Reinforcement Learning Optimized Adaptive Fuzzy Control Approach**|Omar Mameche et.al.|[2503.06701](http://arxiv.org/abs/2503.06701)|null|
+|**2025-03-09**|**Synthetic Data Generation for Minimum-Exposure Navigation in a Time-Varying Environment using Generative AI Models**|Nachiket U. Bapat et.al.|[2503.06619](http://arxiv.org/abs/2503.06619)|null|
+|**2025-03-09**|**Inverse Reinforcement Learning for Minimum-Exposure Paths in Spatiotemporally Varying Scalar Fields**|Alexandra E. Ballentine et.al.|[2503.06611](http://arxiv.org/abs/2503.06611)|null|
+|**2025-03-09**|**Generalizable Machine Learning Models for Predicting Data Center Server Power, Efficiency, and Throughput**|Nuoa Lei et.al.|[2503.06439](http://arxiv.org/abs/2503.06439)|null|
+|**2025-03-09**|**Interference-Aware Edge Runtime Prediction with Conformal Matrix Completion**|Tianshu Huang et.al.|[2503.06428](http://arxiv.org/abs/2503.06428)|null|
+|**2025-03-08**|**Lightweight Software Kernels and Hardware Extensions for Efficient Sparse Deep Neural Networks on Microcontrollers**|Francesco Daghero et.al.|[2503.06183](http://arxiv.org/abs/2503.06183)|null|
+|**2025-03-07**|**Physics-Informed Generative Approaches for Wireless Channel Modeling**|Satyavrat Wagle et.al.|[2503.05988](http://arxiv.org/abs/2503.05988)|null|
 |**2025-03-06**|**Neuromorphic Quantum Neural Networks with Tunnel-Diode Activation Functions**|Jake McNaughton et.al.|[2503.04978](http://arxiv.org/abs/2503.04978)|null|
 |**2025-03-06**|**Neural Configuration-Space Barriers for Manipulation Planning and Control**|Kehan Long et.al.|[2503.04929](http://arxiv.org/abs/2503.04929)|null|
-|**2025-03-03**|**What do Large Language Models Say About Animals? Investigating Risks of Animal Harm in Generated Text**|Arturs Kanepajs et.al.|[2503.04804](http://arxiv.org/abs/2503.04804)|null|
+|**2025-03-10**|**What do Large Language Models Say About Animals? Investigating Risks of Animal Harm in Generated Text**|Arturs Kanepajs et.al.|[2503.04804](http://arxiv.org/abs/2503.04804)|null|
 |**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
 |**2025-03-06**|**AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services**|Xiaoqi Wang et.al.|[2503.04418](http://arxiv.org/abs/2503.04418)|null|
 |**2025-03-06**|**EDCA -- An Evolutionary Data-Centric AutoML Framework for Efficient Pipelines**|Joana Simões et.al.|[2503.04350](http://arxiv.org/abs/2503.04350)|null|
