@@ -4001,6 +4001,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**An Analysis of Safety Guarantees in Multi-Task Bayesian Optimization**|Jannis O. Luebsen et.al.|[2503.08555](http://arxiv.org/abs/2503.08555)|null|
+|**2025-03-11**|**Bogus Bugs, Duplicates, and Revealing Comments: Data Quality Issues in NPR**|Julian Aron Prenner et.al.|[2503.08532](http://arxiv.org/abs/2503.08532)|null|
+|**2025-03-11**|**Domain Adaptation and Entanglement: an Optimal Transport Perspective**|Okan Koç et.al.|[2503.08155](http://arxiv.org/abs/2503.08155)|null|
+|**2025-03-04**|**A Quantum Neural Network Transfer-Learning Model for Forecasting Problems with Continuous and Discrete Variables**|Ismael Abdulrahman et.al.|[2503.07633](http://arxiv.org/abs/2503.07633)|null|
 |**2025-03-10**|**Diagnostic-free onboard battery health assessment**|Yunhong Che et.al.|[2503.07383](http://arxiv.org/abs/2503.07383)|null|
 |**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|null|
 |**2025-03-10**|**Hierarchical Neuro-Symbolic Decision Transformer**|Ali Baheri et.al.|[2503.07148](http://arxiv.org/abs/2503.07148)|null|
@@ -4011,7 +4015,7 @@ layout: default
 |**2025-03-09**|**Generalizable Machine Learning Models for Predicting Data Center Server Power, Efficiency, and Throughput**|Nuoa Lei et.al.|[2503.06439](http://arxiv.org/abs/2503.06439)|null|
 |**2025-03-09**|**Interference-Aware Edge Runtime Prediction with Conformal Matrix Completion**|Tianshu Huang et.al.|[2503.06428](http://arxiv.org/abs/2503.06428)|null|
 |**2025-03-08**|**Lightweight Software Kernels and Hardware Extensions for Efficient Sparse Deep Neural Networks on Microcontrollers**|Francesco Daghero et.al.|[2503.06183](http://arxiv.org/abs/2503.06183)|null|
-|**2025-03-07**|**Physics-Informed Generative Approaches for Wireless Channel Modeling**|Satyavrat Wagle et.al.|[2503.05988](http://arxiv.org/abs/2503.05988)|null|
+|**2025-03-11**|**Physics-Informed Generative Approaches for Wireless Channel Modeling**|Satyavrat Wagle et.al.|[2503.05988](http://arxiv.org/abs/2503.05988)|null|
 |**2025-03-06**|**Neuromorphic Quantum Neural Networks with Tunnel-Diode Activation Functions**|Jake McNaughton et.al.|[2503.04978](http://arxiv.org/abs/2503.04978)|null|
 |**2025-03-06**|**Neural Configuration-Space Barriers for Manipulation Planning and Control**|Kehan Long et.al.|[2503.04929](http://arxiv.org/abs/2503.04929)|null|
 |**2025-03-10**|**What do Large Language Models Say About Animals? Investigating Risks of Animal Harm in Generated Text**|Arturs Kanepajs et.al.|[2503.04804](http://arxiv.org/abs/2503.04804)|null|
