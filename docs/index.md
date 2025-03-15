@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4016,14 +4016,14 @@ layout: default
 |**2025-03-11**|**Domain Adaptation and Entanglement: an Optimal Transport Perspective**|Okan Koç et.al.|[2503.08155](http://arxiv.org/abs/2503.08155)|null|
 |**2025-03-04**|**A Quantum Neural Network Transfer-Learning Model for Forecasting Problems with Continuous and Discrete Variables**|Ismael Abdulrahman et.al.|[2503.07633](http://arxiv.org/abs/2503.07633)|null|
 |**2025-03-10**|**Diagnostic-free onboard battery health assessment**|Yunhong Che et.al.|[2503.07383](http://arxiv.org/abs/2503.07383)|null|
-|**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|null|
+|**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|**[link](https://github.com/zyhe/distribution-dynamics-opt)**|
 |**2025-03-12**|**Hierarchical Neuro-Symbolic Decision Transformer**|Ali Baheri et.al.|[2503.07148](http://arxiv.org/abs/2503.07148)|null|
 |**2025-03-09**|**Agile Climate-Sensor Design and Calibration Algorithms Using Machine Learning: Experiments From Cape Point**|Travis Barrett et.al.|[2503.06777](http://arxiv.org/abs/2503.06777)|null|
 |**2025-03-09**|**Precise Insulin Delivery for Artificial Pancreas: A Reinforcement Learning Optimized Adaptive Fuzzy Control Approach**|Omar Mameche et.al.|[2503.06701](http://arxiv.org/abs/2503.06701)|null|
 |**2025-03-09**|**Synthetic Data Generation for Minimum-Exposure Navigation in a Time-Varying Environment using Generative AI Models**|Nachiket U. Bapat et.al.|[2503.06619](http://arxiv.org/abs/2503.06619)|null|
 |**2025-03-09**|**Inverse Reinforcement Learning for Minimum-Exposure Paths in Spatiotemporally Varying Scalar Fields**|Alexandra E. Ballentine et.al.|[2503.06611](http://arxiv.org/abs/2503.06611)|null|
 |**2025-03-09**|**Generalizable Machine Learning Models for Predicting Data Center Server Power, Efficiency, and Throughput**|Nuoa Lei et.al.|[2503.06439](http://arxiv.org/abs/2503.06439)|null|
-|**2025-03-09**|**Interference-Aware Edge Runtime Prediction with Conformal Matrix Completion**|Tianshu Huang et.al.|[2503.06428](http://arxiv.org/abs/2503.06428)|null|
+|**2025-03-09**|**Interference-Aware Edge Runtime Prediction with Conformal Matrix Completion**|Tianshu Huang et.al.|[2503.06428](http://arxiv.org/abs/2503.06428)|**[link](https://github.com/wiselabcmu/pitot)**|
 |**2025-03-08**|**Lightweight Software Kernels and Hardware Extensions for Efficient Sparse Deep Neural Networks on Microcontrollers**|Francesco Daghero et.al.|[2503.06183](http://arxiv.org/abs/2503.06183)|null|
 |**2025-03-11**|**Physics-Informed Generative Approaches for Wireless Channel Modeling**|Satyavrat Wagle et.al.|[2503.05988](http://arxiv.org/abs/2503.05988)|null|
 |**2025-03-06**|**Neuromorphic Quantum Neural Networks with Tunnel-Diode Activation Functions**|Jake McNaughton et.al.|[2503.04978](http://arxiv.org/abs/2503.04978)|null|
@@ -4044,7 +4044,7 @@ layout: default
 |**2025-03-08**|**Robust time series generation via Schrödinger Bridge: a comprehensive evaluation**|Alexandre Alouadi et.al.|[2503.02943](http://arxiv.org/abs/2503.02943)|null|
 |**2025-03-04**|**A Systematic Literature Review on Safety of the Intended Functionality for Automated Driving Systems**|Milin Patel et.al.|[2503.02498](http://arxiv.org/abs/2503.02498)|null|
 |**2025-03-03**|**Uncertainty Representation in a SOTIF-Related Use Case with Dempster-Shafer Theory for LiDAR Sensor-Based Object Detection**|Milin Patel et.al.|[2503.02087](http://arxiv.org/abs/2503.02087)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
-|**2025-03-03**|**Active Alignments of Lens Systems with Reinforcement Learning**|Matthias Burkhardt et.al.|[2503.02075](http://arxiv.org/abs/2503.02075)|**[link](https://github.com/hs-kempten/relign)**|
+|**2025-03-03**|**Active Alignments of Lens Systems with Reinforcement Learning**|Matthias Burkhardt et.al.|[2503.02075](http://arxiv.org/abs/2503.02075)|null|
 |**2025-03-03**|**Accelerating Multi-Task Temporal Difference Learning under Low-Rank Representation**|Yitao Bai et.al.|[2503.02030](http://arxiv.org/abs/2503.02030)|null|
 |**2025-03-03**|**Stone Soup Multi-Target Tracking Feature Extraction For Autonomous Search And Track In Deep Reinforcement Learning Environment**|Jan-Hendrik Ewers et.al.|[2503.01293](http://arxiv.org/abs/2503.01293)|null|
 |**2025-03-01**|**Learning Automata of PLCs in Production Lines Using LSTM**|Iyas AlTalafha et.al.|[2503.00631](http://arxiv.org/abs/2503.00631)|null|
