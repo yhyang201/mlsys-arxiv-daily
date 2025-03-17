@@ -4001,6 +4001,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**A Real-World Energy Management Dataset from a Smart Company Building for Optimization and Machine Learning**|Jens Engel et.al.|[2503.11469](http://arxiv.org/abs/2503.11469)|null|
+|**2025-03-14**|**Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning**|Andrés Chavarrías et.al.|[2503.11433](http://arxiv.org/abs/2503.11433)|null|
+|**2025-03-14**|**A Multi-Objective Evaluation Framework for Analyzing Utility-Fairness Trade-Offs in Machine Learning Systems**|Gökhan Özbulak et.al.|[2503.11120](http://arxiv.org/abs/2503.11120)|null|
+|**2025-03-13**|**Efficient Reachability Analysis for Convolutional Neural Networks Using Hybrid Zonotopes**|Yuhao Zhang et.al.|[2503.10840](http://arxiv.org/abs/2503.10840)|null|
+|**2025-03-13**|**Lessons from the trenches on evaluating machine-learning systems in materials science**|Nawaf Alampara et.al.|[2503.10837](http://arxiv.org/abs/2503.10837)|null|
 |**2025-03-13**|**Safe exploration in reproducing kernel Hilbert spaces**|Abdullah Tokmak et.al.|[2503.10352](http://arxiv.org/abs/2503.10352)|null|
 |**2025-03-12**|**A Rule Based Solution to Co-reference Resolution in Clinical Text**|Ping Chen et.al.|[2503.09896](http://arxiv.org/abs/2503.09896)|null|
 |**2025-03-12**|**A Comprehensive Review on Understanding the Decentralized and Collaborative Approach in Machine Learning**|Sarwar Saif et.al.|[2503.09833](http://arxiv.org/abs/2503.09833)|null|
