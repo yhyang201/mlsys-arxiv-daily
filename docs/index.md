@@ -4001,6 +4001,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Laplace-Net: Learning Dynamical Systems with External Forcing**|Bernd Zimmering et.al.|[2503.13158](http://arxiv.org/abs/2503.13158)|null|
+|**2025-03-16**|**RL-TIME: Reinforcement Learning-based Task Replication in Multicore Embedded Systems**|Roozbeh Siyadatzadeh et.al.|[2503.12677](http://arxiv.org/abs/2503.12677)|null|
+|**2025-03-16**|**SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression**|Xin Wang et.al.|[2503.12340](http://arxiv.org/abs/2503.12340)|null|
+|**2025-03-15**|**A State Alignment-Centric Approach to Federated System Identification: The FedAlign Framework**|Ertuğrul Keçeci et.al.|[2503.12137](http://arxiv.org/abs/2503.12137)|null|
+|**2025-03-14**|**Bayes and Biased Estimators Without Hyper-parameter Estimation: Comparable Performance to the Empirical-Bayes-Based Regularized Estimator**|Yue Ju et.al.|[2503.11854](http://arxiv.org/abs/2503.11854)|null|
+|**2025-03-11**|**Balancing SoC in Battery Cells using Safe Action Perturbations**|E Harshith Kumar Yadav et.al.|[2503.11696](http://arxiv.org/abs/2503.11696)|null|
 |**2025-03-14**|**A Real-World Energy Management Dataset from a Smart Company Building for Optimization and Machine Learning**|Jens Engel et.al.|[2503.11469](http://arxiv.org/abs/2503.11469)|null|
 |**2025-03-14**|**Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning**|Andrés Chavarrías et.al.|[2503.11433](http://arxiv.org/abs/2503.11433)|null|
 |**2025-03-14**|**A Multi-Objective Evaluation Framework for Analyzing Utility-Fairness Trade-Offs in Machine Learning Systems**|Gökhan Özbulak et.al.|[2503.11120](http://arxiv.org/abs/2503.11120)|null|
@@ -4016,7 +4022,7 @@ layout: default
 |**2025-03-12**|**Context-aware Constrained Reinforcement Learning Based Energy-Efficient Power Scheduling for Non-stationary XR Data Traffic**|Kexuan Wang et.al.|[2503.09391](http://arxiv.org/abs/2503.09391)|null|
 |**2025-03-12**|**Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning**|Qiang Li et.al.|[2503.09252](http://arxiv.org/abs/2503.09252)|null|
 |**2025-03-12**|**TetraGrip: Sensor-Driven Multi-Suction Reactive Object Manipulation in Cluttered Scenes**|Paolo Torrado et.al.|[2503.08978](http://arxiv.org/abs/2503.08978)|null|
-|**2025-03-11**|**An Analysis of Safety Guarantees in Multi-Task Bayesian Optimization**|Jannis O. Luebsen et.al.|[2503.08555](http://arxiv.org/abs/2503.08555)|null|
+|**2025-03-17**|**An Analysis of Safety Guarantees in Multi-Task Bayesian Optimization**|Jannis O. Luebsen et.al.|[2503.08555](http://arxiv.org/abs/2503.08555)|null|
 |**2025-03-11**|**Bogus Bugs, Duplicates, and Revealing Comments: Data Quality Issues in NPR**|Julian Aron Prenner et.al.|[2503.08532](http://arxiv.org/abs/2503.08532)|null|
 |**2025-03-11**|**Domain Adaptation and Entanglement: an Optimal Transport Perspective**|Okan Koç et.al.|[2503.08155](http://arxiv.org/abs/2503.08155)|null|
 |**2025-03-04**|**A Quantum Neural Network Transfer-Learning Model for Forecasting Problems with Continuous and Discrete Variables**|Ismael Abdulrahman et.al.|[2503.07633](http://arxiv.org/abs/2503.07633)|null|
