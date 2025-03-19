@@ -4001,6 +4001,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Landscape Complexity for the Empirical Risk of Generalized Linear Models: Discrimination between Structured Data**|Theodoros G. Tsironis et.al.|[2503.14403](http://arxiv.org/abs/2503.14403)|null|
+|**2025-03-18**|**Improved Scalable Lipschitz Bounds for Deep Neural Networks**|Usman Syed et.al.|[2503.14297](http://arxiv.org/abs/2503.14297)|null|
+|**2025-03-18**|**The Hidden Bloat in Machine Learning Systems**|Huaifeng Zhang et.al.|[2503.14226](http://arxiv.org/abs/2503.14226)|null|
+|**2025-03-18**|**Modular Distributed Nonconvex Learning with Error Feedback**|Guido Carnevale et.al.|[2503.14055](http://arxiv.org/abs/2503.14055)|null|
+|**2025-03-17**|**A finite-sample bound for identifying partially observed linear switched systems from a single trajectory**|Daniel Racz et.al.|[2503.13766](http://arxiv.org/abs/2503.13766)|null|
+|**2025-03-09**|**Statistical Study of Sensor Data and Investigation of ML-based Calibration Algorithms for Inexpensive Sensor Modules: Experiments from Cape Point**|Travis Barrett et.al.|[2503.13487](http://arxiv.org/abs/2503.13487)|null|
 |**2025-03-17**|**Laplace-Net: Learning Dynamical Systems with External Forcing**|Bernd Zimmering et.al.|[2503.13158](http://arxiv.org/abs/2503.13158)|null|
 |**2025-03-16**|**RL-TIME: Reinforcement Learning-based Task Replication in Multicore Embedded Systems**|Roozbeh Siyadatzadeh et.al.|[2503.12677](http://arxiv.org/abs/2503.12677)|null|
 |**2025-03-16**|**SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression**|Xin Wang et.al.|[2503.12340](http://arxiv.org/abs/2503.12340)|null|
