@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4023,7 +4023,7 @@ layout: default
 |**2025-03-12**|**A Comprehensive Review on Understanding the Decentralized and Collaborative Approach in Machine Learning**|Sarwar Saif et.al.|[2503.09833](http://arxiv.org/abs/2503.09833)|null|
 |**2025-03-18**|**SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey**|Joohwan Seo et.al.|[2503.09829](http://arxiv.org/abs/2503.09829)|null|
 |**2025-03-12**|**Real-Time Risky Fault-Chain Search using Time-Varying Graph RNNs**|Anmol Dwivedi et.al.|[2503.09775](http://arxiv.org/abs/2503.09775)|**[link](https://github.com/anmold-07/GRNN-FaultChain-Predictor)**|
-|**2025-03-12**|**The Pitfalls of Imitation Learning when Actions are Continuous**|Max Simchowitz et.al.|[2503.09722](http://arxiv.org/abs/2503.09722)|null|
+|**2025-03-19**|**The Pitfalls of Imitation Learning when Actions are Continuous**|Max Simchowitz et.al.|[2503.09722](http://arxiv.org/abs/2503.09722)|null|
 |**2025-03-12**|**Precoder Learning by Leveraging Unitary Equivariance Property**|Yilun Ge et.al.|[2503.09398](http://arxiv.org/abs/2503.09398)|null|
 |**2025-03-12**|**Context-aware Constrained Reinforcement Learning Based Energy-Efficient Power Scheduling for Non-stationary XR Data Traffic**|Kexuan Wang et.al.|[2503.09391](http://arxiv.org/abs/2503.09391)|null|
 |**2025-03-12**|**Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning**|Qiang Li et.al.|[2503.09252](http://arxiv.org/abs/2503.09252)|null|
@@ -4041,7 +4041,7 @@ layout: default
 |**2025-03-09**|**Inverse Reinforcement Learning for Minimum-Exposure Paths in Spatiotemporally Varying Scalar Fields**|Alexandra E. Ballentine et.al.|[2503.06611](http://arxiv.org/abs/2503.06611)|null|
 |**2025-03-09**|**Generalizable Machine Learning Models for Predicting Data Center Server Power, Efficiency, and Throughput**|Nuoa Lei et.al.|[2503.06439](http://arxiv.org/abs/2503.06439)|null|
 |**2025-03-09**|**Interference-Aware Edge Runtime Prediction with Conformal Matrix Completion**|Tianshu Huang et.al.|[2503.06428](http://arxiv.org/abs/2503.06428)|**[link](https://github.com/wiselabcmu/pitot)**|
-|**2025-03-08**|**Lightweight Software Kernels and Hardware Extensions for Efficient Sparse Deep Neural Networks on Microcontrollers**|Francesco Daghero et.al.|[2503.06183](http://arxiv.org/abs/2503.06183)|null|
+|**2025-03-19**|**Lightweight Software Kernels and Hardware Extensions for Efficient Sparse Deep Neural Networks on Microcontrollers**|Francesco Daghero et.al.|[2503.06183](http://arxiv.org/abs/2503.06183)|null|
 |**2025-03-11**|**Physics-Informed Generative Approaches for Wireless Channel Modeling**|Satyavrat Wagle et.al.|[2503.05988](http://arxiv.org/abs/2503.05988)|null|
 |**2025-03-06**|**Neuromorphic Quantum Neural Networks with Tunnel-Diode Activation Functions**|Jake McNaughton et.al.|[2503.04978](http://arxiv.org/abs/2503.04978)|null|
 |**2025-03-06**|**Neural Configuration-Space Barriers for Manipulation Planning and Control**|Kehan Long et.al.|[2503.04929](http://arxiv.org/abs/2503.04929)|null|
