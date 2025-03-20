@@ -4022,6 +4022,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Exploiting Prior Knowledge in Preferential Learning of Individualized Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407](http://arxiv.org/abs/2503.15407)|null|
+|**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
+|**2025-03-19**|**Semi-Gradient SARSA Routing with Theoretical Guarantee on Traffic Stability and Weight Convergence**|Yidan Wu et.al.|[2503.14927](http://arxiv.org/abs/2503.14927)|null|
 |**2025-03-18**|**Landscape Complexity for the Empirical Risk of Generalized Linear Models: Discrimination between Structured Data**|Theodoros G. Tsironis et.al.|[2503.14403](http://arxiv.org/abs/2503.14403)|null|
 |**2025-03-18**|**Improved Scalable Lipschitz Bounds for Deep Neural Networks**|Usman Syed et.al.|[2503.14297](http://arxiv.org/abs/2503.14297)|null|
 |**2025-03-18**|**The Hidden Bloat in Machine Learning Systems**|Huaifeng Zhang et.al.|[2503.14226](http://arxiv.org/abs/2503.14226)|null|
