@@ -4001,6 +4001,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Physics-Informed Deep B-Spline Networks for Dynamical Systems**|Zhuoyuan Wang et.al.|[2503.16777](http://arxiv.org/abs/2503.16777)|null|
+|**2025-03-20**|**Deep Q-Learning with Gradient Target Tracking**|Donghwan Lee et.al.|[2503.16700](http://arxiv.org/abs/2503.16700)|null|
+|**2025-03-20**|**Subgradient Method for System Identification with Non-Smooth Objectives**|Baturalp Yalcin et.al.|[2503.16673](http://arxiv.org/abs/2503.16673)|null|
 |**2025-03-20**|**Flight Testing an Optionally Piloted Aircraft: a Case Study on Trust Dynamics in Human-Autonomy Teaming**|Jeremy C. -H. Wang et.al.|[2503.16227](http://arxiv.org/abs/2503.16227)|null|
 |**2025-03-20**|**Learn to Bid as a Price-Maker Wind Power Producer**|Shobhit Singhal et.al.|[2503.16107](http://arxiv.org/abs/2503.16107)|null|
 |**2025-03-20**|**Control Pneumatic Soft Bending Actuator with Online Learning Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2503.15819](http://arxiv.org/abs/2503.15819)|null|
