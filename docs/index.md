@@ -4006,10 +4006,10 @@ layout: default
 |**2025-03-20**|**Subgradient Method for System Identification with Non-Smooth Objectives**|Baturalp Yalcin et.al.|[2503.16673](http://arxiv.org/abs/2503.16673)|null|
 |**2025-03-20**|**Flight Testing an Optionally Piloted Aircraft: a Case Study on Trust Dynamics in Human-Autonomy Teaming**|Jeremy C. -H. Wang et.al.|[2503.16227](http://arxiv.org/abs/2503.16227)|null|
 |**2025-03-20**|**Learn to Bid as a Price-Maker Wind Power Producer**|Shobhit Singhal et.al.|[2503.16107](http://arxiv.org/abs/2503.16107)|null|
-|**2025-03-20**|**Control Pneumatic Soft Bending Actuator with Online Learning Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2503.15819](http://arxiv.org/abs/2503.15819)|null|
+|**2025-03-20**|**Control Pneumatic Soft Bending Actuator with Online Learning Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2503.15819](http://arxiv.org/abs/2503.15819)|**[link](https://github.com/JonyeeShen/Online-Learning-RC-Control-RoboSoft2025)**|
 |**2025-03-20**|**Prediction of Permissioned Blockchain Performance for Resource Scaling Configurations**|Seungwoo Jung et.al.|[2503.15769](http://arxiv.org/abs/2503.15769)|null|
 |**2025-03-19**|**Contextual Fairness-Aware Practices in ML: A Cost-Effective Empirical Evaluation**|Alessandra Parziale et.al.|[2503.15622](http://arxiv.org/abs/2503.15622)|null|
-|**2025-03-19**|**Performance-bounded Online Ensemble Learning Method Based on Multi-armed bandits and Its Applications in Real-time Safety Assessment**|Songqiao Hu et.al.|[2503.15581](http://arxiv.org/abs/2503.15581)|null|
+|**2025-03-19**|**Performance-bounded Online Ensemble Learning Method Based on Multi-armed bandits and Its Applications in Real-time Safety Assessment**|Songqiao Hu et.al.|[2503.15581](http://arxiv.org/abs/2503.15581)|**[link](https://github.com/liuzy0708/Awesome_OL)**|
 |**2025-03-19**|**Exploiting Prior Knowledge in Preferential Learning of Individualized Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407](http://arxiv.org/abs/2503.15407)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
 |**2025-03-19**|**Semi-Gradient SARSA Routing with Theoretical Guarantee on Traffic Stability and Weight Convergence**|Yidan Wu et.al.|[2503.14927](http://arxiv.org/abs/2503.14927)|null|
