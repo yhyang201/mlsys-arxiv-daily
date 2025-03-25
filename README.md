@@ -4022,6 +4022,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Learning a Class of Mixed Linear Regressions: Global Convergence under General Data Conditions**|Yujing Liu et.al.|[2503.18500](http://arxiv.org/abs/2503.18500)|null|
+|**2025-03-24**|**Finite-Time Bounds for Two-Time-Scale Stochastic Approximation with Arbitrary Norm Contractions and Markovian Noise**|Siddharth Chandak et.al.|[2503.18391](http://arxiv.org/abs/2503.18391)|null|
+|**2025-03-21**|**Fairness-Driven LLM-based Causal Discovery with Active Learning and Dynamic Scoring**|Khadija Zanna et.al.|[2503.17569](http://arxiv.org/abs/2503.17569)|null|
+|**2025-03-16**|**A new graph-based surrogate model for rapid prediction of crashworthiness performance of vehicle panel components**|Haoran Li et.al.|[2503.17386](http://arxiv.org/abs/2503.17386)|null|
+|**2025-03-16**|**Uncertainty Quantification for Data-Driven Machine Learning Models in Nuclear Engineering Applications: Where We Are and What Do We Need?**|Xu Wu et.al.|[2503.17385](http://arxiv.org/abs/2503.17385)|null|
 |**2025-03-21**|**Physics-Informed Deep B-Spline Networks for Dynamical Systems**|Zhuoyuan Wang et.al.|[2503.16777](http://arxiv.org/abs/2503.16777)|null|
 |**2025-03-20**|**Deep Q-Learning with Gradient Target Tracking**|Donghwan Lee et.al.|[2503.16700](http://arxiv.org/abs/2503.16700)|null|
 |**2025-03-20**|**Subgradient Method for System Identification with Non-Smooth Objectives**|Baturalp Yalcin et.al.|[2503.16673](http://arxiv.org/abs/2503.16673)|null|
