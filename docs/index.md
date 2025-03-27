@@ -4001,6 +4001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**The Crucial Role of Problem Formulation in Real-World Reinforcement Learning**|Georg Schäfer et.al.|[2503.20442](http://arxiv.org/abs/2503.20442)|null|
+|**2025-03-26**|**Network Inversion for Generating Confidently Classified Counterfeits**|Pirzada Suhail et.al.|[2503.20187](http://arxiv.org/abs/2503.20187)|null|
 |**2025-03-25**|**Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization**|Shengbo Wang et.al.|[2503.19349](http://arxiv.org/abs/2503.19349)|null|
 |**2025-03-24**|**Learning a Class of Mixed Linear Regressions: Global Convergence under General Data Conditions**|Yujing Liu et.al.|[2503.18500](http://arxiv.org/abs/2503.18500)|null|
 |**2025-03-24**|**Finite-Time Bounds for Two-Time-Scale Stochastic Approximation with Arbitrary Norm Contractions and Markovian Noise**|Siddharth Chandak et.al.|[2503.18391](http://arxiv.org/abs/2503.18391)|null|
