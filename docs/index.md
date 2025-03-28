@@ -4001,6 +4001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401](http://arxiv.org/abs/2503.21401)|null|
+|**2025-03-26**|**TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion**|Amr Mousa et.al.|[2503.20839](http://arxiv.org/abs/2503.20839)|null|
 |**2025-03-26**|**The Crucial Role of Problem Formulation in Real-World Reinforcement Learning**|Georg Schäfer et.al.|[2503.20442](http://arxiv.org/abs/2503.20442)|null|
 |**2025-03-26**|**Network Inversion for Generating Confidently Classified Counterfeits**|Pirzada Suhail et.al.|[2503.20187](http://arxiv.org/abs/2503.20187)|null|
 |**2025-03-25**|**Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization**|Shengbo Wang et.al.|[2503.19349](http://arxiv.org/abs/2503.19349)|null|
