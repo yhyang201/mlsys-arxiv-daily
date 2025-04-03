@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4005,7 +4005,7 @@ layout: default
 |**2025-03-31**|**Certified Approximate Reachability (CARe): Formal Error Bounds on Deep Learning of Reachable Sets**|Prashant Solanki et.al.|[2503.23912](http://arxiv.org/abs/2503.23912)|**[link](https://github.com/nikovert/CARe)**|
 |**2025-03-31**|**Free Parametrization of L2-bounded State Space Models**|Leonardo Massai et.al.|[2503.23818](http://arxiv.org/abs/2503.23818)|null|
 |**2025-03-30**|**Online Convex Optimization and Integral Quadratic Constraints: A new approach to regret analysis**|Fabian Jakob et.al.|[2503.23600](http://arxiv.org/abs/2503.23600)|**[link](https://github.com/col-tasas/oco-with-iqcs)**|
-|**2025-03-30**|**Bridging conformal prediction and scenario optimization**|Niall O'Sullivan et.al.|[2503.23561](http://arxiv.org/abs/2503.23561)|null|
+|**2025-04-01**|**Bridging conformal prediction and scenario optimization**|Niall O'Sullivan et.al.|[2503.23561](http://arxiv.org/abs/2503.23561)|null|
 |**2025-03-26**|**PowerGNN: A Topology-Aware Graph Neural Network for Electricity Grids**|Dhruv Suri et.al.|[2503.22721](http://arxiv.org/abs/2503.22721)|null|
 |**2025-03-28**|**Instance-Level Data-Use Auditing of Visual ML Models**|Zonghao Huang et.al.|[2503.22413](http://arxiv.org/abs/2503.22413)|null|
 |**2025-03-28**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401](http://arxiv.org/abs/2503.21401)|null|
