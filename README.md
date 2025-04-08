@@ -4022,6 +4022,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**A moving target in AI-assisted decision-making: Dataset shift, model updating, and the problem of update opacity**|Joshua Hatherley et.al.|[2504.05210](http://arxiv.org/abs/2504.05210)|null|
+|**2025-04-07**|**AI-Driven Tactical Communications and Networking for Defense: A Survey and Emerging Trends**|Victor Monzon Baeza et.al.|[2504.05071](http://arxiv.org/abs/2504.05071)|null|
+|**2025-04-07**|**A Simultaneous Approach for Training Neural Differential-Algebraic Systems of Equations**|Laurens R. Lueg et.al.|[2504.04665](http://arxiv.org/abs/2504.04665)|null|
+|**2025-04-06**|**Economic Battery Storage Dispatch with Deep Reinforcement Learning from Rule-Based Demonstrations**|Manuel Sage et.al.|[2504.04326](http://arxiv.org/abs/2504.04326)|null|
+|**2025-04-05**|**Deep-Learning-Directed Preventive Dynamic Security Control via Coordinated Demand Response**|Amin Masoumi et.al.|[2504.04059](http://arxiv.org/abs/2504.04059)|null|
+|**2025-04-04**|**A New Approach to Controlling Linear Dynamical Systems**|Anand Brahmbhatt et.al.|[2504.03952](http://arxiv.org/abs/2504.03952)|null|
+|**2025-04-04**|**An Exploration-free Method for a Linear Stochastic Bandit Driven by a Linear Gaussian Dynamical System**|Jonathan Gornet et.al.|[2504.03926](http://arxiv.org/abs/2504.03926)|null|
+|**2025-03-26**|**A multi-scale lithium-ion battery capacity prediction using mixture of experts and patch-based MLP**|Yuzhu Lei et.al.|[2504.03706](http://arxiv.org/abs/2504.03706)|null|
 |**2025-04-04**|**The AI Cosmologist I: An Agentic System for Automated Data Analysis**|Adam Moss et.al.|[2504.03424](http://arxiv.org/abs/2504.03424)|null|
 |**2025-04-04**|**Policy Optimization Algorithms in a Unified Framework**|Shuang Wu et.al.|[2504.03328](http://arxiv.org/abs/2504.03328)|null|
 |**2025-04-04**|**The Ground Cost for Optimal Transport of Angular Velocity**|Karthik Elamvazhuthi et.al.|[2504.03190](http://arxiv.org/abs/2504.03190)|null|
