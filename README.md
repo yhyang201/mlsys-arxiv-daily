@@ -4022,6 +4022,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125](http://arxiv.org/abs/2504.06125)|null|
+|**2025-04-08**|**Smart Exploration in Reinforcement Learning using Bounded Uncertainty Models**|J. S. van Hulst et.al.|[2504.05978](http://arxiv.org/abs/2504.05978)|null|
+|**2025-04-07**|**Optimal Bayesian Affine Estimator and Active Learning for the Wiener Model**|Sasan Vakili et.al.|[2504.05490](http://arxiv.org/abs/2504.05490)|null|
 |**2025-04-07**|**A moving target in AI-assisted decision-making: Dataset shift, model updating, and the problem of update opacity**|Joshua Hatherley et.al.|[2504.05210](http://arxiv.org/abs/2504.05210)|null|
 |**2025-04-07**|**AI-Driven Tactical Communications and Networking for Defense: A Survey and Emerging Trends**|Victor Monzon Baeza et.al.|[2504.05071](http://arxiv.org/abs/2504.05071)|null|
 |**2025-04-07**|**A Simultaneous Approach for Training Neural Differential-Algebraic Systems of Equations**|Laurens R. Lueg et.al.|[2504.04665](http://arxiv.org/abs/2504.04665)|null|
