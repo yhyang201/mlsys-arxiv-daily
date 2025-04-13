@@ -4028,7 +4028,7 @@
 |**2025-04-09**|**Deep Neural Koopman Operator-based Economic Model Predictive Control of Shipboard Carbon Capture System**|Minghao Han et.al.|[2504.06818](http://arxiv.org/abs/2504.06818)|null|
 |**2025-04-09**|**NAPER: Fault Protection for Real-Time Resource-Constrained Deep Neural Networks**|Rian Adam Rajagede et.al.|[2504.06591](http://arxiv.org/abs/2504.06591)|null|
 |**2025-04-08**|**Graph Neural Network-Based Distributed Optimal Control for Linear Networked Systems: An Online Distributed Training Approach**|Zihao Song et.al.|[2504.06439](http://arxiv.org/abs/2504.06439)|null|
-|**2025-04-09**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125](http://arxiv.org/abs/2504.06125)|null|
+|**2025-04-09**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125](http://arxiv.org/abs/2504.06125)|**[link](https://github.com/stanfordasl/rl4amod)**|
 |**2025-04-08**|**Smart Exploration in Reinforcement Learning using Bounded Uncertainty Models**|J. S. van Hulst et.al.|[2504.05978](http://arxiv.org/abs/2504.05978)|null|
 |**2025-04-07**|**Optimal Bayesian Affine Estimator and Active Learning for the Wiener Model**|Sasan Vakili et.al.|[2504.05490](http://arxiv.org/abs/2504.05490)|null|
 |**2025-04-07**|**A moving target in AI-assisted decision-making: Dataset shift, model updating, and the problem of update opacity**|Joshua Hatherley et.al.|[2504.05210](http://arxiv.org/abs/2504.05210)|null|
@@ -4038,7 +4038,7 @@
 |**2025-04-05**|**Deep-Learning-Directed Preventive Dynamic Security Control via Coordinated Demand Response**|Amin Masoumi et.al.|[2504.04059](http://arxiv.org/abs/2504.04059)|null|
 |**2025-04-04**|**A New Approach to Controlling Linear Dynamical Systems**|Anand Brahmbhatt et.al.|[2504.03952](http://arxiv.org/abs/2504.03952)|null|
 |**2025-04-04**|**An Exploration-free Method for a Linear Stochastic Bandit Driven by a Linear Gaussian Dynamical System**|Jonathan Gornet et.al.|[2504.03926](http://arxiv.org/abs/2504.03926)|null|
-|**2025-03-26**|**A multi-scale lithium-ion battery capacity prediction using mixture of experts and patch-based MLP**|Yuzhu Lei et.al.|[2504.03706](http://arxiv.org/abs/2504.03706)|null|
+|**2025-03-26**|**A multi-scale lithium-ion battery capacity prediction using mixture of experts and patch-based MLP**|Yuzhu Lei et.al.|[2504.03706](http://arxiv.org/abs/2504.03706)|**[link](https://github.com/leiyuzhu/capacitypredict)**|
 |**2025-04-04**|**The AI Cosmologist I: An Agentic System for Automated Data Analysis**|Adam Moss et.al.|[2504.03424](http://arxiv.org/abs/2504.03424)|**[link](https://github.com/adammoss/aicosmologist)**|
 |**2025-04-04**|**Policy Optimization Algorithms in a Unified Framework**|Shuang Wu et.al.|[2504.03328](http://arxiv.org/abs/2504.03328)|null|
 |**2025-04-04**|**The Ground Cost for Optimal Transport of Angular Velocity**|Karthik Elamvazhuthi et.al.|[2504.03190](http://arxiv.org/abs/2504.03190)|null|
