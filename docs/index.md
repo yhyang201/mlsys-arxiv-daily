@@ -4001,6 +4001,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**|Youwei Yu et.al.|[2504.08604](http://arxiv.org/abs/2504.08604)|null|
+|**2025-04-11**|**Physics-informed data-driven control without persistence of excitation**|Martina Vanelli et.al.|[2504.08484](http://arxiv.org/abs/2504.08484)|null|
+|**2025-04-11**|**Neural Network-assisted Interval Reachability for Systems with Control Barrier Function-Based Safe Controllers**|Damola Ajeyemi et.al.|[2504.08249](http://arxiv.org/abs/2504.08249)|null|
+|**2025-04-11**|**Spectral Normalization for Lipschitz-Constrained Policies on Learning Humanoid Locomotion**|Jaeyong Shin et.al.|[2504.08246](http://arxiv.org/abs/2504.08246)|null|
+|**2025-04-11**|**Optimizing Power Grid Topologies with Reinforcement Learning: A Survey of Methods and Challenges**|Erica van der Sar et.al.|[2504.08210](http://arxiv.org/abs/2504.08210)|null|
+|**2025-04-10**|**RL-based Control of UAS Subject to Significant Disturbance**|Kousheek Chakraborty et.al.|[2504.08114](http://arxiv.org/abs/2504.08114)|null|
+|**2025-04-10**|**Deep Reinforcement Learning for Day-to-day Dynamic Tolling in Tradable Credit Schemes**|Xiaoyi Wu et.al.|[2504.08074](http://arxiv.org/abs/2504.08074)|null|
 |**2025-04-10**|**Porting an LLM based Application from ChatGPT to an On-Premise Environment**|Teemu Paloniemi et.al.|[2504.07907](http://arxiv.org/abs/2504.07907)|null|
 |**2025-04-10**|**Data over dialogue: Why artificial intelligence is unlikely to humanise medicine**|Joshua Hatherley et.al.|[2504.07763](http://arxiv.org/abs/2504.07763)|null|
 |**2025-04-10**|**Data Requirement Goal Modeling for Machine Learning Systems**|Asma Yamani et.al.|[2504.07664](http://arxiv.org/abs/2504.07664)|null|
