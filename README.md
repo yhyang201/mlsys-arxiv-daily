@@ -4022,6 +4022,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Negate or Embrace: On How Misalignment Shapes Multimodal Representation Learning**|Yichao Cai et.al.|[2504.10143](http://arxiv.org/abs/2504.10143)|null|
+|**2025-04-13**|**Ensemble-Enhanced Graph Autoencoder with GAT and Transformer-Based Encoders for Robust Fault Diagnosis**|Moirangthem Tiken Singh et.al.|[2504.09427](http://arxiv.org/abs/2504.09427)|null|
+|**2025-04-13**|**Expressivity of Quadratic Neural ODEs**|Joshua Hanson et.al.|[2504.09385](http://arxiv.org/abs/2504.09385)|null|
+|**2025-04-12**|**Lumos: Efficient Performance Modeling and Estimation for Large-scale LLM Training**|Mingyu Liang et.al.|[2504.09307](http://arxiv.org/abs/2504.09307)|null|
+|**2025-04-12**|**InterQ: A DQN Framework for Optimal Intermittent Control**|Shubham Aggarwal et.al.|[2504.09035](http://arxiv.org/abs/2504.09035)|null|
+|**2025-04-11**|**Diachronic and synchronic variation in the performance of adaptive machine learning systems: The ethical challenges**|Joshua Hatherley et.al.|[2504.08861](http://arxiv.org/abs/2504.08861)|null|
+|**2025-04-09**|**A Graph-Enhanced DeepONet Approach for Real-Time Estimating Hydrogen-Enriched Natural Gas Flow under Variable Operations**|Sicheng Liu et.al.|[2504.08816](http://arxiv.org/abs/2504.08816)|null|
 |**2025-04-11**|**Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**|Youwei Yu et.al.|[2504.08604](http://arxiv.org/abs/2504.08604)|null|
 |**2025-04-11**|**Physics-informed data-driven control without persistence of excitation**|Martina Vanelli et.al.|[2504.08484](http://arxiv.org/abs/2504.08484)|null|
 |**2025-04-11**|**Neural Network-assisted Interval Reachability for Systems with Control Barrier Function-Based Safe Controllers**|Damola Ajeyemi et.al.|[2504.08249](http://arxiv.org/abs/2504.08249)|null|
@@ -4061,7 +4068,7 @@
 |**2025-04-01**|**Value Iteration for Learning Concurrently Executable Robotic Control Tasks**|Sheikh A. Tahmid et.al.|[2504.01174](http://arxiv.org/abs/2504.01174)|**[link](https://github.com/erablab/value_iteration_for_learning_concurrently_executable_robotic_control_tasks)**|
 |**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|null|
 |**2025-04-04**|**Are clinicians ethically obligated to disclose their use of medical machine learning systems to patients?**|Joshua Hatherley et.al.|[2504.01043](http://arxiv.org/abs/2504.01043)|null|
-|**2025-04-01**|**Data-Driven Safety Verification using Barrier Certificates and Matrix Zonotopes**|Mohammed Adib Oumer et.al.|[2504.01007](http://arxiv.org/abs/2504.01007)|**[link](https://github.com/maoumer/Data-Driven-Safety-Verification-using-Barrier-Certificates-and-Matrix-Zonotopes)**|
+|**2025-04-14**|**Data-Driven Safety Verification using Barrier Certificates and Matrix Zonotopes**|Mohammed Adib Oumer et.al.|[2504.01007](http://arxiv.org/abs/2504.01007)|**[link](https://github.com/maoumer/Data-Driven-Safety-Verification-using-Barrier-Certificates-and-Matrix-Zonotopes)**|
 |**2025-04-01**|**Investigating the Capabilities and Limitations of Machine Learning for Identifying Bias in English Language Data with Information and Heritage Professionals**|Lucy Havens et.al.|[2504.00860](http://arxiv.org/abs/2504.00860)|**[link](https://github.com/thegoose20/gender-bias)**|
 |**2025-03-31**|**Nuclear Microreactor Control with Deep Reinforcement Learning**|Leo Tunkle et.al.|[2504.00156](http://arxiv.org/abs/2504.00156)|null|
 |**2025-03-31**|**Data-driven Power Loss Identification through Physics-Based Thermal Model Backpropagation**|Mattia Scarpa et.al.|[2504.00133](http://arxiv.org/abs/2504.00133)|null|
