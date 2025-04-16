@@ -4001,6 +4001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Scalability and Maintainability Challenges and Solutions in Machine Learning: Systematic Literature Review**|Karthik Shivashankar et.al.|[2504.11079](http://arxiv.org/abs/2504.11079)|null|
+|**2025-04-14**|**Transfer Learning Assisted XgBoost For Adaptable Cyberattack Detection In Battery Packs**|Sanchita Ghosh et.al.|[2504.10658](http://arxiv.org/abs/2504.10658)|null|
 |**2025-04-14**|**Negate or Embrace: On How Misalignment Shapes Multimodal Representation Learning**|Yichao Cai et.al.|[2504.10143](http://arxiv.org/abs/2504.10143)|null|
 |**2025-04-13**|**Ensemble-Enhanced Graph Autoencoder with GAT and Transformer-Based Encoders for Robust Fault Diagnosis**|Moirangthem Tiken Singh et.al.|[2504.09427](http://arxiv.org/abs/2504.09427)|null|
 |**2025-04-13**|**Expressivity of Quadratic Neural ODEs**|Joshua Hanson et.al.|[2504.09385](http://arxiv.org/abs/2504.09385)|null|
