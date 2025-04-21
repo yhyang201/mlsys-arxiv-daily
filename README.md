@@ -4023,12 +4023,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-18**|**Risk-aware black-box portfolio construction using Bayesian optimization with adaptive weighted Lagrangian estimator**|Zinuo You et.al.|[2504.13529](http://arxiv.org/abs/2504.13529)|null|
-|**2025-04-16**|**Reinforcement Learning from Human Feedback**|Nathan Lambert et.al.|[2504.12501](http://arxiv.org/abs/2504.12501)|null|
+|**2025-04-16**|**Reinforcement Learning from Human Feedback**|Nathan Lambert et.al.|[2504.12501](http://arxiv.org/abs/2504.12501)|**[link](https://github.com/natolambert/rlhf-book)**|
 |**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
 |**2025-04-16**|**Learning Transferable Friction Models and LuGre Identification via Physics Informed Neural Networks**|Asutay Ozmen et.al.|[2504.12441](http://arxiv.org/abs/2504.12441)|null|
 |**2025-04-16**|**Efficient identification of linear, parameter-varying, and nonlinear systems with noise models**|Alberto Bemporad et.al.|[2504.11982](http://arxiv.org/abs/2504.11982)|null|
 |**2025-04-16**|**Transferable Deployment of Semantic Edge Inference Systems via Unsupervised Domain Adaption**|Weiqiang Jiao et.al.|[2504.11873](http://arxiv.org/abs/2504.11873)|null|
-|**2025-04-16**|**Manifold meta-learning for reduced-complexity neural system identification**|Marco Forgione et.al.|[2504.11811](http://arxiv.org/abs/2504.11811)|null|
+|**2025-04-16**|**Manifold meta-learning for reduced-complexity neural system identification**|Marco Forgione et.al.|[2504.11811](http://arxiv.org/abs/2504.11811)|**[link](https://github.com/forgi86/sysid-neural-manifold)**|
 |**2025-04-15**|**Sub-optimality of the Separation Principle for Quadratic Control from Bilinear Observations**|Yahya Sattar et.al.|[2504.11555](http://arxiv.org/abs/2504.11555)|null|
 |**2025-04-14**|**Probabilistic Task Parameterization of Tool-Tissue Interaction via Sparse Landmarks Tracking in Robotic Surgery**|Yiting Wang et.al.|[2504.11495](http://arxiv.org/abs/2504.11495)|null|
 |**2025-04-15**|**Scalability and Maintainability Challenges and Solutions in Machine Learning: Systematic Literature Review**|Karthik Shivashankar et.al.|[2504.11079](http://arxiv.org/abs/2504.11079)|null|
