@@ -4022,6 +4022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Risk-aware black-box portfolio construction using Bayesian optimization with adaptive weighted Lagrangian estimator**|Zinuo You et.al.|[2504.13529](http://arxiv.org/abs/2504.13529)|null|
 |**2025-04-16**|**Reinforcement Learning from Human Feedback**|Nathan Lambert et.al.|[2504.12501](http://arxiv.org/abs/2504.12501)|null|
 |**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
 |**2025-04-16**|**Learning Transferable Friction Models and LuGre Identification via Physics Informed Neural Networks**|Asutay Ozmen et.al.|[2504.12441](http://arxiv.org/abs/2504.12441)|null|
