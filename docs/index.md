@@ -4001,6 +4001,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-20**|**Geometric Learning Dynamics**|Vitaly Vanchurin et.al.|[2504.14728](http://arxiv.org/abs/2504.14728)|null|
+|**2025-04-19**|**Quantum-Enhanced Reinforcement Learning for Power Grid Security Assessment**|Benjamin M. Peter et.al.|[2504.14412](http://arxiv.org/abs/2504.14412)|null|
+|**2025-04-16**|**Prognosis Of Lithium-Ion Battery Health with Hybrid EKF-CNN+LSTM Model Using Differential Capacity**|Md Azizul Hoque et.al.|[2504.13956](http://arxiv.org/abs/2504.13956)|null|
+|**2025-04-15**|**ViMo: A Generative Visual GUI World Model for App Agent**|Dezhao Luo et.al.|[2504.13936](http://arxiv.org/abs/2504.13936)|null|
 |**2025-04-18**|**Risk-aware black-box portfolio construction using Bayesian optimization with adaptive weighted Lagrangian estimator**|Zinuo You et.al.|[2504.13529](http://arxiv.org/abs/2504.13529)|null|
 |**2025-04-16**|**Reinforcement Learning from Human Feedback**|Nathan Lambert et.al.|[2504.12501](http://arxiv.org/abs/2504.12501)|**[link](https://github.com/natolambert/rlhf-book)**|
 |**2025-04-16**|**Enhanced Battery Capacity Estimation in Data-Limited Scenarios through Swarm Learning**|Jiawei Zhang et.al.|[2504.12444](http://arxiv.org/abs/2504.12444)|null|
