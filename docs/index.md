@@ -4001,6 +4001,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Observability conditions for neural state-space models with eigenvalues and their roots of unity**|Andrew Gracyk et.al.|[2504.15758](http://arxiv.org/abs/2504.15758)|null|
+|**2025-04-22**|**Markov Kernels, Distances and Optimal Control: A Parable of Linear Quadratic Non-Gaussian Distribution Steering**|Alexis M. H. Teter et.al.|[2504.15753](http://arxiv.org/abs/2504.15753)|null|
+|**2025-04-22**|**RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**|Xiucheng Wang et.al.|[2504.15623](http://arxiv.org/abs/2504.15623)|null|
+|**2025-04-22**|**Real-Time Optimal Design of Experiment for Parameter Identification of Li-Ion Cell Electrochemical Model**|Ian Mikesell et.al.|[2504.15578](http://arxiv.org/abs/2504.15578)|null|
+|**2025-04-21**|**LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning**|Pingcheng Jian et.al.|[2504.15472](http://arxiv.org/abs/2504.15472)|null|
 |**2025-04-20**|**Geometric Learning Dynamics**|Vitaly Vanchurin et.al.|[2504.14728](http://arxiv.org/abs/2504.14728)|null|
 |**2025-04-19**|**Quantum-Enhanced Reinforcement Learning for Power Grid Security Assessment**|Benjamin M. Peter et.al.|[2504.14412](http://arxiv.org/abs/2504.14412)|null|
 |**2025-04-16**|**Prognosis Of Lithium-Ion Battery Health with Hybrid EKF-CNN+LSTM Model Using Differential Capacity**|Md Azizul Hoque et.al.|[2504.13956](http://arxiv.org/abs/2504.13956)|null|
