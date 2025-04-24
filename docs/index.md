@@ -4001,6 +4001,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
+|**2025-04-23**|**Learning Verifiable Control Policies Using Relaxed Verification**|Puja Chaudhury et.al.|[2504.16879](http://arxiv.org/abs/2504.16879)|null|
+|**2025-04-23**|**Data-Assimilated Model-Based Reinforcement Learning for Partially Observed Chaotic Flows**|Defne E. Ozan et.al.|[2504.16588](http://arxiv.org/abs/2504.16588)|null|
 |**2025-04-22**|**Observability conditions for neural state-space models with eigenvalues and their roots of unity**|Andrew Gracyk et.al.|[2504.15758](http://arxiv.org/abs/2504.15758)|null|
 |**2025-04-22**|**Markov Kernels, Distances and Optimal Control: A Parable of Linear Quadratic Non-Gaussian Distribution Steering**|Alexis M. H. Teter et.al.|[2504.15753](http://arxiv.org/abs/2504.15753)|null|
 |**2025-04-22**|**RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**|Xiucheng Wang et.al.|[2504.15623](http://arxiv.org/abs/2504.15623)|null|
