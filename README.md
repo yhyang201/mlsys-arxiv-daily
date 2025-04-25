@@ -4022,6 +4022,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation**|Stefan Jonas et.al.|[2504.17709](http://arxiv.org/abs/2504.17709)|null|
+|**2025-04-24**|**CHASe: Client Heterogeneity-Aware Data Selection for Effective Federated Active Learning**|Jun Zhang et.al.|[2504.17448](http://arxiv.org/abs/2504.17448)|null|
+|**2025-04-23**|**Neural Contraction Metrics with Formal Guarantees for Discrete-Time Nonlinear Dynamical Systems**|Haoyu Li et.al.|[2504.17102](http://arxiv.org/abs/2504.17102)|null|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
 |**2025-04-23**|**Learning Verifiable Control Policies Using Relaxed Verification**|Puja Chaudhury et.al.|[2504.16879](http://arxiv.org/abs/2504.16879)|null|
 |**2025-04-23**|**Data-Assimilated Model-Based Reinforcement Learning for Partially Observed Chaotic Flows**|Defne E. Ozan et.al.|[2504.16588](http://arxiv.org/abs/2504.16588)|null|
