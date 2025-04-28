@@ -4001,6 +4001,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536](http://arxiv.org/abs/2504.18536)|null|
+|**2025-04-25**|**Boosting-Enabled Robust System Identification of Partially Observed LTI Systems Under Heavy-Tailed Noise**|Vinay Kanakeri et.al.|[2504.18444](http://arxiv.org/abs/2504.18444)|null|
+|**2025-04-25**|**Explainable AI for UAV Mobility Management: A Deep Q-Network Approach for Handover Minimization**|Irshad A. Meer et.al.|[2504.18371](http://arxiv.org/abs/2504.18371)|null|
+|**2025-04-25**|**Time and Frequency Domain-based Anomaly Detection in Smart Meter Data for Distribution Network Studies**|Petar Labura et.al.|[2504.18231](http://arxiv.org/abs/2504.18231)|null|
+|**2025-04-25**|**Self-Balancing, Memory Efficient, Dynamic Metric Space Data Maintenance, for Rapid Multi-Kernel Estimation**|Aditya S Ellendula et.al.|[2504.18003](http://arxiv.org/abs/2504.18003)|null|
+|**2025-04-24**|**CIVIL: Causal and Intuitive Visual Imitation Learning**|Yinlong Dai et.al.|[2504.17959](http://arxiv.org/abs/2504.17959)|null|
+|**2025-04-24**|**Learning Enhanced Ensemble Filters**|Eviatar Bach et.al.|[2504.17836](http://arxiv.org/abs/2504.17836)|null|
 |**2025-04-24**|**Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation**|Stefan Jonas et.al.|[2504.17709](http://arxiv.org/abs/2504.17709)|null|
 |**2025-04-24**|**CHASe: Client Heterogeneity-Aware Data Selection for Effective Federated Active Learning**|Jun Zhang et.al.|[2504.17448](http://arxiv.org/abs/2504.17448)|null|
 |**2025-04-23**|**Neural Contraction Metrics with Formal Guarantees for Discrete-Time Nonlinear Dynamical Systems**|Haoyu Li et.al.|[2504.17102](http://arxiv.org/abs/2504.17102)|null|
