@@ -4001,6 +4001,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Model-based controller assisted domain randomization in deep reinforcement learning: application to nonlinear powertrain control**|Heisei Yonezawa et.al.|[2504.19715](http://arxiv.org/abs/2504.19715)|null|
+|**2025-04-28**|**AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis**|Haroui Ma et.al.|[2504.19621](http://arxiv.org/abs/2504.19621)|null|
+|**2025-04-28**|**Negative Imaginary Neural ODEs: Learning to Control Mechanical Systems with Stability Guarantees**|Kanghong Shi et.al.|[2504.19497](http://arxiv.org/abs/2504.19497)|null|
+|**2025-04-27**|**HyperController: A Hyperparameter Controller for Fast and Stable Training of Reinforcement Learning Neural Networks**|Jonathan Gornet et.al.|[2504.19382](http://arxiv.org/abs/2504.19382)|null|
+|**2025-04-27**|**$O(1/k)$ Finite-Time Bound for Non-Linear Two-Time-Scale Stochastic Approximation**|Siddharth Chandak et.al.|[2504.19375](http://arxiv.org/abs/2504.19375)|null|
+|**2025-04-26**|**Diffeomorphic Obstacle Avoidance for Contractive Dynamical Systems via Implicit Representations**|Ken-Joel Simmoteit et.al.|[2504.18860](http://arxiv.org/abs/2504.18860)|null|
+|**2025-04-26**|**Nonconvex Linear System Identification with Minimal State Representation**|Uday Kiran Reddy Tadipatri et.al.|[2504.18791](http://arxiv.org/abs/2504.18791)|null|
+|**2025-04-25**|**Foundations of Safe Online Reinforcement Learning in the Linear Quadratic Regulator: $\sqrt{T}$ -Regret**|Benjamin Schiffer et.al.|[2504.18657](http://arxiv.org/abs/2504.18657)|null|
 |**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536](http://arxiv.org/abs/2504.18536)|null|
 |**2025-04-25**|**Boosting-Enabled Robust System Identification of Partially Observed LTI Systems Under Heavy-Tailed Noise**|Vinay Kanakeri et.al.|[2504.18444](http://arxiv.org/abs/2504.18444)|null|
 |**2025-04-25**|**Explainable AI for UAV Mobility Management: A Deep Q-Network Approach for Handover Minimization**|Irshad A. Meer et.al.|[2504.18371](http://arxiv.org/abs/2504.18371)|null|
