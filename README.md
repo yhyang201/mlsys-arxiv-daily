@@ -4022,6 +4022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Tempo: Application-aware LLM Serving with Mixed SLO Requirements**|Wei Zhang et.al.|[2504.20068](http://arxiv.org/abs/2504.20068)|null|
 |**2025-04-28**|**Model-based controller assisted domain randomization in deep reinforcement learning: application to nonlinear powertrain control**|Heisei Yonezawa et.al.|[2504.19715](http://arxiv.org/abs/2504.19715)|null|
 |**2025-04-28**|**AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis**|Haroui Ma et.al.|[2504.19621](http://arxiv.org/abs/2504.19621)|null|
 |**2025-04-28**|**Negative Imaginary Neural ODEs: Learning to Control Mechanical Systems with Stability Guarantees**|Kanghong Shi et.al.|[2504.19497](http://arxiv.org/abs/2504.19497)|null|
