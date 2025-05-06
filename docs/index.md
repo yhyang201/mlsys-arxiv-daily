@@ -4003,7 +4003,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-05**|**Learning and Online Replication of Grasp Forces from Electromyography Signals for Prosthetic Finger Control**|Robin Arbaud et.al.|[2505.02574](http://arxiv.org/abs/2505.02574)|null|
 |**2025-05-05**|**ReeM: Ensemble Building Thermodynamics Model for Efficient HVAC Control via Hierarchical Reinforcement Learning**|Yang Deng et.al.|[2505.02439](http://arxiv.org/abs/2505.02439)|null|
-|**2025-04-28**|**Inverse Modeling of Dielectric Response in Time Domain using Physics-Informed Neural Networks**|Emir Esenov et.al.|[2505.02258](http://arxiv.org/abs/2505.02258)|null|
+|**2025-04-28**|**Inverse Modeling of Dielectric Response in Time Domain using Physics-Informed Neural Networks**|Emir Esenov et.al.|[2505.02258](http://arxiv.org/abs/2505.02258)|**[link](https://github.com/emiresenov/inverse-DR)**|
 |**2025-05-02**|**Phantora: Live GPU Cluster Simulation for Machine Learning System Performance Estimation**|Jianxing Qin et.al.|[2505.01616](http://arxiv.org/abs/2505.01616)|null|
 |**2025-04-23**|**AdaParse: An Adaptive Parallel PDF Parsing and Resource Scaling Engine**|Carlo Siebenschuh et.al.|[2505.01435](http://arxiv.org/abs/2505.01435)|null|
 |**2025-05-02**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386](http://arxiv.org/abs/2505.01386)|null|
