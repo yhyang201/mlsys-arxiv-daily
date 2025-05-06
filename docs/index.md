@@ -4001,6 +4001,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Learning and Online Replication of Grasp Forces from Electromyography Signals for Prosthetic Finger Control**|Robin Arbaud et.al.|[2505.02574](http://arxiv.org/abs/2505.02574)|null|
+|**2025-05-05**|**ReeM: Ensemble Building Thermodynamics Model for Efficient HVAC Control via Hierarchical Reinforcement Learning**|Yang Deng et.al.|[2505.02439](http://arxiv.org/abs/2505.02439)|null|
+|**2025-04-28**|**Inverse Modeling of Dielectric Response in Time Domain using Physics-Informed Neural Networks**|Emir Esenov et.al.|[2505.02258](http://arxiv.org/abs/2505.02258)|null|
+|**2025-05-02**|**Phantora: Live GPU Cluster Simulation for Machine Learning System Performance Estimation**|Jianxing Qin et.al.|[2505.01616](http://arxiv.org/abs/2505.01616)|null|
+|**2025-04-23**|**AdaParse: An Adaptive Parallel PDF Parsing and Resource Scaling Engine**|Carlo Siebenschuh et.al.|[2505.01435](http://arxiv.org/abs/2505.01435)|null|
 |**2025-05-02**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386](http://arxiv.org/abs/2505.01386)|null|
 |**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
 |**2025-05-02**|**Secure Cluster-Based Hierarchical Federated Learning in Vehicular Networks**|M. Saeid HaghighiFard et.al.|[2505.01186](http://arxiv.org/abs/2505.01186)|null|
@@ -4037,7 +4042,7 @@ layout: default
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
 |**2025-04-23**|**Learning Verifiable Control Policies Using Relaxed Verification**|Puja Chaudhury et.al.|[2504.16879](http://arxiv.org/abs/2504.16879)|null|
 |**2025-04-23**|**Data-Assimilated Model-Based Reinforcement Learning for Partially Observed Chaotic Flows**|Defne E. Ozan et.al.|[2504.16588](http://arxiv.org/abs/2504.16588)|null|
-|**2025-04-22**|**Observability conditions for neural state-space models with eigenvalues and their roots of unity**|Andrew Gracyk et.al.|[2504.15758](http://arxiv.org/abs/2504.15758)|null|
+|**2025-05-05**|**Observability conditions for neural state-space models with eigenvalues and their roots of unity**|Andrew Gracyk et.al.|[2504.15758](http://arxiv.org/abs/2504.15758)|null|
 |**2025-04-22**|**Markov Kernels, Distances and Optimal Control: A Parable of Linear Quadratic Non-Gaussian Distribution Steering**|Alexis M. H. Teter et.al.|[2504.15753](http://arxiv.org/abs/2504.15753)|null|
 |**2025-04-22**|**RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**|Xiucheng Wang et.al.|[2504.15623](http://arxiv.org/abs/2504.15623)|null|
 |**2025-04-22**|**Real-Time Optimal Design of Experiment for Parameter Identification of Li-Ion Cell Electrochemical Model**|Ian Mikesell et.al.|[2504.15578](http://arxiv.org/abs/2504.15578)|null|
