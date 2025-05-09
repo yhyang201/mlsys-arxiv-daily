@@ -4001,6 +4001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Incentive-Aware Machine Learning; Robustness, Fairness, Improvement & Causality**|Chara Podimata et.al.|[2505.05211](http://arxiv.org/abs/2505.05211)|null|
+|**2025-05-08**|**Learning Linearized Models from Nonlinear Systems under Initialization Constraints with Finite Data**|Lei Xin et.al.|[2505.04954](http://arxiv.org/abs/2505.04954)|null|
 |**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608](http://arxiv.org/abs/2505.04608)|null|
 |**2025-05-05**|**Robustly Invertible Nonlinear Dynamics and the BiLipREN: Contracting Neural Models with Contracting Inverses**|Yurui Zhang et.al.|[2505.03069](http://arxiv.org/abs/2505.03069)|null|
 |**2025-05-04**|**Uncertainty Quantification for Machine Learning in Healthcare: A Survey**|L. Julián Lechuga López et.al.|[2505.02874](http://arxiv.org/abs/2505.02874)|null|
@@ -4009,7 +4011,7 @@ layout: default
 |**2025-05-05**|**ReeM: Ensemble Building Thermodynamics Model for Efficient HVAC Control via Hierarchical Reinforcement Learning**|Yang Deng et.al.|[2505.02439](http://arxiv.org/abs/2505.02439)|null|
 |**2025-04-28**|**Inverse Modeling of Dielectric Response in Time Domain using Physics-Informed Neural Networks**|Emir Esenov et.al.|[2505.02258](http://arxiv.org/abs/2505.02258)|**[link](https://github.com/emiresenov/inverse-DR)**|
 |**2025-05-02**|**Phantora: Live GPU Cluster Simulation for Machine Learning System Performance Estimation**|Jianxing Qin et.al.|[2505.01616](http://arxiv.org/abs/2505.01616)|null|
-|**2025-04-23**|**AdaParse: An Adaptive Parallel PDF Parsing and Resource Scaling Engine**|Carlo Siebenschuh et.al.|[2505.01435](http://arxiv.org/abs/2505.01435)|null|
+|**2025-04-23**|**AdaParse: An Adaptive Parallel PDF Parsing and Resource Scaling Engine**|Carlo Siebenschuh et.al.|[2505.01435](http://arxiv.org/abs/2505.01435)|**[link](https://github.com/7shoe/adaparse)**|
 |**2025-05-02**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386](http://arxiv.org/abs/2505.01386)|null|
 |**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
 |**2025-05-02**|**Secure Cluster-Based Hierarchical Federated Learning in Vehicular Networks**|M. Saeid HaghighiFard et.al.|[2505.01186](http://arxiv.org/abs/2505.01186)|null|
