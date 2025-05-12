@@ -4001,6 +4001,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Leveraging Multi-Task Learning for Multi-Label Power System Security Assessment**|Muhy Eddin Za'ter et.al.|[2505.06207](http://arxiv.org/abs/2505.06207)|null|
+|**2025-05-09**|**Privacy-Preserving Credit Card Approval Using Homomorphic SVM: Toward Secure Inference in FinTech Applications**|Faneela et.al.|[2505.05920](http://arxiv.org/abs/2505.05920)|null|
+|**2025-05-09**|**Mixed-Integer Optimization for Responsible Machine Learning**|Nathan Justin et.al.|[2505.05857](http://arxiv.org/abs/2505.05857)|null|
+|**2025-05-08**|**Learning to Drive Anywhere with Model-Based Reannotation11**|Noriaki Hirose et.al.|[2505.05592](http://arxiv.org/abs/2505.05592)|null|
 |**2025-05-08**|**Incentive-Aware Machine Learning; Robustness, Fairness, Improvement & Causality**|Chara Podimata et.al.|[2505.05211](http://arxiv.org/abs/2505.05211)|null|
 |**2025-05-08**|**Learning Linearized Models from Nonlinear Systems under Initialization Constraints with Finite Data**|Lei Xin et.al.|[2505.04954](http://arxiv.org/abs/2505.04954)|null|
 |**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608](http://arxiv.org/abs/2505.04608)|null|
@@ -4012,7 +4016,7 @@ layout: default
 |**2025-04-28**|**Inverse Modeling of Dielectric Response in Time Domain using Physics-Informed Neural Networks**|Emir Esenov et.al.|[2505.02258](http://arxiv.org/abs/2505.02258)|**[link](https://github.com/emiresenov/inverse-DR)**|
 |**2025-05-02**|**Phantora: Live GPU Cluster Simulation for Machine Learning System Performance Estimation**|Jianxing Qin et.al.|[2505.01616](http://arxiv.org/abs/2505.01616)|null|
 |**2025-04-23**|**AdaParse: An Adaptive Parallel PDF Parsing and Resource Scaling Engine**|Carlo Siebenschuh et.al.|[2505.01435](http://arxiv.org/abs/2505.01435)|**[link](https://github.com/7shoe/adaparse)**|
-|**2025-05-08**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386](http://arxiv.org/abs/2505.01386)|null|
+|**2025-05-08**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386](http://arxiv.org/abs/2505.01386)|**[link](https://github.com/facebookresearch/catransformers)**|
 |**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
 |**2025-05-02**|**Secure Cluster-Based Hierarchical Federated Learning in Vehicular Networks**|M. Saeid HaghighiFard et.al.|[2505.01186](http://arxiv.org/abs/2505.01186)|null|
 |**2025-05-02**|**Learning Low-Dimensional Embeddings for Black-Box Optimization**|Riccardo Busetto et.al.|[2505.01112](http://arxiv.org/abs/2505.01112)|null|
