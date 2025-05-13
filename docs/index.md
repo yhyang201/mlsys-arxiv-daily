@@ -4001,13 +4001,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Tony Tao et.al.|[2505.07813](http://arxiv.org/abs/2505.07813)|null|
+|**2025-05-12**|**Multi-Objective Reinforcement Learning for Energy-Efficient Industrial Control**|Georg Schäfer et.al.|[2505.07607](http://arxiv.org/abs/2505.07607)|null|
+|**2025-05-12**|**Finite-Sample-Based Reachability for Safe Control with Gaussian Process Dynamics**|Manish Prajapat et.al.|[2505.07594](http://arxiv.org/abs/2505.07594)|null|
+|**2025-05-12**|**Interpretable Event Diagnosis in Water Distribution Networks**|André Artelt et.al.|[2505.07299](http://arxiv.org/abs/2505.07299)|null|
+|**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
+|**2025-05-11**|**YANNs: Y-wise Affine Neural Networks for Exact and Efficient Representations of Piecewise Linear Functions**|Austin Braniff et.al.|[2505.07054](http://arxiv.org/abs/2505.07054)|null|
+|**2025-05-11**|**Realistic Counterfactual Explanations for Machine Learning-Controlled Mobile Robots using 2D LiDAR**|Sindre Benjamin Remman et.al.|[2505.06906](http://arxiv.org/abs/2505.06906)|null|
+|**2025-05-10**|**A Survey on Data-Driven Modeling of Human Drivers' Lane-Changing Decisions**|Linxuan Huang et.al.|[2505.06680](http://arxiv.org/abs/2505.06680)|null|
+|**2025-05-09**|**The ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization**|Jae-Won Chung et.al.|[2505.06371](http://arxiv.org/abs/2505.06371)|null|
 |**2025-05-09**|**Leveraging Multi-Task Learning for Multi-Label Power System Security Assessment**|Muhy Eddin Za'ter et.al.|[2505.06207](http://arxiv.org/abs/2505.06207)|null|
 |**2025-05-09**|**Privacy-Preserving Credit Card Approval Using Homomorphic SVM: Toward Secure Inference in FinTech Applications**|Faneela et.al.|[2505.05920](http://arxiv.org/abs/2505.05920)|null|
 |**2025-05-09**|**Mixed-Integer Optimization for Responsible Machine Learning**|Nathan Justin et.al.|[2505.05857](http://arxiv.org/abs/2505.05857)|null|
-|**2025-05-08**|**Learning to Drive Anywhere with Model-Based Reannotation11**|Noriaki Hirose et.al.|[2505.05592](http://arxiv.org/abs/2505.05592)|null|
+|**2025-05-12**|**Learning to Drive Anywhere with Model-Based Reannotation**|Noriaki Hirose et.al.|[2505.05592](http://arxiv.org/abs/2505.05592)|null|
 |**2025-05-08**|**Incentive-Aware Machine Learning; Robustness, Fairness, Improvement & Causality**|Chara Podimata et.al.|[2505.05211](http://arxiv.org/abs/2505.05211)|null|
 |**2025-05-08**|**Learning Linearized Models from Nonlinear Systems under Initialization Constraints with Finite Data**|Lei Xin et.al.|[2505.04954](http://arxiv.org/abs/2505.04954)|null|
-|**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608](http://arxiv.org/abs/2505.04608)|null|
+|**2025-05-12**|**WATCH: Adaptive Monitoring for AI Deployments via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608](http://arxiv.org/abs/2505.04608)|**[link](https://github.com/aaronhan223/wtr)**|
 |**2025-05-05**|**Robustly Invertible Nonlinear Dynamics and the BiLipREN: Contracting Neural Models with Contracting Inverses**|Yurui Zhang et.al.|[2505.03069](http://arxiv.org/abs/2505.03069)|null|
 |**2025-05-04**|**Uncertainty Quantification for Machine Learning in Healthcare: A Survey**|L. Julián Lechuga López et.al.|[2505.02874](http://arxiv.org/abs/2505.02874)|null|
 |**2025-05-02**|**A Computational Model of Inclusive Pedagogy: From Understanding to Application**|Francesco Balzan et.al.|[2505.02853](http://arxiv.org/abs/2505.02853)|null|
