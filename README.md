@@ -4049,7 +4049,7 @@
 |**2025-05-08**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386](http://arxiv.org/abs/2505.01386)|**[link](https://github.com/facebookresearch/catransformers)**|
 |**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
 |**2025-05-02**|**Secure Cluster-Based Hierarchical Federated Learning in Vehicular Networks**|M. Saeid HaghighiFard et.al.|[2505.01186](http://arxiv.org/abs/2505.01186)|null|
-|**2025-05-02**|**Learning Low-Dimensional Embeddings for Black-Box Optimization**|Riccardo Busetto et.al.|[2505.01112](http://arxiv.org/abs/2505.01112)|null|
+|**2025-05-02**|**Learning Low-Dimensional Embeddings for Black-Box Optimization**|Riccardo Busetto et.al.|[2505.01112](http://arxiv.org/abs/2505.01112)|**[link](https://github.com/buswayne/meta-glis)**|
 |**2025-05-02**|**Integration Matters for Learning PDEs with Backwards SDEs**|Sungje Park et.al.|[2505.01078](http://arxiv.org/abs/2505.01078)|null|
 |**2025-05-02**|**Model Tensor Planning**|An T. Le et.al.|[2505.01059](http://arxiv.org/abs/2505.01059)|**[link](https://github.com/anindex/mtp)**|
 |**2025-05-01**|**Dual Filter: A Mathematical Framework for Inference using Transformer-like Architectures**|Heng-Sheng Chang et.al.|[2505.00818](http://arxiv.org/abs/2505.00818)|null|
