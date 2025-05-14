@@ -4001,6 +4001,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
+|**2025-05-13**|**Continuous World Coverage Path Planning for Fixed-Wing UAVs using Deep Reinforcement Learning**|Mirco Theile et.al.|[2505.08382](http://arxiv.org/abs/2505.08382)|null|
+|**2025-05-12**|**Safety and optimality in learning-based control at low computational cost**|Dominik Baumann et.al.|[2505.08026](http://arxiv.org/abs/2505.08026)|null|
+|**2025-05-12**|**VoI-Driven Joint Optimization of Control and Communication in Vehicular Digital Twin Network**|Lei Lei et.al.|[2505.07892](http://arxiv.org/abs/2505.07892)|null|
 |**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Tony Tao et.al.|[2505.07813](http://arxiv.org/abs/2505.07813)|null|
 |**2025-05-12**|**Multi-Objective Reinforcement Learning for Energy-Efficient Industrial Control**|Georg Schäfer et.al.|[2505.07607](http://arxiv.org/abs/2505.07607)|null|
 |**2025-05-12**|**Finite-Sample-Based Reachability for Safe Control with Gaussian Process Dynamics**|Manish Prajapat et.al.|[2505.07594](http://arxiv.org/abs/2505.07594)|null|
