@@ -4015,7 +4015,7 @@ layout: default
 |**2025-05-11**|**YANNs: Y-wise Affine Neural Networks for Exact and Efficient Representations of Piecewise Linear Functions**|Austin Braniff et.al.|[2505.07054](http://arxiv.org/abs/2505.07054)|null|
 |**2025-05-11**|**Realistic Counterfactual Explanations for Machine Learning-Controlled Mobile Robots using 2D LiDAR**|Sindre Benjamin Remman et.al.|[2505.06906](http://arxiv.org/abs/2505.06906)|null|
 |**2025-05-10**|**A Survey on Data-Driven Modeling of Human Drivers' Lane-Changing Decisions**|Linxuan Huang et.al.|[2505.06680](http://arxiv.org/abs/2505.06680)|null|
-|**2025-05-09**|**The ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization**|Jae-Won Chung et.al.|[2505.06371](http://arxiv.org/abs/2505.06371)|null|
+|**2025-05-09**|**The ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization**|Jae-Won Chung et.al.|[2505.06371](http://arxiv.org/abs/2505.06371)|**[link](https://github.com/ml-energy/leaderboard)**|
 |**2025-05-09**|**Leveraging Multi-Task Learning for Multi-Label Power System Security Assessment**|Muhy Eddin Za'ter et.al.|[2505.06207](http://arxiv.org/abs/2505.06207)|null|
 |**2025-05-09**|**Privacy-Preserving Credit Card Approval Using Homomorphic SVM: Toward Secure Inference in FinTech Applications**|Faneela et.al.|[2505.05920](http://arxiv.org/abs/2505.05920)|null|
 |**2025-05-09**|**Mixed-Integer Optimization for Responsible Machine Learning**|Nathan Justin et.al.|[2505.05857](http://arxiv.org/abs/2505.05857)|null|
