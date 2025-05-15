@@ -4001,6 +4001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Accelerating Machine Learning Systems via Category Theory: Applications to Spherical Attention for Gene Regulatory Networks**|Vincent Abbott et.al.|[2505.09326](http://arxiv.org/abs/2505.09326)|null|
+|**2025-05-13**|**Model-free Online Learning for the Kalman Filter: Forgetting Factor and Logarithmic Regret**|Jiachen Qian et.al.|[2505.08982](http://arxiv.org/abs/2505.08982)|null|
 |**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
 |**2025-05-13**|**Continuous World Coverage Path Planning for Fixed-Wing UAVs using Deep Reinforcement Learning**|Mirco Theile et.al.|[2505.08382](http://arxiv.org/abs/2505.08382)|null|
 |**2025-05-12**|**Safety and optimality in learning-based control at low computational cost**|Dominik Baumann et.al.|[2505.08026](http://arxiv.org/abs/2505.08026)|null|
