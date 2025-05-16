@@ -4022,6 +4022,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model**|David Grasev et.al.|[2505.10438](http://arxiv.org/abs/2505.10438)|null|
+|**2025-05-15**|**AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics**|Alexandre Banks et.al.|[2505.10398](http://arxiv.org/abs/2505.10398)|null|
+|**2025-05-15**|**A Hybrid Strategy for Aggregated Probabilistic Forecasting and Energy Trading in HEFTCom2024**|Chuanqing Pu et.al.|[2505.10367](http://arxiv.org/abs/2505.10367)|**[link](https://github.com/bigdogmanluo/heftcom24)**|
+|**2025-05-15**|**A User Study Evaluating Argumentative Explanations in Diagnostic Decision Support**|Felix Liedeker et.al.|[2505.10188](http://arxiv.org/abs/2505.10188)|null|
+|**2025-05-14**|**Visual Feedback of Pattern Separability Improves Myoelectric Decoding Performance of Upper Limb Prostheses**|Ruichen Yang et.al.|[2505.09819](http://arxiv.org/abs/2505.09819)|null|
+|**2025-05-14**|**System Prompt Optimization with Meta-Learning**|Yumin Choi et.al.|[2505.09666](http://arxiv.org/abs/2505.09666)|null|
 |**2025-05-14**|**Accelerating Machine Learning Systems via Category Theory: Applications to Spherical Attention for Gene Regulatory Networks**|Vincent Abbott et.al.|[2505.09326](http://arxiv.org/abs/2505.09326)|null|
 |**2025-05-13**|**Model-free Online Learning for the Kalman Filter: Forgetting Factor and Logarithmic Regret**|Jiachen Qian et.al.|[2505.08982](http://arxiv.org/abs/2505.08982)|null|
 |**2025-05-15**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
