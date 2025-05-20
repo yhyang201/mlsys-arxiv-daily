@@ -4022,6 +4022,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902](http://arxiv.org/abs/2505.12902)|null|
+|**2025-05-19**|**On the Mechanisms of Adversarial Data Augmentation for Robust and Adaptive Transfer Learning**|Hana Satou et.al.|[2505.12681](http://arxiv.org/abs/2505.12681)|null|
+|**2025-05-18**|**Beyond Accuracy: EcoL2 Metric for Sustainable Neural PDE Solvers**|Taniya Kapoor et.al.|[2505.12556](http://arxiv.org/abs/2505.12556)|null|
+|**2025-05-17**|**WaLRUS: Wavelets for Long-range Representation Using SSMs**|Hossein Babaei et.al.|[2505.12161](http://arxiv.org/abs/2505.12161)|null|
+|**2025-05-17**|**PyScrew: A Comprehensive Dataset Collection from Industrial Screw Driving Experiments**|Nikolai West et.al.|[2505.11925](http://arxiv.org/abs/2505.11925)|null|
 |**2025-05-16**|**IISE PG&E Energy Analytics Challenge 2025: Hourly-Binned Regression Models Beat Transformers in Load Forecasting**|Millend Roy et.al.|[2505.11390](http://arxiv.org/abs/2505.11390)|null|
 |**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|null|
 |**2025-05-16**|**Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design**|Yuta Higuchi et.al.|[2505.10843](http://arxiv.org/abs/2505.10843)|null|
