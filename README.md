@@ -4022,6 +4022,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Sequential QCQP for Bilevel Optimization with Line Search**|Sina Sharifi et.al.|[2505.14647](http://arxiv.org/abs/2505.14647)|null|
+|**2025-05-20**|**A system identification approach to clustering vector autoregressive time series**|Zuogong Yue et.al.|[2505.14421](http://arxiv.org/abs/2505.14421)|null|
+|**2025-05-18**|**EuLearn: A 3D database for learning Euler characteristics**|Rodrigo Fritz et.al.|[2505.13539](http://arxiv.org/abs/2505.13539)|null|
+|**2025-05-08**|**An Edge AI Solution for Space Object Detection**|Wenxuan Zhang et.al.|[2505.13468](http://arxiv.org/abs/2505.13468)|null|
 |**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902](http://arxiv.org/abs/2505.12902)|null|
 |**2025-05-19**|**On the Mechanisms of Adversarial Data Augmentation for Robust and Adaptive Transfer Learning**|Hana Satou et.al.|[2505.12681](http://arxiv.org/abs/2505.12681)|null|
 |**2025-05-18**|**Beyond Accuracy: EcoL2 Metric for Sustainable Neural PDE Solvers**|Taniya Kapoor et.al.|[2505.12556](http://arxiv.org/abs/2505.12556)|null|
