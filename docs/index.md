@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4003,7 +4003,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**Sequential QCQP for Bilevel Optimization with Line Search**|Sina Sharifi et.al.|[2505.14647](http://arxiv.org/abs/2505.14647)|null|
 |**2025-05-20**|**A system identification approach to clustering vector autoregressive time series**|Zuogong Yue et.al.|[2505.14421](http://arxiv.org/abs/2505.14421)|null|
-|**2025-05-18**|**EuLearn: A 3D database for learning Euler characteristics**|Rodrigo Fritz et.al.|[2505.13539](http://arxiv.org/abs/2505.13539)|null|
+|**2025-05-18**|**EuLearn: A 3D database for learning Euler characteristics**|Rodrigo Fritz et.al.|[2505.13539](http://arxiv.org/abs/2505.13539)|**[link](https://github.com/appliedgeometry/eulearn_db)**|
 |**2025-05-08**|**An Edge AI Solution for Space Object Detection**|Wenxuan Zhang et.al.|[2505.13468](http://arxiv.org/abs/2505.13468)|null|
 |**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902](http://arxiv.org/abs/2505.12902)|null|
 |**2025-05-19**|**On the Mechanisms of Adversarial Data Augmentation for Robust and Adaptive Transfer Learning**|Hana Satou et.al.|[2505.12681](http://arxiv.org/abs/2505.12681)|null|
@@ -4011,7 +4011,7 @@ layout: default
 |**2025-05-17**|**WaLRUS: Wavelets for Long-range Representation Using SSMs**|Hossein Babaei et.al.|[2505.12161](http://arxiv.org/abs/2505.12161)|null|
 |**2025-05-17**|**PyScrew: A Comprehensive Dataset Collection from Industrial Screw Driving Experiments**|Nikolai West et.al.|[2505.11925](http://arxiv.org/abs/2505.11925)|null|
 |**2025-05-16**|**IISE PG&E Energy Analytics Challenge 2025: Hourly-Binned Regression Models Beat Transformers in Load Forecasting**|Millend Roy et.al.|[2505.11390](http://arxiv.org/abs/2505.11390)|null|
-|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|null|
+|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|**[link](https://github.com/abirilab/aras)**|
 |**2025-05-16**|**Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design**|Yuta Higuchi et.al.|[2505.10843](http://arxiv.org/abs/2505.10843)|null|
 |**2025-05-15**|**System Identification and Control Using Lyapunov-Based Deep Neural Networks without Persistent Excitation: A Concurrent Learning Approach**|Rebecca G. Hart et.al.|[2505.10678](http://arxiv.org/abs/2505.10678)|null|
 |**2025-05-15**|**Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model**|David Grasev et.al.|[2505.10438](http://arxiv.org/abs/2505.10438)|null|
