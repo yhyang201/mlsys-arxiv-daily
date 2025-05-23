@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4001,11 +4001,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|null|
+|**2025-05-22**|**Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach**|Huazi Pan et.al.|[2505.16403](http://arxiv.org/abs/2505.16403)|null|
+|**2025-05-22**|**Offline Guarded Safe Reinforcement Learning for Medical Treatment Optimization Strategies**|Runze Yan et.al.|[2505.16242](http://arxiv.org/abs/2505.16242)|null|
 |**2025-05-21**|**Are machine learning interpretations reliable? A stability study on global interpretations**|Luqin Gan et.al.|[2505.15728](http://arxiv.org/abs/2505.15728)|null|
 |**2025-05-21**|**Deep Learning for Continuous-time Stochastic Control with Jumps**|Patrick Cheridito et.al.|[2505.15602](http://arxiv.org/abs/2505.15602)|null|
-|**2025-05-21**|**Certified Neural Approximations of Nonlinear Dynamics**|Frederik Baymler Mathiesen et.al.|[2505.15497](http://arxiv.org/abs/2505.15497)|null|
+|**2025-05-21**|**Certified Neural Approximations of Nonlinear Dynamics**|Frederik Baymler Mathiesen et.al.|[2505.15497](http://arxiv.org/abs/2505.15497)|**[link](https://github.com/Zinoex/certified-neural-approximations)**|
 |**2025-05-21**|**AI-based Decision Support System for Heritage Aircraft Corrosion Prevention**|Michal Kuchař et.al.|[2505.15462](http://arxiv.org/abs/2505.15462)|null|
-|**2025-05-21**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244](http://arxiv.org/abs/2505.15244)|null|
+|**2025-05-21**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244](http://arxiv.org/abs/2505.15244)|**[link](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)**|
 |**2025-05-21**|**A Survey On Secure Machine Learning**|Taobo Liao et.al.|[2505.15124](http://arxiv.org/abs/2505.15124)|null|
 |**2025-05-21**|**COSMIC: Enabling Full-Stack Co-Design and Optimization of Distributed Machine Learning Systems**|Aditi Raju et.al.|[2505.15020](http://arxiv.org/abs/2505.15020)|null|
 |**2025-05-20**|**SecCAN: An Extended CAN Controller with Embedded Intrusion Detection**|Shashwat Khandelwal et.al.|[2505.14924](http://arxiv.org/abs/2505.14924)|null|
