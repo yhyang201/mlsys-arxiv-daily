@@ -4022,7 +4022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|null|
+|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|**[link](https://github.com/alyasltd/conformal_runway_detection)**|
 |**2025-05-22**|**Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach**|Huazi Pan et.al.|[2505.16403](http://arxiv.org/abs/2505.16403)|null|
 |**2025-05-22**|**Offline Guarded Safe Reinforcement Learning for Medical Treatment Optimization Strategies**|Runze Yan et.al.|[2505.16242](http://arxiv.org/abs/2505.16242)|null|
 |**2025-05-21**|**Are machine learning interpretations reliable? A stability study on global interpretations**|Luqin Gan et.al.|[2505.15728](http://arxiv.org/abs/2505.15728)|null|
