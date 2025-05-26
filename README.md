@@ -4022,6 +4022,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Automata Learning of Preferences over Temporal Logic Formulas from Pairwise Comparisons**|Hazhar Rahmani et.al.|[2505.18030](http://arxiv.org/abs/2505.18030)|null|
+|**2025-05-23**|**Selection Mechanisms for Sequence Modeling using Linear State Space Models**|Umberto Casti et.al.|[2505.17932](http://arxiv.org/abs/2505.17932)|null|
+|**2025-05-23**|**Bruno: Backpropagation Running Undersampled for Novel device Optimization**|Luca Fehlings et.al.|[2505.17791](http://arxiv.org/abs/2505.17791)|null|
+|**2025-05-23**|**\texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party**|Ali Rahimi et.al.|[2505.17623](http://arxiv.org/abs/2505.17623)|null|
+|**2025-05-23**|**ExARNN: An Environment-Driven Adaptive RNN for Learning Non-Stationary Power Dynamics**|Haoran Li et.al.|[2505.17488](http://arxiv.org/abs/2505.17488)|null|
 |**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|**[link](https://github.com/alyasltd/conformal_runway_detection)**|
 |**2025-05-22**|**Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach**|Huazi Pan et.al.|[2505.16403](http://arxiv.org/abs/2505.16403)|null|
 |**2025-05-22**|**Offline Guarded Safe Reinforcement Learning for Medical Treatment Optimization Strategies**|Runze Yan et.al.|[2505.16242](http://arxiv.org/abs/2505.16242)|null|
