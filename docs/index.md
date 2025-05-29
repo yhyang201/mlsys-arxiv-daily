@@ -4001,6 +4001,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**A Physics-Informed Learning Framework to Solve the Infinite-Horizon Optimal Control Problem**|Filippos Fotiadis et.al.|[2505.21842](http://arxiv.org/abs/2505.21842)|null|
 |**2025-05-27**|**Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning**|Runze Lin et.al.|[2505.21026](http://arxiv.org/abs/2505.21026)|null|
 |**2025-05-27**|**Efficient Spectral Control of Partially Observed Linear Dynamical Systems**|Anand Brahmbhatt et.al.|[2505.20943](http://arxiv.org/abs/2505.20943)|null|
 |**2025-05-27**|**Practical estimation of the optimal classification error with soft labels and calibration**|Ryota Ushio et.al.|[2505.20761](http://arxiv.org/abs/2505.20761)|null|
