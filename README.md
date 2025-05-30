@@ -4022,6 +4022,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Network Inversion for Uncertainty-Aware Out-of-Distribution Detection**|Pirzada Suhail et.al.|[2505.23448](http://arxiv.org/abs/2505.23448)|null|
+|**2025-05-29**|**Matryoshka Model Learning for Improved Elastic Student Models**|Chetan Verma et.al.|[2505.23337](http://arxiv.org/abs/2505.23337)|null|
+|**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Mao-Lin Luo et.al.|[2505.23271](http://arxiv.org/abs/2505.23271)|null|
 |**2025-05-28**|**A Physics-Informed Learning Framework to Solve the Infinite-Horizon Optimal Control Problem**|Filippos Fotiadis et.al.|[2505.21842](http://arxiv.org/abs/2505.21842)|null|
 |**2025-05-27**|**Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning**|Runze Lin et.al.|[2505.21026](http://arxiv.org/abs/2505.21026)|null|
 |**2025-05-27**|**Efficient Spectral Control of Partially Observed Linear Dynamical Systems**|Anand Brahmbhatt et.al.|[2505.20943](http://arxiv.org/abs/2505.20943)|null|
@@ -4062,6 +4065,7 @@
 |**2025-05-17**|**PyScrew: A Comprehensive Dataset Collection from Industrial Screw Driving Experiments**|Nikolai West et.al.|[2505.11925](http://arxiv.org/abs/2505.11925)|null|
 |**2025-05-16**|**IISE PG&E Energy Analytics Challenge 2025: Hourly-Binned Regression Models Beat Transformers in Load Forecasting**|Millend Roy et.al.|[2505.11390](http://arxiv.org/abs/2505.11390)|null|
 |**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|**[link](https://github.com/abirilab/aras)**|
+|**2025-05-16**|**User-centric Vehicle-to-Grid Optimization with an Input Convex Neural Network-based Battery Degradation Model**|Arghya Mallick et.al.|[2505.11047](http://arxiv.org/abs/2505.11047)|null|
 |**2025-05-16**|**Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design**|Yuta Higuchi et.al.|[2505.10843](http://arxiv.org/abs/2505.10843)|null|
 |**2025-05-15**|**System Identification and Control Using Lyapunov-Based Deep Neural Networks without Persistent Excitation: A Concurrent Learning Approach**|Rebecca G. Hart et.al.|[2505.10678](http://arxiv.org/abs/2505.10678)|null|
 |**2025-05-29**|**Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model**|David Grasev et.al.|[2505.10438](http://arxiv.org/abs/2505.10438)|null|
