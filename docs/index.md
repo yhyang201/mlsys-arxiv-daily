@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4020,7 +4020,7 @@ layout: default
 |**2025-05-23**|**\texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party**|Ali Rahimi et.al.|[2505.17623](http://arxiv.org/abs/2505.17623)|null|
 |**2025-05-23**|**ExARNN: An Environment-Driven Adaptive RNN for Learning Non-Stationary Power Dynamics**|Haoran Li et.al.|[2505.17488](http://arxiv.org/abs/2505.17488)|null|
 |**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|**[link](https://github.com/alyasltd/conformal_runway_detection)**|
-|**2025-05-22**|**Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach**|Huazi Pan et.al.|[2505.16403](http://arxiv.org/abs/2505.16403)|null|
+|**2025-05-29**|**Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach**|Huazi Pan et.al.|[2505.16403](http://arxiv.org/abs/2505.16403)|null|
 |**2025-05-22**|**Offline Guarded Safe Reinforcement Learning for Medical Treatment Optimization Strategies**|Runze Yan et.al.|[2505.16242](http://arxiv.org/abs/2505.16242)|null|
 |**2025-05-21**|**Are machine learning interpretations reliable? A stability study on global interpretations**|Luqin Gan et.al.|[2505.15728](http://arxiv.org/abs/2505.15728)|null|
 |**2025-05-21**|**Deep Learning for Continuous-time Stochastic Control with Jumps**|Patrick Cheridito et.al.|[2505.15602](http://arxiv.org/abs/2505.15602)|null|
@@ -4043,7 +4043,7 @@ layout: default
 |**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|**[link](https://github.com/abirilab/aras)**|
 |**2025-05-16**|**Comparative Analysis of Black-Box Optimization Methods for Weather Intervention Design**|Yuta Higuchi et.al.|[2505.10843](http://arxiv.org/abs/2505.10843)|null|
 |**2025-05-15**|**System Identification and Control Using Lyapunov-Based Deep Neural Networks without Persistent Excitation: A Concurrent Learning Approach**|Rebecca G. Hart et.al.|[2505.10678](http://arxiv.org/abs/2505.10678)|null|
-|**2025-05-15**|**Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model**|David Grasev et.al.|[2505.10438](http://arxiv.org/abs/2505.10438)|null|
+|**2025-05-29**|**Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model**|David Grasev et.al.|[2505.10438](http://arxiv.org/abs/2505.10438)|null|
 |**2025-05-15**|**AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics**|Alexandre Banks et.al.|[2505.10398](http://arxiv.org/abs/2505.10398)|null|
 |**2025-05-15**|**A Hybrid Strategy for Aggregated Probabilistic Forecasting and Energy Trading in HEFTCom2024**|Chuanqing Pu et.al.|[2505.10367](http://arxiv.org/abs/2505.10367)|**[link](https://github.com/bigdogmanluo/heftcom24)**|
 |**2025-05-15**|**A User Study Evaluating Argumentative Explanations in Diagnostic Decision Support**|Felix Liedeker et.al.|[2505.10188](http://arxiv.org/abs/2505.10188)|null|
