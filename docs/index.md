@@ -4003,14 +4003,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-29**|**Network Inversion for Uncertainty-Aware Out-of-Distribution Detection**|Pirzada Suhail et.al.|[2505.23448](http://arxiv.org/abs/2505.23448)|null|
 |**2025-05-29**|**Matryoshka Model Learning for Improved Elastic Student Models**|Chetan Verma et.al.|[2505.23337](http://arxiv.org/abs/2505.23337)|null|
-|**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Mao-Lin Luo et.al.|[2505.23271](http://arxiv.org/abs/2505.23271)|null|
+|**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Mao-Lin Luo et.al.|[2505.23271](http://arxiv.org/abs/2505.23271)|**[link](https://github.com/maolinluo/lada)**|
 |**2025-05-28**|**A Physics-Informed Learning Framework to Solve the Infinite-Horizon Optimal Control Problem**|Filippos Fotiadis et.al.|[2505.21842](http://arxiv.org/abs/2505.21842)|null|
 |**2025-05-27**|**Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning**|Runze Lin et.al.|[2505.21026](http://arxiv.org/abs/2505.21026)|null|
 |**2025-05-27**|**Efficient Spectral Control of Partially Observed Linear Dynamical Systems**|Anand Brahmbhatt et.al.|[2505.20943](http://arxiv.org/abs/2505.20943)|null|
 |**2025-05-27**|**Practical estimation of the optimal classification error with soft labels and calibration**|Ryota Ushio et.al.|[2505.20761](http://arxiv.org/abs/2505.20761)|null|
 |**2025-05-26**|**Algorithmic Control Improves Residential Building Energy and EV Management when PV Capacity is High but Battery Capacity is Low**|Lennart Ullner et.al.|[2505.20377](http://arxiv.org/abs/2505.20377)|null|
 |**2025-05-26**|**Learning mechanical systems from real-world data using discrete forced Lagrangian dynamics**|Martine Dyring Hansen et.al.|[2505.20370](http://arxiv.org/abs/2505.20370)|null|
-|**2025-05-26**|**Synthetic Time Series Forecasting with Transformer Architectures: Extensive Simulation Benchmarks**|Ali Forootani et.al.|[2505.20048](http://arxiv.org/abs/2505.20048)|null|
+|**2025-05-26**|**Synthetic Time Series Forecasting with Transformer Architectures: Extensive Simulation Benchmarks**|Ali Forootani et.al.|[2505.20048](http://arxiv.org/abs/2505.20048)|**[link](https://github.com/ali-forootani/compactformer)**|
 |**2025-05-26**|**Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures**|Dongzhe Zheng et.al.|[2505.19521](http://arxiv.org/abs/2505.19521)|null|
 |**2025-05-26**|**Toward Physics-Informed Machine Learning for Data Center Operations: A Tropical Case Study**|Ruihang Wang et.al.|[2505.19414](http://arxiv.org/abs/2505.19414)|null|
 |**2025-05-26**|**Alignment of large language models with constrained learning**|Botong Zhang et.al.|[2505.19387](http://arxiv.org/abs/2505.19387)|null|
