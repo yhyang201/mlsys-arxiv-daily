@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4011,7 +4011,7 @@ layout: default
 |**2025-05-26**|**Algorithmic Control Improves Residential Building Energy and EV Management when PV Capacity is High but Battery Capacity is Low**|Lennart Ullner et.al.|[2505.20377](http://arxiv.org/abs/2505.20377)|null|
 |**2025-05-26**|**Learning mechanical systems from real-world data using discrete forced Lagrangian dynamics**|Martine Dyring Hansen et.al.|[2505.20370](http://arxiv.org/abs/2505.20370)|null|
 |**2025-05-26**|**Synthetic Time Series Forecasting with Transformer Architectures: Extensive Simulation Benchmarks**|Ali Forootani et.al.|[2505.20048](http://arxiv.org/abs/2505.20048)|**[link](https://github.com/ali-forootani/compactformer)**|
-|**2025-05-26**|**Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures**|Dongzhe Zheng et.al.|[2505.19521](http://arxiv.org/abs/2505.19521)|null|
+|**2025-05-30**|**Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures**|Dongzhe Zheng et.al.|[2505.19521](http://arxiv.org/abs/2505.19521)|null|
 |**2025-05-26**|**Toward Physics-Informed Machine Learning for Data Center Operations: A Tropical Case Study**|Ruihang Wang et.al.|[2505.19414](http://arxiv.org/abs/2505.19414)|null|
 |**2025-05-26**|**Alignment of large language models with constrained learning**|Botong Zhang et.al.|[2505.19387](http://arxiv.org/abs/2505.19387)|null|
 |**2025-05-24**|**Trust, or Don't Predict: Introducing the CWSA Family for Confidence-Aware Model Evaluation**|Kourosh Shahnazari et.al.|[2505.18622](http://arxiv.org/abs/2505.18622)|null|
