@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4008,7 +4008,7 @@ layout: default
 |**2025-06-03**|**Data-assimilated model-informed reinforcement learning**|Defne E. Ozan et.al.|[2506.01755](http://arxiv.org/abs/2506.01755)|null|
 |**2025-06-02**|**Interpretable reinforcement learning for heat pump control through asymmetric differentiable decision trees**|Toon Van Puyvelde et.al.|[2506.01641](http://arxiv.org/abs/2506.01641)|null|
 |**2025-06-02**|**System Calls for Malware Detection and Classification: Methodologies and Applications**|Bishwajit Prasad Gond et.al.|[2506.01412](http://arxiv.org/abs/2506.01412)|null|
-|**2025-06-02**|**React to Surprises: Stable-by-Design Neural Feedback Control and the Youla-REN**|Nicholas H. Barbara et.al.|[2506.01226](http://arxiv.org/abs/2506.01226)|null|
+|**2025-06-04**|**React to Surprises: Stable-by-Design Neural Feedback Control and the Youla-REN**|Nicholas H. Barbara et.al.|[2506.01226](http://arxiv.org/abs/2506.01226)|null|
 |**2025-06-01**|**Generative diffusion posterior sampling for informative likelihoods**|Zheng Zhao et.al.|[2506.01083](http://arxiv.org/abs/2506.01083)|null|
 |**2025-06-01**|**Data Heterogeneity Modeling for Trustworthy Machine Learning**|Jiashuo Liu et.al.|[2506.00969](http://arxiv.org/abs/2506.00969)|null|
 |**2025-05-31**|**Physics-based Generative Models for Geometrically Consistent and Interpretable Wireless Channel Synthesis**|Satyavrat Wagle et.al.|[2506.00374](http://arxiv.org/abs/2506.00374)|null|
