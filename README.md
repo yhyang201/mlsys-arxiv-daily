@@ -4022,6 +4022,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**System-Aware Unlearning Algorithms: Use Lesser, Forget Faster**|Linda Lu et.al.|[2506.06073](http://arxiv.org/abs/2506.06073)|null|
+|**2025-06-06**|**Applying XAI based unsupervised knowledge discovering for Operation modes in a WWTP. A real case: AQUAVALL WWTP**|Alicia Beneyto-Rodriguez et.al.|[2506.05958](http://arxiv.org/abs/2506.05958)|null|
+|**2025-06-06**|**Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning**|Ngoc Bui et.al.|[2506.05826](http://arxiv.org/abs/2506.05826)|null|
 |**2025-06-05**|**Trustworthiness Preservation by Copies of Machine Learning Systems**|Leonardo Ceragioli et.al.|[2506.05203](http://arxiv.org/abs/2506.05203)|null|
 |**2025-06-05**|**Information Locality as an Inductive Bias for Neural Language Models**|Taiga Someya et.al.|[2506.05136](http://arxiv.org/abs/2506.05136)|null|
 |**2025-06-05**|**Agentic AI for Intent-Based Industrial Automation**|Marcos Lima Romero et.al.|[2506.04980](http://arxiv.org/abs/2506.04980)|null|
