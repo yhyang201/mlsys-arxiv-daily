@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4006,7 +4006,7 @@ layout: default
 |**2025-06-06**|**Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning**|Ngoc Bui et.al.|[2506.05826](http://arxiv.org/abs/2506.05826)|null|
 |**2025-06-05**|**Trustworthiness Preservation by Copies of Machine Learning Systems**|Leonardo Ceragioli et.al.|[2506.05203](http://arxiv.org/abs/2506.05203)|null|
 |**2025-06-05**|**Information Locality as an Inductive Bias for Neural Language Models**|Taiga Someya et.al.|[2506.05136](http://arxiv.org/abs/2506.05136)|null|
-|**2025-06-05**|**Agentic AI for Intent-Based Industrial Automation**|Marcos Lima Romero et.al.|[2506.04980](http://arxiv.org/abs/2506.04980)|null|
+|**2025-06-05**|**Agentic AI for Intent-Based Industrial Automation**|Marcos Lima Romero et.al.|[2506.04980](http://arxiv.org/abs/2506.04980)|**[link](https://github.com/romerocode/talk-to-your-factory)**|
 |**2025-06-05**|**Energentic Intelligence: From Self-Sustaining Systems to Enduring Artificial Life**|Atahan Karagoz et.al.|[2506.04916](http://arxiv.org/abs/2506.04916)|null|
 |**2025-06-05**|**Olfactory Inertial Odometry: Sensor Calibration and Drift Compensation**|Kordel K. France et.al.|[2506.04539](http://arxiv.org/abs/2506.04539)|null|
 |**2025-06-04**|**Replay Can Provably Increase Forgetting**|Yasaman Mahdaviyeh et.al.|[2506.04377](http://arxiv.org/abs/2506.04377)|null|
