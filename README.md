@@ -4022,6 +4022,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**A Generative Physics-Informed Reinforcement Learning-Based Approach for Construction of Representative Drive Cycle**|Amirreza Yasami et.al.|[2506.07929](http://arxiv.org/abs/2506.07929)|null|
+|**2025-06-09**|**Decentralized Optimization on Compact Submanifolds by Quantized Riemannian Gradient Tracking**|Jun Chen et.al.|[2506.07351](http://arxiv.org/abs/2506.07351)|null|
+|**2025-06-09**|**Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems**|Armin Lederer et.al.|[2506.07347](http://arxiv.org/abs/2506.07347)|null|
+|**2025-06-08**|**On the Generalization of Data-Assisted Control in port-Hamiltonian Systems (DAC-pH)**|Mostafa Eslami et.al.|[2506.07079](http://arxiv.org/abs/2506.07079)|null|
+|**2025-06-08**|**FairPFN: A Tabular Foundation Model for Causal Fairness**|Jake Robertson et.al.|[2506.07049](http://arxiv.org/abs/2506.07049)|null|
+|**2025-06-07**|**From Model-Based and Adaptive Control to Evolving Fuzzy Control**|Daniel Leite et.al.|[2506.06594](http://arxiv.org/abs/2506.06594)|null|
+|**2025-06-06**|**The Economic Dispatch of Power-to-Gas Systems with Deep Reinforcement Learning:Tackling the Challenge of Delayed Rewards with Long-Term Energy Storage**|Manuel Sage et.al.|[2506.06484](http://arxiv.org/abs/2506.06484)|null|
+|**2025-05-31**|**ExplainBench: A Benchmark Framework for Local Model Explanations in Fairness-Critical Applications**|James Afful et.al.|[2506.06330](http://arxiv.org/abs/2506.06330)|null|
+|**2025-05-29**|**Composite Reward Design in PPO-Driven Adaptive Filtering**|Abdullah Burkan Bereketoglu et.al.|[2506.06323](http://arxiv.org/abs/2506.06323)|**[link](https://github.com/Bradshard/Reinforcement_Learning/tree/main/rl_signal_filtering)**|
 |**2025-06-06**|**System-Aware Unlearning Algorithms: Use Lesser, Forget Faster**|Linda Lu et.al.|[2506.06073](http://arxiv.org/abs/2506.06073)|null|
 |**2025-06-06**|**Applying XAI based unsupervised knowledge discovering for Operation modes in a WWTP. A real case: AQUAVALL WWTP**|Alicia Beneyto-Rodriguez et.al.|[2506.05958](http://arxiv.org/abs/2506.05958)|null|
 |**2025-06-06**|**Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning**|Ngoc Bui et.al.|[2506.05826](http://arxiv.org/abs/2506.05826)|null|
@@ -4038,7 +4047,7 @@
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-06-03**|**Automated Traffic Incident Response Plans using Generative Artificial Intelligence: Part 1 -- Building the Incident Response Benchmark**|Artur Grigorev et.al.|[2506.03381](http://arxiv.org/abs/2506.03381)|null|
 |**2025-06-03**|**On the Need to Align Intent and Implementation in Uncertainty Quantification for Machine Learning**|Shubhendu Trivedi et.al.|[2506.03037](http://arxiv.org/abs/2506.03037)|null|
-|**2025-06-03**|**Ensemble-MIX: Enhancing Sample Efficiency in Multi-Agent RL Using Ensemble Methods**|Tom Danino et.al.|[2506.02841](http://arxiv.org/abs/2506.02841)|null|
+|**2025-06-08**|**Ensemble-MIX: Enhancing Sample Efficiency in Multi-Agent RL Using Ensemble Methods**|Tom Danino et.al.|[2506.02841](http://arxiv.org/abs/2506.02841)|null|
 |**2025-06-03**|**Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**|Kordel K. France et.al.|[2506.02373](http://arxiv.org/abs/2506.02373)|null|
 |**2025-05-25**|**eACGM: Non-instrumented Performance Tracing and Anomaly Detection towards Machine Learning Systems**|Ruilin Xu et.al.|[2506.02007](http://arxiv.org/abs/2506.02007)|null|
 |**2025-06-03**|**Data-assimilated model-informed reinforcement learning**|Defne E. Ozan et.al.|[2506.01755](http://arxiv.org/abs/2506.01755)|null|
