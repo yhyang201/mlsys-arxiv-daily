@@ -4022,6 +4022,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**|Xingshuo Han et.al.|[2506.08482](http://arxiv.org/abs/2506.08482)|null|
+|**2025-06-10**|**The interplay of robustness and generalization in quantum machine learning**|Julian Berberich et.al.|[2506.08455](http://arxiv.org/abs/2506.08455)|null|
+|**2025-06-10**|**Re4MPC: Reactive Nonlinear MPC for Multi-model Motion Planning via Deep Reinforcement Learning**|Neşet Ünver Akmandor et.al.|[2506.08344](http://arxiv.org/abs/2506.08344)|null|
+|**2025-06-09**|**Lite-RVFL: A Lightweight Random Vector Functional-Link Neural Network for Learning Under Concept Drift**|Songqiao Hu et.al.|[2506.08063](http://arxiv.org/abs/2506.08063)|null|
+|**2025-06-02**|**Feasibility Study of CNNs and MLPs for Radiation Heat Transfer in 2-D Furnaces with Spectrally Participative Gases**|Axel TahmasebiMoradi et.al.|[2506.08033](http://arxiv.org/abs/2506.08033)|null|
+|**2025-06-02**|**Inverse Design in Distributed Circuits Using Single-Step Reinforcement Learning**|Jiayu Li et.al.|[2506.08029](http://arxiv.org/abs/2506.08029)|null|
+|**2025-05-30**|**TIP-Search: Time-Predictable Inference Scheduling for Market Prediction under Uncertain Load**|Xibai Wang et.al.|[2506.08026](http://arxiv.org/abs/2506.08026)|null|
 |**2025-06-09**|**A Generative Physics-Informed Reinforcement Learning-Based Approach for Construction of Representative Drive Cycle**|Amirreza Yasami et.al.|[2506.07929](http://arxiv.org/abs/2506.07929)|null|
 |**2025-06-09**|**Decentralized Optimization on Compact Submanifolds by Quantized Riemannian Gradient Tracking**|Jun Chen et.al.|[2506.07351](http://arxiv.org/abs/2506.07351)|null|
 |**2025-06-09**|**Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems**|Armin Lederer et.al.|[2506.07347](http://arxiv.org/abs/2506.07347)|null|
