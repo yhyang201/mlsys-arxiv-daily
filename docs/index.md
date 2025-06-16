@@ -4001,6 +4001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Computational Attestations of Polynomial Integrity Towards Verifiable Machine-Learning**|Dustin Ray et.al.|[2506.11458](http://arxiv.org/abs/2506.11458)|null|
+|**2025-06-12**|**Domain-Constrained Diffusion Models to Synthesize Tabular Data: A Case Study in Power Systems**|Milad Hoseinpour et.al.|[2506.11281](http://arxiv.org/abs/2506.11281)|null|
 |**2025-06-12**|**System Identification Using Kolmogorov-Arnold Networks: A Case Study on Buck Converters**|Nart Gashi et.al.|[2506.10434](http://arxiv.org/abs/2506.10434)|null|
 |**2025-06-11**|**Wasserstein Barycenter Soft Actor-Critic**|Zahra Shahrooei et.al.|[2506.10167](http://arxiv.org/abs/2506.10167)|null|
 |**2025-06-11**|**Evasion Attacks Against Bayesian Predictive Models**|Pablo G. Arce et.al.|[2506.09640](http://arxiv.org/abs/2506.09640)|**[link](https://github.com/pablogarciarce/advreg)**|
