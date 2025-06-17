@@ -4001,6 +4001,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**From Data-Driven to Purpose-Driven Artificial Intelligence: Systems Thinking for Data-Analytic Automation of Patient Care**|Daniel Anadria et.al.|[2506.13584](http://arxiv.org/abs/2506.13584)|null|
+|**2025-06-16**|**A Survey on Imitation Learning for Contact-Rich Tasks in Robotics**|Toshiaki Tsuji et.al.|[2506.13498](http://arxiv.org/abs/2506.13498)|null|
+|**2025-06-16**|**Condition Monitoring with Machine Learning: A Data-Driven Framework for Quantifying Wind Turbine Energy Loss**|Emil Marcus Buchberg et.al.|[2506.13012](http://arxiv.org/abs/2506.13012)|null|
+|**2025-06-15**|**Nonlinear Model Order Reduction of Dynamical Systems in Process Engineering: Review and Comparison**|Jan C. Schulze et.al.|[2506.12819](http://arxiv.org/abs/2506.12819)|null|
+|**2025-06-14**|**Fairness Research For Machine Learning Should Integrate Societal Considerations**|Yijun Bian et.al.|[2506.12556](http://arxiv.org/abs/2506.12556)|null|
+|**2025-06-14**|**Relative Entropy Regularized Reinforcement Learning for Efficient Encrypted Policy Synthesis**|Jihoon Suh et.al.|[2506.12358](http://arxiv.org/abs/2506.12358)|null|
+|**2025-06-13**|**Cloud Infrastructure Management in the Age of AI Agents**|Zhenning Yang et.al.|[2506.12270](http://arxiv.org/abs/2506.12270)|null|
 |**2025-06-13**|**Computational Attestations of Polynomial Integrity Towards Verifiable Machine-Learning**|Dustin Ray et.al.|[2506.11458](http://arxiv.org/abs/2506.11458)|null|
 |**2025-06-12**|**Domain-Constrained Diffusion Models to Synthesize Tabular Data: A Case Study in Power Systems**|Milad Hoseinpour et.al.|[2506.11281](http://arxiv.org/abs/2506.11281)|null|
 |**2025-06-12**|**System Identification Using Kolmogorov-Arnold Networks: A Case Study on Buck Converters**|Nart Gashi et.al.|[2506.10434](http://arxiv.org/abs/2506.10434)|null|
