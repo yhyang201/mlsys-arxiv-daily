@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4004,13 +4004,13 @@ layout: default
 |**2025-06-13**|**Computational Attestations of Polynomial Integrity Towards Verifiable Machine-Learning**|Dustin Ray et.al.|[2506.11458](http://arxiv.org/abs/2506.11458)|null|
 |**2025-06-12**|**Domain-Constrained Diffusion Models to Synthesize Tabular Data: A Case Study in Power Systems**|Milad Hoseinpour et.al.|[2506.11281](http://arxiv.org/abs/2506.11281)|null|
 |**2025-06-12**|**System Identification Using Kolmogorov-Arnold Networks: A Case Study on Buck Converters**|Nart Gashi et.al.|[2506.10434](http://arxiv.org/abs/2506.10434)|null|
-|**2025-06-11**|**Wasserstein Barycenter Soft Actor-Critic**|Zahra Shahrooei et.al.|[2506.10167](http://arxiv.org/abs/2506.10167)|null|
+|**2025-06-14**|**Wasserstein Barycenter Soft Actor-Critic**|Zahra Shahrooei et.al.|[2506.10167](http://arxiv.org/abs/2506.10167)|null|
 |**2025-06-11**|**Evasion Attacks Against Bayesian Predictive Models**|Pablo G. Arce et.al.|[2506.09640](http://arxiv.org/abs/2506.09640)|**[link](https://github.com/pablogarciarce/advreg)**|
 |**2025-06-11**|**A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**|Donglin Wang et.al.|[2506.09512](http://arxiv.org/abs/2506.09512)|null|
 |**2025-06-10**|**One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**|Xingshuo Han et.al.|[2506.08482](http://arxiv.org/abs/2506.08482)|null|
 |**2025-06-10**|**The interplay of robustness and generalization in quantum machine learning**|Julian Berberich et.al.|[2506.08455](http://arxiv.org/abs/2506.08455)|null|
 |**2025-06-10**|**Re4MPC: Reactive Nonlinear MPC for Multi-model Motion Planning via Deep Reinforcement Learning**|Neşet Ünver Akmandor et.al.|[2506.08344](http://arxiv.org/abs/2506.08344)|null|
-|**2025-06-09**|**Lite-RVFL: A Lightweight Random Vector Functional-Link Neural Network for Learning Under Concept Drift**|Songqiao Hu et.al.|[2506.08063](http://arxiv.org/abs/2506.08063)|null|
+|**2025-06-09**|**Lite-RVFL: A Lightweight Random Vector Functional-Link Neural Network for Learning Under Concept Drift**|Songqiao Hu et.al.|[2506.08063](http://arxiv.org/abs/2506.08063)|**[link](https://github.com/songqiaohu/lite-rvfl)**|
 |**2025-06-11**|**Feasibility Study of CNNs and MLPs for Radiation Heat Transfer in 2-D Furnaces with Spectrally Participative Gases**|Axel TahmasebiMoradi et.al.|[2506.08033](http://arxiv.org/abs/2506.08033)|null|
 |**2025-06-02**|**Inverse Design in Distributed Circuits Using Single-Step Reinforcement Learning**|Jiayu Li et.al.|[2506.08029](http://arxiv.org/abs/2506.08029)|null|
 |**2025-05-30**|**TIP-Search: Time-Predictable Inference Scheduling for Market Prediction under Uncertain Load**|Xibai Wang et.al.|[2506.08026](http://arxiv.org/abs/2506.08026)|null|
