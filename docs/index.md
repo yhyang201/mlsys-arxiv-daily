@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4001,12 +4001,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**A Data-Integrated Framework for Learning Fractional-Order Nonlinear Dynamical Systems**|Bahram Yaghooti et.al.|[2506.15665](http://arxiv.org/abs/2506.15665)|null|
+|**2025-06-18**|**GFLC: Graph-based Fairness-aware Label Correction for Fair Classification**|Modar Sulaiman et.al.|[2506.15620](http://arxiv.org/abs/2506.15620)|null|
+|**2025-06-18**|**Systems-Theoretic and Data-Driven Security Analysis in ML-enabled Medical Devices**|Gargi Mitra et.al.|[2506.15028](http://arxiv.org/abs/2506.15028)|null|
 |**2025-06-17**|**Train Once, Forget Precisely: Anchored Optimization for Efficient Post-Hoc Unlearning**|Prabhav Sanga et.al.|[2506.14515](http://arxiv.org/abs/2506.14515)|null|
 |**2025-06-17**|**Hard Contacts with Soft Gradients: Refining Differentiable Simulators for Learning and Control**|Anselm Paulus et.al.|[2506.14186](http://arxiv.org/abs/2506.14186)|null|
 |**2025-06-16**|**Sustainable Machine Learning Retraining: Optimizing Energy Efficiency Without Compromising Accuracy**|Lorena Poenaru-Olaru et.al.|[2506.13838](http://arxiv.org/abs/2506.13838)|null|
 |**2025-06-15**|**Hybrid Meta-Learning Framework for Anomaly Forecasting in Nonlinear Dynamical Systems via Physics-Inspired Simulation and Deep Ensembles**|Abdullah Burkan Bereketoglu et.al.|[2506.13828](http://arxiv.org/abs/2506.13828)|null|
 |**2025-06-13**|**Causality in the human niche: lessons for machine learning**|Richard D. Lange et.al.|[2506.13803](http://arxiv.org/abs/2506.13803)|null|
-|**2025-06-16**|**From Data-Driven to Purpose-Driven Artificial Intelligence: Systems Thinking for Data-Analytic Automation of Patient Care**|Daniel Anadria et.al.|[2506.13584](http://arxiv.org/abs/2506.13584)|null|
+|**2025-06-18**|**From Data-Driven to Purpose-Driven Artificial Intelligence: Systems Thinking for Data-Analytic Automation of Patient Care**|Daniel Anadria et.al.|[2506.13584](http://arxiv.org/abs/2506.13584)|null|
 |**2025-06-16**|**A Survey on Imitation Learning for Contact-Rich Tasks in Robotics**|Toshiaki Tsuji et.al.|[2506.13498](http://arxiv.org/abs/2506.13498)|null|
 |**2025-06-16**|**Condition Monitoring with Machine Learning: A Data-Driven Framework for Quantifying Wind Turbine Energy Loss**|Emil Marcus Buchberg et.al.|[2506.13012](http://arxiv.org/abs/2506.13012)|null|
 |**2025-06-15**|**Nonlinear Model Order Reduction of Dynamical Systems in Process Engineering: Review and Comparison**|Jan C. Schulze et.al.|[2506.12819](http://arxiv.org/abs/2506.12819)|null|
