@@ -4044,8 +4044,8 @@
 |**2025-06-11**|**Evasion Attacks Against Bayesian Predictive Models**|Pablo G. Arce et.al.|[2506.09640](http://arxiv.org/abs/2506.09640)|**[link](https://github.com/pablogarciarce/advreg)**|
 |**2025-06-11**|**A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**|Donglin Wang et.al.|[2506.09512](http://arxiv.org/abs/2506.09512)|null|
 |**2025-06-10**|**One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**|Xingshuo Han et.al.|[2506.08482](http://arxiv.org/abs/2506.08482)|null|
-|**2025-06-10**|**The interplay of robustness and generalization in quantum machine learning**|Julian Berberich et.al.|[2506.08455](http://arxiv.org/abs/2506.08455)|null|
-|**2025-06-10**|**Re4MPC: Reactive Nonlinear MPC for Multi-model Motion Planning via Deep Reinforcement Learning**|Neşet Ünver Akmandor et.al.|[2506.08344](http://arxiv.org/abs/2506.08344)|null|
+|**2025-06-10**|**The interplay of robustness and generalization in quantum machine learning**|Julian Berberich et.al.|[2506.08455](http://arxiv.org/abs/2506.08455)|**[link](https://github.com/tobias-fllnr/robustnessgeneralizationqml)**|
+|**2025-06-10**|**Re4MPC: Reactive Nonlinear MPC for Multi-model Motion Planning via Deep Reinforcement Learning**|Neşet Ünver Akmandor et.al.|[2506.08344](http://arxiv.org/abs/2506.08344)|**[link](https://github.com/river-lab/mobiman)**|
 |**2025-06-09**|**Lite-RVFL: A Lightweight Random Vector Functional-Link Neural Network for Learning Under Concept Drift**|Songqiao Hu et.al.|[2506.08063](http://arxiv.org/abs/2506.08063)|**[link](https://github.com/songqiaohu/lite-rvfl)**|
 |**2025-06-11**|**Feasibility Study of CNNs and MLPs for Radiation Heat Transfer in 2-D Furnaces with Spectrally Participative Gases**|Axel TahmasebiMoradi et.al.|[2506.08033](http://arxiv.org/abs/2506.08033)|null|
 |**2025-06-02**|**Inverse Design in Distributed Circuits Using Single-Step Reinforcement Learning**|Jiayu Li et.al.|[2506.08029](http://arxiv.org/abs/2506.08029)|null|
@@ -4054,7 +4054,7 @@
 |**2025-06-09**|**Decentralized Optimization on Compact Submanifolds by Quantized Riemannian Gradient Tracking**|Jun Chen et.al.|[2506.07351](http://arxiv.org/abs/2506.07351)|null|
 |**2025-06-09**|**Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems**|Armin Lederer et.al.|[2506.07347](http://arxiv.org/abs/2506.07347)|null|
 |**2025-06-08**|**On the Generalization of Data-Assisted Control in port-Hamiltonian Systems (DAC-pH)**|Mostafa Eslami et.al.|[2506.07079](http://arxiv.org/abs/2506.07079)|null|
-|**2025-06-08**|**FairPFN: A Tabular Foundation Model for Causal Fairness**|Jake Robertson et.al.|[2506.07049](http://arxiv.org/abs/2506.07049)|null|
+|**2025-06-08**|**FairPFN: A Tabular Foundation Model for Causal Fairness**|Jake Robertson et.al.|[2506.07049](http://arxiv.org/abs/2506.07049)|**[link](https://github.com/jr2021/FairPFN)**|
 |**2025-06-07**|**From Model-Based and Adaptive Control to Evolving Fuzzy Control**|Daniel Leite et.al.|[2506.06594](http://arxiv.org/abs/2506.06594)|null|
 |**2025-06-06**|**The Economic Dispatch of Power-to-Gas Systems with Deep Reinforcement Learning:Tackling the Challenge of Delayed Rewards with Long-Term Energy Storage**|Manuel Sage et.al.|[2506.06484](http://arxiv.org/abs/2506.06484)|null|
 |**2025-05-31**|**ExplainBench: A Benchmark Framework for Local Model Explanations in Fairness-Critical Applications**|James Afful et.al.|[2506.06330](http://arxiv.org/abs/2506.06330)|null|
