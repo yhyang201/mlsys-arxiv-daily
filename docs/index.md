@@ -4001,6 +4001,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**What Is the Point of Equality in Machine Learning Fairness? Beyond Equality of Opportunity**|Youjin Kong et.al.|[2506.16782](http://arxiv.org/abs/2506.16782)|null|
+|**2025-06-19**|**BIDA: A Bi-level Interaction Decision-making Algorithm for Autonomous Vehicles in Dynamic Traffic Scenarios**|Liyang Yu et.al.|[2506.16546](http://arxiv.org/abs/2506.16546)|null|
+|**2025-06-19**|**On Continuous Monitoring of Risk Violations under Unknown Shift**|Alexander Timans et.al.|[2506.16416](http://arxiv.org/abs/2506.16416)|null|
+|**2025-06-19**|**State-Space Kolmogorov Arnold Networks for Interpretable Nonlinear System Identification**|Gonçalo Granjal Cruz et.al.|[2506.16392](http://arxiv.org/abs/2506.16392)|null|
+|**2025-06-18**|**Pieceformer: Similarity-Driven Knowledge Transfer via Scalable Graph Transformer in VLSI**|Hang Yang et.al.|[2506.15907](http://arxiv.org/abs/2506.15907)|null|
+|**2025-06-18**|**Challenges and Research Directions from the Operational Use of a Machine Learning Damage Assessment System via Small Uncrewed Aerial Systems at Hurricanes Debby and Helene**|Thomas Manzini et.al.|[2506.15890](http://arxiv.org/abs/2506.15890)|null|
+|**2025-06-18**|**Quantum Fisher-Preconditioned Reinforcement Learning: From Single-Qubit Control to Rayleigh-Fading Link Adaptation**|Oluwaseyi Giwa et.al.|[2506.15753](http://arxiv.org/abs/2506.15753)|null|
 |**2025-06-18**|**A Data-Integrated Framework for Learning Fractional-Order Nonlinear Dynamical Systems**|Bahram Yaghooti et.al.|[2506.15665](http://arxiv.org/abs/2506.15665)|null|
 |**2025-06-18**|**GFLC: Graph-based Fairness-aware Label Correction for Fair Classification**|Modar Sulaiman et.al.|[2506.15620](http://arxiv.org/abs/2506.15620)|null|
 |**2025-06-18**|**Systems-Theoretic and Data-Driven Security Analysis in ML-enabled Medical Devices**|Gargi Mitra et.al.|[2506.15028](http://arxiv.org/abs/2506.15028)|null|
