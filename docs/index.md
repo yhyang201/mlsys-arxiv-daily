@@ -4001,7 +4001,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
+|**2025-06-23**|**Dynamic Hybrid Modeling: Incremental Identification and Model Predictive Control**|Adrian Caspari et.al.|[2506.18344](http://arxiv.org/abs/2506.18344)|null|
+|**2025-06-21**|**Leveling the Playing Field: Carefully Comparing Classical and Learned Controllers for Quadrotor Trajectory Tracking**|Pratik Kunapuli et.al.|[2506.17832](http://arxiv.org/abs/2506.17832)|null|
+|**2025-06-21**|**Beyond instruction-conditioning, MoTE: Mixture of Task Experts for Multi-task Embedding Models**|Miguel Romero et.al.|[2506.17781](http://arxiv.org/abs/2506.17781)|null|
+|**2025-06-21**|**Derandomizing Simultaneous Confidence Regions for Band-Limited Functions by Improved Norm Bounds and Majority-Voting Schemes**|Balázs Csanád Csáji et.al.|[2506.17764](http://arxiv.org/abs/2506.17764)|null|
+|**2025-06-20**|**Online Adaptation for Flying Quadrotors in Tight Formations**|Pei-An Hsieh et.al.|[2506.17488](http://arxiv.org/abs/2506.17488)|null|
+|**2025-06-12**|**Conformal Safety Shielding for Imperfect-Perception Agents**|William Scarbro et.al.|[2506.17275](http://arxiv.org/abs/2506.17275)|null|
 |**2025-06-20**|**What Is the Point of Equality in Machine Learning Fairness? Beyond Equality of Opportunity**|Youjin Kong et.al.|[2506.16782](http://arxiv.org/abs/2506.16782)|null|
+|**2025-06-19**|**DRIVE Through the Unpredictability:From a Protocol Investigating Slip to a Metric Estimating Command Uncertainty**|Nicolas Samson et.al.|[2506.16593](http://arxiv.org/abs/2506.16593)|null|
 |**2025-06-19**|**BIDA: A Bi-level Interaction Decision-making Algorithm for Autonomous Vehicles in Dynamic Traffic Scenarios**|Liyang Yu et.al.|[2506.16546](http://arxiv.org/abs/2506.16546)|null|
 |**2025-06-19**|**On Continuous Monitoring of Risk Violations under Unknown Shift**|Alexander Timans et.al.|[2506.16416](http://arxiv.org/abs/2506.16416)|null|
 |**2025-06-19**|**State-Space Kolmogorov Arnold Networks for Interpretable Nonlinear System Identification**|Gonçalo Granjal Cruz et.al.|[2506.16392](http://arxiv.org/abs/2506.16392)|null|
