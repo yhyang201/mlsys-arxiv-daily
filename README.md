@@ -4032,7 +4032,7 @@
 |**2025-06-20**|**What Is the Point of Equality in Machine Learning Fairness? Beyond Equality of Opportunity**|Youjin Kong et.al.|[2506.16782](http://arxiv.org/abs/2506.16782)|null|
 |**2025-06-19**|**DRIVE Through the Unpredictability:From a Protocol Investigating Slip to a Metric Estimating Command Uncertainty**|Nicolas Samson et.al.|[2506.16593](http://arxiv.org/abs/2506.16593)|null|
 |**2025-06-19**|**BIDA: A Bi-level Interaction Decision-making Algorithm for Autonomous Vehicles in Dynamic Traffic Scenarios**|Liyang Yu et.al.|[2506.16546](http://arxiv.org/abs/2506.16546)|null|
-|**2025-06-19**|**On Continuous Monitoring of Risk Violations under Unknown Shift**|Alexander Timans et.al.|[2506.16416](http://arxiv.org/abs/2506.16416)|null|
+|**2025-06-19**|**On Continuous Monitoring of Risk Violations under Unknown Shift**|Alexander Timans et.al.|[2506.16416](http://arxiv.org/abs/2506.16416)|**[link](https://github.com/alextimans/risk-monitor)**|
 |**2025-06-19**|**State-Space Kolmogorov Arnold Networks for Interpretable Nonlinear System Identification**|Gonçalo Granjal Cruz et.al.|[2506.16392](http://arxiv.org/abs/2506.16392)|null|
 |**2025-06-18**|**Pieceformer: Similarity-Driven Knowledge Transfer via Scalable Graph Transformer in VLSI**|Hang Yang et.al.|[2506.15907](http://arxiv.org/abs/2506.15907)|null|
 |**2025-06-18**|**Challenges and Research Directions from the Operational Use of a Machine Learning Damage Assessment System via Small Uncrewed Aerial Systems at Hurricanes Debby and Helene**|Thomas Manzini et.al.|[2506.15890](http://arxiv.org/abs/2506.15890)|null|
@@ -4042,7 +4042,7 @@
 |**2025-06-18**|**Systems-Theoretic and Data-Driven Security Analysis in ML-enabled Medical Devices**|Gargi Mitra et.al.|[2506.15028](http://arxiv.org/abs/2506.15028)|null|
 |**2025-06-17**|**Train Once, Forget Precisely: Anchored Optimization for Efficient Post-Hoc Unlearning**|Prabhav Sanga et.al.|[2506.14515](http://arxiv.org/abs/2506.14515)|null|
 |**2025-06-17**|**Hard Contacts with Soft Gradients: Refining Differentiable Simulators for Learning and Control**|Anselm Paulus et.al.|[2506.14186](http://arxiv.org/abs/2506.14186)|null|
-|**2025-06-16**|**Sustainable Machine Learning Retraining: Optimizing Energy Efficiency Without Compromising Accuracy**|Lorena Poenaru-Olaru et.al.|[2506.13838](http://arxiv.org/abs/2506.13838)|null|
+|**2025-06-16**|**Sustainable Machine Learning Retraining: Optimizing Energy Efficiency Without Compromising Accuracy**|Lorena Poenaru-Olaru et.al.|[2506.13838](http://arxiv.org/abs/2506.13838)|**[link](https://github.com/lorenapoenaru/green_ai_maintenance)**|
 |**2025-06-15**|**Hybrid Meta-Learning Framework for Anomaly Forecasting in Nonlinear Dynamical Systems via Physics-Inspired Simulation and Deep Ensembles**|Abdullah Burkan Bereketoglu et.al.|[2506.13828](http://arxiv.org/abs/2506.13828)|**[link](https://github.com/Bradshard/AFoA)**|
 |**2025-06-13**|**Causality in the human niche: lessons for machine learning**|Richard D. Lange et.al.|[2506.13803](http://arxiv.org/abs/2506.13803)|null|
 |**2025-06-18**|**From Data-Driven to Purpose-Driven Artificial Intelligence: Systems Thinking for Data-Analytic Automation of Patient Care**|Daniel Anadria et.al.|[2506.13584](http://arxiv.org/abs/2506.13584)|null|
