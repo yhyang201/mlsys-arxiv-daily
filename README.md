@@ -4022,6 +4022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Simulation of a closed-loop dc-dc converter using a physics-informed neural network-based model**|Marc-Antoine Coulombe et.al.|[2506.19178](http://arxiv.org/abs/2506.19178)|null|
 |**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
 |**2025-06-23**|**Dynamic Hybrid Modeling: Incremental Identification and Model Predictive Control**|Adrian Caspari et.al.|[2506.18344](http://arxiv.org/abs/2506.18344)|null|
 |**2025-06-21**|**Leveling the Playing Field: Carefully Comparing Classical and Learned Controllers for Quadrotor Trajectory Tracking**|Pratik Kunapuli et.al.|[2506.17832](http://arxiv.org/abs/2506.17832)|null|
