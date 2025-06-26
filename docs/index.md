@@ -4001,6 +4001,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Reinforcement Learning Increases Wind Farm Power Production by Enabling Closed-Loop Collaborative Control**|Andrew Mole et.al.|[2506.20554](http://arxiv.org/abs/2506.20554)|null|
+|**2025-06-25**|**Recurrent neural network-based robust control systems with closed-loop regional incremental ISS and application to MPC design**|Daniele Ravasio et.al.|[2506.20334](http://arxiv.org/abs/2506.20334)|null|
+|**2025-06-25**|**Causal discovery in deterministic discrete LTI-DAE systems**|Bala Rajesh Konkathi et.al.|[2506.20169](http://arxiv.org/abs/2506.20169)|null|
+|**2025-06-25**|**Autonomous Cyber Resilience via a Co-Evolutionary Arms Race within a Fortified Digital Twin Sandbox**|Malikussaid et.al.|[2506.20102](http://arxiv.org/abs/2506.20102)|null|
 |**2025-06-23**|**Simulation of a closed-loop dc-dc converter using a physics-informed neural network-based model**|Marc-Antoine Coulombe et.al.|[2506.19178](http://arxiv.org/abs/2506.19178)|null|
 |**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
 |**2025-06-23**|**Dynamic Hybrid Modeling: Incremental Identification and Model Predictive Control**|Adrian Caspari et.al.|[2506.18344](http://arxiv.org/abs/2506.18344)|null|
