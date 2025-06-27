@@ -4022,6 +4022,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Towards an Optimal Control Perspective of ResNet Training**|Jens Püttschneider et.al.|[2506.21453](http://arxiv.org/abs/2506.21453)|null|
+|**2025-06-25**|**Structural System Identification via Validation and Adaptation**|Cristian López et.al.|[2506.20799](http://arxiv.org/abs/2506.20799)|null|
 |**2025-06-25**|**Reinforcement Learning Increases Wind Farm Power Production by Enabling Closed-Loop Collaborative Control**|Andrew Mole et.al.|[2506.20554](http://arxiv.org/abs/2506.20554)|null|
 |**2025-06-25**|**Recurrent neural network-based robust control systems with closed-loop regional incremental ISS and application to MPC design**|Daniele Ravasio et.al.|[2506.20334](http://arxiv.org/abs/2506.20334)|null|
 |**2025-06-25**|**Causal discovery in deterministic discrete LTI-DAE systems**|Bala Rajesh Konkathi et.al.|[2506.20169](http://arxiv.org/abs/2506.20169)|null|
