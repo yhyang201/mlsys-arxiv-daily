@@ -4001,6 +4001,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Experimental investigation of pose informed reinforcement learning for skid-steered visual navigation**|Ameya Salvi et.al.|[2506.21732](http://arxiv.org/abs/2506.21732)|null|
 |**2025-06-26**|**Towards an Optimal Control Perspective of ResNet Training**|Jens Püttschneider et.al.|[2506.21453](http://arxiv.org/abs/2506.21453)|null|
 |**2025-06-25**|**Structural System Identification via Validation and Adaptation**|Cristian López et.al.|[2506.20799](http://arxiv.org/abs/2506.20799)|null|
 |**2025-06-25**|**Reinforcement Learning Increases Wind Farm Power Production by Enabling Closed-Loop Collaborative Control**|Andrew Mole et.al.|[2506.20554](http://arxiv.org/abs/2506.20554)|null|
