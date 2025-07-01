@@ -4001,6 +4001,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-29**|**A case for data valuation transparency via DValCards**|Keziah Naggita et.al.|[2506.23349](http://arxiv.org/abs/2506.23349)|null|
+|**2025-06-29**|**External Data-Enhanced Meta-Representation for Adaptive Probabilistic Load Forecasting**|Haoran Li et.al.|[2506.23201](http://arxiv.org/abs/2506.23201)|null|
+|**2025-06-28**|**Fragile, Robust, and Antifragile: A Perspective from Parameter Responses in Reinforcement Learning Under Stress**|Zain ul Abdeen et.al.|[2506.23036](http://arxiv.org/abs/2506.23036)|null|
+|**2025-06-28**|**A Reinforcement Learning Approach for Optimal Control in Microgrids**|Davide Salaorni et.al.|[2506.22995](http://arxiv.org/abs/2506.22995)|null|
+|**2025-06-28**|**FairMarket-RL: LLM-Guided Fairness Shaping for Multi-Agent Reinforcement Learning in Peer-to-Peer Markets**|Shrenik Jadhav et.al.|[2506.22708](http://arxiv.org/abs/2506.22708)|null|
+|**2025-06-25**|**Stabilization of industrial processes with time series machine learning**|Matvei Anoshin et.al.|[2506.22502](http://arxiv.org/abs/2506.22502)|null|
 |**2025-06-26**|**Experimental investigation of pose informed reinforcement learning for skid-steered visual navigation**|Ameya Salvi et.al.|[2506.21732](http://arxiv.org/abs/2506.21732)|null|
 |**2025-06-26**|**Towards an Optimal Control Perspective of ResNet Training**|Jens Püttschneider et.al.|[2506.21453](http://arxiv.org/abs/2506.21453)|null|
 |**2025-06-25**|**Structural System Identification via Validation and Adaptation**|Cristian López et.al.|[2506.20799](http://arxiv.org/abs/2506.20799)|null|
