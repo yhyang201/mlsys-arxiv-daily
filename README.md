@@ -4022,6 +4022,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-01**|**yProv4ML: Effortless Provenance Tracking for Machine Learning Systems**|Gabriele Padovani et.al.|[2507.01078](http://arxiv.org/abs/2507.01078)|null|
+|**2025-07-01**|**Provenance Tracking in Large-Scale Machine Learning Systems**|Gabriele Padovani et.al.|[2507.01075](http://arxiv.org/abs/2507.01075)|null|
+|**2025-06-25**|**Variational Digital Twins**|Logan A. Burnett et.al.|[2507.01047](http://arxiv.org/abs/2507.01047)|null|
+|**2025-07-01**|**A Test-Function Approach to Incremental Stability**|Daniel Pfrommer et.al.|[2507.00695](http://arxiv.org/abs/2507.00695)|null|
+|**2025-07-01**|**Neural Augmented Kalman Filters for Road Network assisted GNSS positioning**|Hans van Gorp et.al.|[2507.00654](http://arxiv.org/abs/2507.00654)|null|
+|**2025-07-01**|**Augmented Physics-Based Li-ion Battery Model via Adaptive Ensemble Sparse Learning and Conformal Prediction**|Samuel Filgueira da Silva et.al.|[2507.00353](http://arxiv.org/abs/2507.00353)|null|
+|**2025-06-30**|**Graph Neural Networks in Wind Power Forecasting**|Javier Castellano et.al.|[2507.00105](http://arxiv.org/abs/2507.00105)|null|
 |**2025-06-29**|**A case for data valuation transparency via DValCards**|Keziah Naggita et.al.|[2506.23349](http://arxiv.org/abs/2506.23349)|null|
 |**2025-06-29**|**External Data-Enhanced Meta-Representation for Adaptive Probabilistic Load Forecasting**|Haoran Li et.al.|[2506.23201](http://arxiv.org/abs/2506.23201)|null|
 |**2025-06-28**|**Fragile, Robust, and Antifragile: A Perspective from Parameter Responses in Reinforcement Learning Under Stress**|Zain ul Abdeen et.al.|[2506.23036](http://arxiv.org/abs/2506.23036)|null|
