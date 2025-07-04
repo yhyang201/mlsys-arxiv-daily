@@ -4001,6 +4001,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
+|**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
+|**2025-07-02**|**A robust and adaptive MPC formulation for Gaussian process models**|Mathieu Dubied et.al.|[2507.02098](http://arxiv.org/abs/2507.02098)|null|
+|**2025-06-19**|**News Sentiment Embeddings for Stock Price Forecasting**|Ayaan Qayyum et.al.|[2507.01970](http://arxiv.org/abs/2507.01970)|null|
 |**2025-07-01**|**yProv4ML: Effortless Provenance Tracking for Machine Learning Systems**|Gabriele Padovani et.al.|[2507.01078](http://arxiv.org/abs/2507.01078)|null|
 |**2025-07-01**|**Provenance Tracking in Large-Scale Machine Learning Systems**|Gabriele Padovani et.al.|[2507.01075](http://arxiv.org/abs/2507.01075)|null|
 |**2025-06-25**|**Variational Digital Twins**|Logan A. Burnett et.al.|[2507.01047](http://arxiv.org/abs/2507.01047)|null|
