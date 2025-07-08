@@ -4001,6 +4001,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Mutual Information Optimal Control of Discrete-Time Linear Systems**|Shoju Enami et.al.|[2507.04712](http://arxiv.org/abs/2507.04712)|null|
+|**2025-07-06**|**Domain Adaptation of Drag Reduction Policy to Partial Measurements**|Anton Plaksin et.al.|[2507.04309](http://arxiv.org/abs/2507.04309)|null|
+|**2025-07-05**|**Optimizing Age of Trust and Throughput in Multi-Hop UAV-Aided IoT Networks**|Yizhou Luo et.al.|[2507.03950](http://arxiv.org/abs/2507.03950)|null|
+|**2025-07-04**|**LTLCrit: A Temporal Logic-based LLM Critic for Safe and Efficient Embodied Agents**|Anand Gokhale et.al.|[2507.03293](http://arxiv.org/abs/2507.03293)|null|
+|**2025-07-03**|**First Contact: Data-driven Friction-Stir Process Control**|James Koch et.al.|[2507.03177](http://arxiv.org/abs/2507.03177)|null|
+|**2025-07-03**|**Neural Substitute Solver for Efficient Edge Inference of Power Electronic Hybrid Dynamics**|Jialin Zheng et.al.|[2507.03144](http://arxiv.org/abs/2507.03144)|null|
+|**2025-07-03**|**Monitoring of Static Fairness**|Thomas A. Henzinger et.al.|[2507.03048](http://arxiv.org/abs/2507.03048)|null|
+|**2025-06-26**|**Predictive Maintenance Optimization for Smart Vending Machines Using IoT and Machine Learning**|Md. Nisharul Hasan et.al.|[2507.02934](http://arxiv.org/abs/2507.02934)|null|
 |**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
 |**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
 |**2025-07-02**|**A robust and adaptive MPC formulation for Gaussian process models**|Mathieu Dubied et.al.|[2507.02098](http://arxiv.org/abs/2507.02098)|null|
