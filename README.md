@@ -4022,6 +4022,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Robust Power System State Estimation using Physics-Informed Neural Networks**|Solon Falas et.al.|[2507.05874](http://arxiv.org/abs/2507.05874)|null|
+|**2025-07-08**|**Robust Bandwidth Estimation for Real-Time Communication with Offline Reinforcement Learning**|Jian Kai et.al.|[2507.05785](http://arxiv.org/abs/2507.05785)|null|
 |**2025-07-07**|**Mutual Information Optimal Control of Discrete-Time Linear Systems**|Shoju Enami et.al.|[2507.04712](http://arxiv.org/abs/2507.04712)|null|
 |**2025-07-06**|**Domain Adaptation of Drag Reduction Policy to Partial Measurements**|Anton Plaksin et.al.|[2507.04309](http://arxiv.org/abs/2507.04309)|null|
 |**2025-07-05**|**Optimizing Age of Trust and Throughput in Multi-Hop UAV-Aided IoT Networks**|Yizhou Luo et.al.|[2507.03950](http://arxiv.org/abs/2507.03950)|null|
