@@ -4001,6 +4001,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Heterogeneous Graph Neural Networks for Short-term State Forecasting in Power Systems across Domains and Time Scales: A Hydroelectric Power Plant Case Study**|Raffael Theiler et.al.|[2507.06694](http://arxiv.org/abs/2507.06694)|null|
+|**2025-07-09**|**Few-shot Learning on AMS Circuits and Its Application to Parasitic Capacitance Prediction**|Shan Shen et.al.|[2507.06538](http://arxiv.org/abs/2507.06538)|null|
+|**2025-07-09**|**Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits**|Shan Shen et.al.|[2507.06535](http://arxiv.org/abs/2507.06535)|null|
 |**2025-07-08**|**Robust Power System State Estimation using Physics-Informed Neural Networks**|Solon Falas et.al.|[2507.05874](http://arxiv.org/abs/2507.05874)|null|
 |**2025-07-08**|**Robust Bandwidth Estimation for Real-Time Communication with Offline Reinforcement Learning**|Jian Kai et.al.|[2507.05785](http://arxiv.org/abs/2507.05785)|null|
 |**2025-07-07**|**Mutual Information Optimal Control of Discrete-Time Linear Systems**|Shoju Enami et.al.|[2507.04712](http://arxiv.org/abs/2507.04712)|null|
