@@ -4022,6 +4022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Towards AI-Native RAN: An Operator's Perspective of 6G Day 1 Standardization**|Nan Li et.al.|[2507.08403](http://arxiv.org/abs/2507.08403)|null|
 |**2025-07-10**|**Space-Filling Regularization for Robust and Interpretable Nonlinear State Space Models**|Hermann Klein et.al.|[2507.07792](http://arxiv.org/abs/2507.07792)|null|
 |**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Ruohong Liu et.al.|[2507.07769](http://arxiv.org/abs/2507.07769)|null|
 |**2025-07-10**|**Real-Time Decorrelation-Based Anomaly Detection for Multivariate Time Series**|Amirhossein Sadough et.al.|[2507.07559](http://arxiv.org/abs/2507.07559)|null|
