@@ -4001,6 +4001,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Compression Method for Deep Diagonal State Space Model Based on $H^2$ Optimal Reduction**|Hiroki Sakamoto et.al.|[2507.10078](http://arxiv.org/abs/2507.10078)|null|
+|**2025-07-14**|**Intersection of Reinforcement Learning and Bayesian Optimization for Intelligent Control of Industrial Processes: A Safe MPC-based DPG using Multi-Objective BO**|Hossein Nejatbakhsh Esfahani et.al.|[2507.09864](http://arxiv.org/abs/2507.09864)|null|
+|**2025-07-13**|**Symptom-Driven Personalized Proton Pump Inhibitors Therapy Using Bayesian Neural Networks and Model Predictive Control**|Yutong Li et.al.|[2507.09685](http://arxiv.org/abs/2507.09685)|null|
+|**2025-07-13**|**Neural Two-Stage Stochastic Optimization for Solving Unit Commitment Problem**|Zhentong Shao et.al.|[2507.09503](http://arxiv.org/abs/2507.09503)|null|
+|**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[2507.09061](http://arxiv.org/abs/2507.09061)|null|
+|**2025-07-11**|**On the Gradient Domination of the LQG Problem**|Kasra Fallah et.al.|[2507.09026](http://arxiv.org/abs/2507.09026)|null|
+|**2025-07-08**|**Counterfactual optimization for fault prevention in complex wind energy systems**|Emilio Carrizosa et.al.|[2507.08849](http://arxiv.org/abs/2507.08849)|null|
 |**2025-07-11**|**Towards AI-Native RAN: An Operator's Perspective of 6G Day 1 Standardization**|Nan Li et.al.|[2507.08403](http://arxiv.org/abs/2507.08403)|null|
 |**2025-07-10**|**Space-Filling Regularization for Robust and Interpretable Nonlinear State Space Models**|Hermann Klein et.al.|[2507.07792](http://arxiv.org/abs/2507.07792)|null|
 |**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Ruohong Liu et.al.|[2507.07769](http://arxiv.org/abs/2507.07769)|null|
