@@ -4001,6 +4001,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Canonical Bayesian Linear System Identification**|Andrey Bryutkin et.al.|[2507.11535](http://arxiv.org/abs/2507.11535)|null|
+|**2025-07-15**|**Class-Proportional Coreset Selection for Difficulty-Separable Data**|Elisa Tsai et.al.|[2507.10904](http://arxiv.org/abs/2507.10904)|null|
+|**2025-07-14**|**Learning to Quantize and Precode in Massive MIMO Systems for Energy Reduction: a Graph Neural Network Approach**|Thomas Feys et.al.|[2507.10634](http://arxiv.org/abs/2507.10634)|null|
+|**2025-07-13**|**A Feed-Forward Artificial Intelligence Pipeline for Sustainable Desalination under Climate Uncertainties: UAE Insights**|Obumneme Nwafor et.al.|[2507.10609](http://arxiv.org/abs/2507.10609)|null|
 |**2025-07-14**|**Compression Method for Deep Diagonal State Space Model Based on $H^2$ Optimal Reduction**|Hiroki Sakamoto et.al.|[2507.10078](http://arxiv.org/abs/2507.10078)|null|
 |**2025-07-14**|**Intersection of Reinforcement Learning and Bayesian Optimization for Intelligent Control of Industrial Processes: A Safe MPC-based DPG using Multi-Objective BO**|Hossein Nejatbakhsh Esfahani et.al.|[2507.09864](http://arxiv.org/abs/2507.09864)|null|
 |**2025-07-13**|**Symptom-Driven Personalized Proton Pump Inhibitors Therapy Using Bayesian Neural Networks and Model Predictive Control**|Yutong Li et.al.|[2507.09685](http://arxiv.org/abs/2507.09685)|null|
