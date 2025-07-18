@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4003,7 +4003,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
 |**2025-07-16**|**RadioDiff-3D: A 3D $\times$ 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication**|Xiucheng Wang et.al.|[2507.12166](http://arxiv.org/abs/2507.12166)|null|
-|**2025-07-15**|**A Roadmap for Climate-Relevant Robotics Research**|Alan Papalia et.al.|[2507.11623](http://arxiv.org/abs/2507.11623)|null|
+|**2025-07-17**|**A Roadmap for Climate-Relevant Robotics Research**|Alan Papalia et.al.|[2507.11623](http://arxiv.org/abs/2507.11623)|null|
 |**2025-07-15**|**Canonical Bayesian Linear System Identification**|Andrey Bryutkin et.al.|[2507.11535](http://arxiv.org/abs/2507.11535)|null|
 |**2025-07-15**|**Class-Proportional Coreset Selection for Difficulty-Separable Data**|Elisa Tsai et.al.|[2507.10904](http://arxiv.org/abs/2507.10904)|null|
 |**2025-07-14**|**Learning to Quantize and Precode in Massive MIMO Systems for Energy Reduction: a Graph Neural Network Approach**|Thomas Feys et.al.|[2507.10634](http://arxiv.org/abs/2507.10634)|null|
