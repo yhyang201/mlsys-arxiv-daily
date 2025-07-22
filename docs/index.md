@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4006,7 +4006,7 @@ layout: default
 |**2025-07-17**|**Model-free Reinforcement Learning for Model-based Control: Towards Safe, Interpretable and Sample-efficient Agents**|Thomas Banker et.al.|[2507.13491](http://arxiv.org/abs/2507.13491)|null|
 |**2025-07-17**|**Leveraging Asynchronous Cross-border Market Data for Improved Day-Ahead Electricity Price Forecasting in European Markets**|Maria Margarida Mascarenhas et.al.|[2507.13250](http://arxiv.org/abs/2507.13250)|null|
 |**2025-07-16**|**Physics constrained learning of stochastic characteristics**|Pardha Sai Krishna Ala et.al.|[2507.12661](http://arxiv.org/abs/2507.12661)|null|
-|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
+|**2025-07-19**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
 |**2025-07-16**|**RadioDiff-3D: A 3D $\times$ 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication**|Xiucheng Wang et.al.|[2507.12166](http://arxiv.org/abs/2507.12166)|null|
 |**2025-07-17**|**A Roadmap for Climate-Relevant Robotics Research**|Alan Papalia et.al.|[2507.11623](http://arxiv.org/abs/2507.11623)|null|
 |**2025-07-15**|**Canonical Bayesian Linear System Identification**|Andrey Bryutkin et.al.|[2507.11535](http://arxiv.org/abs/2507.11535)|null|
