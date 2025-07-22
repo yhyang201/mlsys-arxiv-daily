@@ -4022,6 +4022,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[2507.15601](http://arxiv.org/abs/2507.15601)|null|
+|**2025-07-21**|**Physics-Informed Learning of Proprietary Inverter Models for Grid Dynamic Studies**|Kyung-Bin Kwon et.al.|[2507.15259](http://arxiv.org/abs/2507.15259)|null|
+|**2025-07-20**|**Clustered Federated Learning for Generalizable FDIA Detection in Smart Grids with Heterogeneous Data**|Yunfeng Li et.al.|[2507.14999](http://arxiv.org/abs/2507.14999)|null|
+|**2025-07-20**|**FENIX: Enabling In-Network DNN Inference with FPGA-Enhanced Programmable Switches**|Xiangyu Gao et.al.|[2507.14891](http://arxiv.org/abs/2507.14891)|null|
+|**2025-07-19**|**Beyond the Single-Best Model: Rashomon Partial Dependence Profile for Trustworthy Explanations in AutoML**|Mustafa Cavus et.al.|[2507.14744](http://arxiv.org/abs/2507.14744)|null|
+|**2025-07-18**|**Fail Fast, or Ask: Mitigating the Deficiencies of Reasoning LLMs with Human-in-the-Loop Systems Engineering**|Michael J. Zellinger et.al.|[2507.14406](http://arxiv.org/abs/2507.14406)|null|
+|**2025-07-14**|**Boosted Enhanced Quantile Regression Neural Networks with Spatiotemporal Permutation Entropy for Complex System Prognostics**|David J Poland et.al.|[2507.14194](http://arxiv.org/abs/2507.14194)|null|
+|**2025-07-03**|**Machine learning-enabled river water quality monitoring using lithography-free 3D-printed sensors**|Frank Efe Erukainure et.al.|[2507.14152](http://arxiv.org/abs/2507.14152)|null|
 |**2025-07-18**|**Byzantine-resilient federated online learning for Gaussian process regression**|Xu Zhang et.al.|[2507.14021](http://arxiv.org/abs/2507.14021)|null|
 |**2025-07-18**|**Safety Certification in the Latent space using Control Barrier Functions and World Models**|Mehul Anand et.al.|[2507.13871](http://arxiv.org/abs/2507.13871)|null|
 |**2025-07-17**|**Model-free Reinforcement Learning for Model-based Control: Towards Safe, Interpretable and Sample-efficient Agents**|Thomas Banker et.al.|[2507.13491](http://arxiv.org/abs/2507.13491)|null|
