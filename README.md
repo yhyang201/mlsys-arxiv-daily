@@ -4022,6 +4022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Attacking interpretable NLP systems**|Eldor Abdukhamidov et.al.|[2507.16164](http://arxiv.org/abs/2507.16164)|null|
 |**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[2507.15601](http://arxiv.org/abs/2507.15601)|null|
 |**2025-07-21**|**Physics-Informed Learning of Proprietary Inverter Models for Grid Dynamic Studies**|Kyung-Bin Kwon et.al.|[2507.15259](http://arxiv.org/abs/2507.15259)|null|
 |**2025-07-20**|**Clustered Federated Learning for Generalizable FDIA Detection in Smart Grids with Heterogeneous Data**|Yunfeng Li et.al.|[2507.14999](http://arxiv.org/abs/2507.14999)|null|
