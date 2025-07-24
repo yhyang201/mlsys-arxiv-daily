@@ -4001,6 +4001,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**How Should We Meta-Learn Reinforcement Learning Algorithms?**|Alexander David Goldie et.al.|[2507.17668](http://arxiv.org/abs/2507.17668)|null|
+|**2025-07-23**|**Integrating Physics-Based and Data-Driven Approaches for Probabilistic Building Energy Modeling**|Leandro Von Krannichfeldt et.al.|[2507.17526](http://arxiv.org/abs/2507.17526)|null|
+|**2025-07-22**|**Sensor Drift Compensation in Electronic-Nose-Based Gas Recognition Using Knowledge Distillation**|Juntao Lin et.al.|[2507.17071](http://arxiv.org/abs/2507.17071)|null|
 |**2025-07-22**|**Attacking interpretable NLP systems**|Eldor Abdukhamidov et.al.|[2507.16164](http://arxiv.org/abs/2507.16164)|null|
 |**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[2507.15601](http://arxiv.org/abs/2507.15601)|null|
 |**2025-07-21**|**Physics-Informed Learning of Proprietary Inverter Models for Grid Dynamic Studies**|Kyung-Bin Kwon et.al.|[2507.15259](http://arxiv.org/abs/2507.15259)|null|
